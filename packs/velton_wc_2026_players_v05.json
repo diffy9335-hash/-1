@@ -1,0 +1,2277 @@
+{
+  "format": "velton-offline-1",
+  "season": "2026 World Cup kickoff snapshot",
+  "description": "True names + historical club affiliation at June 2026 tournament, may differ Nov 2026. In-game ratings/wages are fictional.",
+  "clubs": [
+    {
+      "id": "official:ENG_1:14",
+      "league_id": "ENG_1",
+      "name": "Manchester City",
+      "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv (MIT; 2026 World Cup kickoff roster; NOT current 2026/27)",
+      "players": [
+        {
+          "id": "wc2026:805e3b8cb0bfb92406",
+          "name": "Rayan Aït-Nouri",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:b4dfb9c6270a91e320",
+          "name": "Mateo Kovacic",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:f7e9a518820b5aa814",
+          "name": "Omar Marmoush",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:eb33e2b3b1ae28eee7",
+          "name": "Nico O'Reilly",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:bd03fa2523456aaef5",
+          "name": "Marc Guéhi",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:6dfe13ef77e572b8c4",
+          "name": "John Stones",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:09be5f24e1f8bf8969",
+          "name": "Nathan Aké",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:bbf6af2d1d9acbce47",
+          "name": "Tijjani Reijnders",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        }
+      ]
+    },
+    {
+      "id": "official:ENG_1:01",
+      "league_id": "ENG_1",
+      "name": "Arsenal",
+      "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv (MIT; 2026 World Cup kickoff roster; NOT current 2026/27)",
+      "players": [
+        {
+          "id": "wc2026:5f7134aec10c66cd26",
+          "name": "Leandro Trossard",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:a9088f0f7e7ad33f29",
+          "name": "Gabriel",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:e44f43097533a40384",
+          "name": "Gabriel Martinelli",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:a19287ac9c30c1b683",
+          "name": "Piero Hincapié",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:304fb23c91f3e8ccf3",
+          "name": "Jurriën Timber",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:cd4757320f1c2f512c",
+          "name": "Martin Ødegaard",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:9381e717f9fce84585",
+          "name": "Mikel Merino",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        }
+      ]
+    },
+    {
+      "id": "openfootball:f45eba7a4440a458",
+      "league_id": "FRA_1",
+      "name": "Paris Saint-Germain FC",
+      "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv (MIT; 2026 World Cup kickoff roster; NOT current 2026/27)",
+      "players": [
+        {
+          "id": "wc2026:0a8474af3e31685b2f",
+          "name": "Marquinhos",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:8806989c167338f406",
+          "name": "Willian Pacho",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:cd068181a9e6040fee",
+          "name": "Lucas Hernández",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:4bb4a4bf6bddaaff65",
+          "name": "Warren Zaïre-Emery",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:f4a6560e5216f3e3f8",
+          "name": "Désiré Doué",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:e613b431e9830e99c8",
+          "name": "Ousmane Dembélé",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:0f01d4abfa32a3572f",
+          "name": "Bradley Barcola",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:37c2c9b08830a9c2c1",
+          "name": "Achraf Hakimi",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:ff2715d319007564ea",
+          "name": "Nuno Mendes",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:9dd7ac17929e058979",
+          "name": "João Neves",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:8fa2e9f35631fcafbc",
+          "name": "Vitinha",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:197f924829be3207e1",
+          "name": "Gonçalo Ramos",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:9107689162b20b5016",
+          "name": "Kang-in Lee",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:8cab1fae05a070f1af",
+          "name": "Fabián Ruiz",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        }
+      ]
+    },
+    {
+      "id": "verified:ESP_1:06",
+      "league_id": "ESP_1",
+      "name": "FC Barcelona",
+      "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv (MIT; 2026 World Cup kickoff roster; NOT current 2026/27)",
+      "players": [
+        {
+          "id": "wc2026:a524ecea51b1cc4981",
+          "name": "Ferran Torres",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:f0ac52ed2d62f5ae8a",
+          "name": "Ronald Araujo",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        }
+      ]
+    },
+    {
+      "id": "verified:ESP_1:01",
+      "league_id": "ESP_1",
+      "name": "Atlético de Madrid",
+      "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv (MIT; 2026 World Cup kickoff roster; NOT current 2026/27)",
+      "players": [
+        {
+          "id": "wc2026:140afe8a92cd33461b",
+          "name": "Juan Musso",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:b5c1cad7e365fc1996",
+          "name": "Nahuel Molina",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:c236572da4c1654022",
+          "name": "Julián Álvarez",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:c060e4558176c17151",
+          "name": "Giuliano Simeone",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:557d56ff01c89d693a",
+          "name": "Nico González",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:95aa9937a31e4e585c",
+          "name": "Thiago Almada",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:8c509e160d41c8104e",
+          "name": "Obed Vargas",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:e005dc1052ade9d7e9",
+          "name": "Alexander Sørloth",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:eced8631c757ff9e69",
+          "name": "Marc Pubill",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:ccb9d9f3f6279fb7fd",
+          "name": "Marcos Llorente",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:f3bacdda2c312ace5b",
+          "name": "Álex Baena",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:d41c95ec0bba0d5196",
+          "name": "José María Giménez",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        }
+      ]
+    },
+    {
+      "id": "official:ENG_1:07",
+      "league_id": "ENG_1",
+      "name": "Crystal Palace",
+      "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv (MIT; 2026 World Cup kickoff roster; NOT current 2026/27)",
+      "players": [
+        {
+          "id": "wc2026:d81afa965708fc49b4",
+          "name": "Daniel Muñoz",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:cfb72341651727c38e",
+          "name": "Maxence Lacroix",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:799d9d05315a3bdd8a",
+          "name": "Evann Guessand",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:55f3833d688194b08f",
+          "name": "Daichi Kamada",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:0c36695e90a4a8f80d",
+          "name": "Chadi Riad",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:4e5e0f7deb8ac6b75c",
+          "name": "Jørgen Strand Larsen",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        }
+      ]
+    },
+    {
+      "id": "openfootball:083ebf13b4303273",
+      "league_id": "KSA_1",
+      "name": "Al Hilal",
+      "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv (MIT; 2026 World Cup kickoff roster; NOT current 2026/27)",
+      "players": [
+        {
+          "id": "wc2026:2338cc89a762652895",
+          "name": "Theo Hernández",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:3253b50592d05b09f4",
+          "name": "Yassine Bounou",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:6e7470f71693e4a5c8",
+          "name": "Rúben Neves",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:2891f392edb29246b0",
+          "name": "Hassan Tambakti",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:7df571b58c8aef4ac0",
+          "name": "Moteb Al-Harbi",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:686ff0f065605abab5",
+          "name": "Ali Lajami",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:c475d15bd61a6561b4",
+          "name": "Nasser Al-Dawsari",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:07f599cea97739161a",
+          "name": "Mohamed Kanno",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:8e84ce792fd32f0a91",
+          "name": "Salem Al-Dawsari",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:6d4893fd31083f73dd",
+          "name": "Sultan Mandash",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:8ff5b74c5cfb79016f",
+          "name": "Kalidou Koulibaly",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:e699864c22709f2431",
+          "name": "Darwin Núñez",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        }
+      ]
+    },
+    {
+      "id": "verified:GER_1:01",
+      "league_id": "GER_1",
+      "name": "Borussia Dortmund",
+      "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv (MIT; 2026 World Cup kickoff roster; NOT current 2026/27)",
+      "players": [
+        {
+          "id": "wc2026:2d0b82e1dd91ebeea1",
+          "name": "Salih Özcan",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        }
+      ]
+    },
+    {
+      "id": "official:ENG_1:15",
+      "league_id": "ENG_1",
+      "name": "Manchester United",
+      "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv (MIT; 2026 World Cup kickoff roster; NOT current 2026/27)",
+      "players": [
+        {
+          "id": "wc2026:1b00fe23fe5c013c63",
+          "name": "Lisandro Martínez",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:461f0d3db6864cd577",
+          "name": "Casemiro",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:5925dfaf8b4c12744b",
+          "name": "Noussair Mazraoui",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:f4c5de55ef0bb99016",
+          "name": "Altay Bayındır",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:6c212b9525d7f654f9",
+          "name": "Manuel Ugarte",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        }
+      ]
+    },
+    {
+      "id": "official:ENG_1:13",
+      "league_id": "ENG_1",
+      "name": "Liverpool",
+      "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv (MIT; 2026 World Cup kickoff roster; NOT current 2026/27)",
+      "players": [
+        {
+          "id": "wc2026:1d94096e42642a2e0d",
+          "name": "Alisson",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:351461f86710e63766",
+          "name": "Mohamed Salah",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:53316122729c46633e",
+          "name": "Wataru Endo",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:36f1e19a6e2a74f4c1",
+          "name": "Andrew Robertson",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        }
+      ]
+    },
+    {
+      "id": "openfootball:d25a0ec6406b73db",
+      "league_id": "TUR_1",
+      "name": "Galatasaray",
+      "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv (MIT; 2026 World Cup kickoff roster; NOT current 2026/27)",
+      "players": [
+        {
+          "id": "wc2026:7c58c1c6874cf1d393",
+          "name": "Davinson Sánchez",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:f9a8fd90aab20b8d41",
+          "name": "Leroy Sané",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:dac5b4a47f978f2995",
+          "name": "Wilfried Singo",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:66a9d879e0b115ad36",
+          "name": "Noa Lang",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:bfe6e831f16db848d9",
+          "name": "Ismail Jakobs",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:d189d31fb5c2fdb1fe",
+          "name": "Uğurcan Çakır",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:abf4bdc7543c8bde20",
+          "name": "Abdülkerim Bardakcı",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:c13b3c0c0a5e924716",
+          "name": "Eren Elmalı",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:fee68b5217aca42596",
+          "name": "Kaan Ayhan",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:c01f60431f83a821c1",
+          "name": "Barış Alper Yılmaz",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:ac669b428f63fce9da",
+          "name": "Yunus Akgün",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        }
+      ]
+    },
+    {
+      "id": "verified:ESP_1:15",
+      "league_id": "ESP_1",
+      "name": "Real Madrid",
+      "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv (MIT; 2026 World Cup kickoff roster; NOT current 2026/27)",
+      "players": [
+        {
+          "id": "wc2026:5385a2f02ede5e63eb",
+          "name": "David Alaba",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        }
+      ]
+    },
+    {
+      "id": "openfootball:5554c4e8436c6999",
+      "league_id": "NED_1",
+      "name": "PSV",
+      "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv (MIT; 2026 World Cup kickoff roster; NOT current 2026/27)",
+      "players": [
+        {
+          "id": "wc2026:9b2bb961d1e3c8477f",
+          "name": "Paul Wanner",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:cc0a3ceda1a9ebb937",
+          "name": "Esmir Bajraktarevic",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:a0eb769f636a85f9ba",
+          "name": "Ivan Perišić",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:90e0bd9c5baf07f124",
+          "name": "Armando Obispo",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:42cb981d4a3ca8d030",
+          "name": "Matej Kovar",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:0469ed78f222b02f39",
+          "name": "Anass Salah-Eddine",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:ae385c8f071fa315f4",
+          "name": "Guus Til",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:4dd09068ef92c3c20f",
+          "name": "Sergiño Dest",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:d47e27d79e257138eb",
+          "name": "Ricardo Pepi",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        }
+      ]
+    },
+    {
+      "id": "verified:ITA_1:11",
+      "league_id": "ITA_1",
+      "name": "Milan",
+      "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv (MIT; 2026 World Cup kickoff roster; NOT current 2026/27)",
+      "players": [
+        {
+          "id": "wc2026:902de6f774c0f4a54f",
+          "name": "Koni De Winter",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:399cefe01dbcbaeba9",
+          "name": "Alexis Saelemaekers",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:2a17e56c96520c84b2",
+          "name": "Luka Modrić",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:0781ef3edfaf4ad144",
+          "name": "Pervis Estupiñán",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:619048650505c43354",
+          "name": "Mike Maignan",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:9e6f9d603f0295f73c",
+          "name": "Adrien Rabiot",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:4e0911620b2eab1f47",
+          "name": "Santiago Gimenez",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:4339ad2a287e196e32",
+          "name": "Rafael Leão",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:b32a049b6492716ba0",
+          "name": "Ardon Jashari",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:61fdf66ba8a0432e9f",
+          "name": "Christian Pulisic",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        }
+      ]
+    },
+    {
+      "id": "openfootball:2a21951d9d8df8cd",
+      "league_id": "TUR_1",
+      "name": "Fenerbahçe",
+      "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv (MIT; 2026 World Cup kickoff roster; NOT current 2026/27)",
+      "players": [
+        {
+          "id": "wc2026:963e3959244fd21f38",
+          "name": "Ederson",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:c829188ef2a1b295cf",
+          "name": "N'Golo Kanté",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:9db8a0cae02b284fc0",
+          "name": "Edson Álvarez",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:55872d5cbd85c200fc",
+          "name": "Nélson Semedo",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:8e31419f562f4582e0",
+          "name": "Mert Günok",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:416d2f8c8396431636",
+          "name": "Mert Müldür",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:24deb5b68f88bc2b37",
+          "name": "Çağlar Söyüncü",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:a42d5ae2c6930f37c5",
+          "name": "İsmail Yüksek",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:176d0c72c74ec0bca3",
+          "name": "Kerem Aktürkoğlu",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:d16fc855b2ba2c2301",
+          "name": "Oğuz Aydın",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        }
+      ]
+    },
+    {
+      "id": "openfootball:307945e0193b90b4",
+      "league_id": "CZE_1",
+      "name": "Slavia Praha",
+      "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv (MIT; 2026 World Cup kickoff roster; NOT current 2026/27)",
+      "players": [
+        {
+          "id": "wc2026:c8fc13f8c43b3830fd",
+          "name": "Jindrich Stanek",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:e6bb676aecd46b5eab",
+          "name": "Stepan Chaloupek",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:ac7522b775e76a838a",
+          "name": "David Zima",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:e039582a334f4f5976",
+          "name": "David Jurásek",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:71122402301e9189c5",
+          "name": "Tomas Holes",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:34e0dd31057d87664d",
+          "name": "Michal Sadílek",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:a797300ddb031a105a",
+          "name": "David Doudera",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:9ec2b0c54f3cc72bec",
+          "name": "Lukas Provod",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:cee631a032c3e9b7e3",
+          "name": "Mojmír Chytil",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:6d1b12d0d47f1a81bf",
+          "name": "Tomas Chory",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        }
+      ]
+    },
+    {
+      "id": "openfootball:e808fbc7d71db3f5",
+      "league_id": "KSA_1",
+      "name": "Al Ahli SFC",
+      "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv (MIT; 2026 World Cup kickoff roster; NOT current 2026/27)",
+      "players": [
+        {
+          "id": "wc2026:94fad255e365bc8380",
+          "name": "Riyad Mahrez",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:e0f7493e3a6c01c619",
+          "name": "Roger Ibañez",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:f4befa43045c2bce2e",
+          "name": "Ivan Toney",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:fc2f8741d04cc27b3e",
+          "name": "Franck Kessié",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:a1788e356ec7155b28",
+          "name": "Ali Majrashi",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:b0e1085b2c23613399",
+          "name": "Ziyad Al-Johani",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:be4b88322866c4ef57",
+          "name": "Firas Al-Buraikan",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:e374eb77297a1f2b3d",
+          "name": "Edouard Mendy",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:d4a5a8eed216748819",
+          "name": "Merih Demiral",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        }
+      ]
+    },
+    {
+      "id": "official:ENG_1:02",
+      "league_id": "ENG_1",
+      "name": "Aston Villa",
+      "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv (MIT; 2026 World Cup kickoff roster; NOT current 2026/27)",
+      "players": [
+        {
+          "id": "wc2026:bdc40128631ef1141a",
+          "name": "Amadou Onana",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:9a159b31de796e44cc",
+          "name": "Youri Tielemans",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:b2123c2e64a7a3fa9e",
+          "name": "Ezri Konsa",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:3b2ed76b4edf583107",
+          "name": "Morgan Rogers",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:41cb51397066765564",
+          "name": "Ollie Watkins",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:c0d21350606d52f00f",
+          "name": "Lucas Digne",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:c9c521bc9e77d9df5c",
+          "name": "Victor Lindelöf",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        }
+      ]
+    },
+    {
+      "id": "openfootball:f38b279f1e404d37",
+      "league_id": "BRA_1",
+      "name": "CR Flamengo",
+      "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv (MIT; 2026 World Cup kickoff roster; NOT current 2026/27)",
+      "players": [
+        {
+          "id": "wc2026:2c972b9a42b450fd0e",
+          "name": "Léo Pereira",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:65801e3e4b01a86fbf",
+          "name": "Danilo",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:b584d60b0d7080e1c3",
+          "name": "Alex Sandro",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:b387adcbf91c26c881",
+          "name": "Lucas Paquetá",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:6d4aa4660c5dec7839",
+          "name": "Jorge Carrascal",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:87842919e858b78ef0",
+          "name": "Gonzalo Plata",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:9e269493612cb95107",
+          "name": "Guillermo Varela",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:6ffab0467b9b463ddb",
+          "name": "Giorgian de Arrascaeta",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:b8d488dfa2b33ab3f2",
+          "name": "Nicolás de la Cruz",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        }
+      ]
+    },
+    {
+      "id": "official:ENG_1:18",
+      "league_id": "ENG_1",
+      "name": "Sunderland",
+      "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv (MIT; 2026 World Cup kickoff roster; NOT current 2026/27)",
+      "players": [
+        {
+          "id": "wc2026:467fab77c1e5b07927",
+          "name": "Noah Sadiki",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:e06517bc9b3a28625a",
+          "name": "Nilson Angulo",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:2b4e2bfd43fb36c85d",
+          "name": "Omar Alderete",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        }
+      ]
+    },
+    {
+      "id": "openfootball:25adc112930e3859",
+      "league_id": "EGY_1",
+      "name": "Al Ahly SC",
+      "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv (MIT; 2026 World Cup kickoff roster; NOT current 2026/27)",
+      "players": [
+        {
+          "id": "wc2026:506422b73add04c686",
+          "name": "Oufa Shobeir",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:fb5bce632193cb41c5",
+          "name": "Mohamed El Shenawy",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:3c6bcf5ca55e472595",
+          "name": "Mohamed Hany",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:a24d5479334b1277a3",
+          "name": "Yasser Ibrahim",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:61a515091b155ac28b",
+          "name": "Emam Ashour",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:ff765b1f1d36a7b884",
+          "name": "Marwan Ateya",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:c1639fd11160f335a7",
+          "name": "Trezeguet",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:4f15297d8921206554",
+          "name": "Zizo",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:0a62a2de04fc39d8cb",
+          "name": "Youssef Belammari",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        }
+      ]
+    },
+    {
+      "id": "openfootball:94d2c8e6885b2b89",
+      "league_id": "KSA_1",
+      "name": "Al Nassr",
+      "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv (MIT; 2026 World Cup kickoff roster; NOT current 2026/27)",
+      "players": [
+        {
+          "id": "wc2026:9fde0d811671021d9f",
+          "name": "João Félix",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:4704e3dcb57191b69d",
+          "name": "Cristiano Ronaldo",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:a72120f01e0ef8ae9b",
+          "name": "Nawaf Al-Aqidi",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:cc66cc665edca982cb",
+          "name": "Abdulelah Al-Amri",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:5152312b6fff0e1a57",
+          "name": "Nawaf Boushal",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:8c85be16eb0185b474",
+          "name": "Ayman Yahya",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:c1682678198507d514",
+          "name": "Abdullah Al-Khaibari",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:29af2f8a39b547a78e",
+          "name": "Abdullah Al-Hamdan",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:c6bbdac60c6bf91eed",
+          "name": "Sadio Mané",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        }
+      ]
+    },
+    {
+      "id": "openfootball:d597ab1399e9b96a",
+      "league_id": "FRA_1",
+      "name": "Lille OSC",
+      "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv (MIT; 2026 World Cup kickoff roster; NOT current 2026/27)",
+      "players": [
+        {
+          "id": "wc2026:991ab01d8baa934b6d",
+          "name": "Aïssa Mandi",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:11d92462c15e258ea5",
+          "name": "Nabil Bentaleb",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:4af21ce3b1fc6dfbbd",
+          "name": "Nathan Ngoy",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:bb57281ede5e94cff7",
+          "name": "Thomas Meunier",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:67fb4791f8d40f3a1e",
+          "name": "Matias Fernandez-Pardo",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:55510eae3d41e39329",
+          "name": "Chancel Mbemba",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:bc6b69c63cd2587f85",
+          "name": "Ngal'ayel Mukau",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:d018c56bd986f6b0f9",
+          "name": "Ayyoub Bouaddi",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        }
+      ]
+    },
+    {
+      "id": "verified:GER_1:07",
+      "league_id": "GER_1",
+      "name": "Eintracht Frankfurt",
+      "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv (MIT; 2026 World Cup kickoff roster; NOT current 2026/27)",
+      "players": [
+        {
+          "id": "wc2026:f214ee2950b0c9e78c",
+          "name": "Farès Chaïbi",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:086c5e3b5d1f1ac5f3",
+          "name": "Arthur Theate",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:3c0e4cbdea0e5c58ac",
+          "name": "Ritsu Doan",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:8fa963c97b0f68d3b9",
+          "name": "Ayoube Amaimouni-Echghouyab",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:563056b49c2d737a2c",
+          "name": "Aurèle Amenda",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:f7eec39c127472f763",
+          "name": "Ellyes Skhiri",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:293d6f6916fbefce0d",
+          "name": "Can Uzun",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        }
+      ]
+    },
+    {
+      "id": "openfootball:4247eb65543c6ed4",
+      "league_id": "FRA_1",
+      "name": "OGC Nice",
+      "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv (MIT; 2026 World Cup kickoff roster; NOT current 2026/27)",
+      "players": [
+        {
+          "id": "wc2026:84c5f3b1edeaef6846",
+          "name": "Hicham Boudaoui",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:8f457ae14031457616",
+          "name": "Moïse Bombito",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:3f67201018a3290218",
+          "name": "Mohamed Abdelmonem",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:20e68a641d5a240151",
+          "name": "Kojo Peprah Oppong",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:8d1a0395ce6d45e17b",
+          "name": "Elye Wahi",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:393af6fc74cc32f6b3",
+          "name": "Yehvann Diouf",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:2586396a5b2d469846",
+          "name": "Antoine Mendy",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:6fbfcc9777c2eb4d53",
+          "name": "Ali Abdi",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        }
+      ]
+    },
+    {
+      "id": "official:ENG_1:19",
+      "league_id": "ENG_1",
+      "name": "Tottenham Hotspur",
+      "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv (MIT; 2026 World Cup kickoff roster; NOT current 2026/27)",
+      "players": [
+        {
+          "id": "wc2026:0217393645cf6b3641",
+          "name": "Cristian Romero",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:c6b8755ee8efc00fcb",
+          "name": "Kevin Danso",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:d919dd131c9708144f",
+          "name": "Djed Spence",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:7c40832b53d6568fc4",
+          "name": "Micky van de Ven",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:8b001241b65abaa1fb",
+          "name": "Pape Matar Sarr",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:d8a4ddc41cc4dcf8e9",
+          "name": "Rodrigo Bentancur",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        }
+      ]
+    },
+    {
+      "id": "openfootball:9806c80797fd8b1f",
+      "league_id": "POR_1",
+      "name": "Sport Lisboa e Benfica",
+      "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv (MIT; 2026 World Cup kickoff roster; NOT current 2026/27)",
+      "players": [
+        {
+          "id": "wc2026:276c56322f88907dd0",
+          "name": "Nicolás Otamendi",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:654e0ceadbfc7ccf1b",
+          "name": "Dodi Lukébakio",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:8af514ef77adc63787",
+          "name": "Amar Dedić",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:447ecef477355cb22c",
+          "name": "Sidny Lopes Cabral",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:9ddd44a44003b80252",
+          "name": "Richard Ríos",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:6e5d5f41dd8a0cc378",
+          "name": "Fredrik Aursnes",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:536f8e663f4a779c9d",
+          "name": "Andreas Schjelderup",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:a26e1f19b4c1b4c100",
+          "name": "Tomás Araújo",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        }
+      ]
+    },
+    {
+      "id": "official:ENG_1:05",
+      "league_id": "ENG_1",
+      "name": "Chelsea",
+      "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv (MIT; 2026 World Cup kickoff roster; NOT current 2026/27)",
+      "players": [
+        {
+          "id": "wc2026:e00708be7c5a2df90e",
+          "name": "Jorrel Hato",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:35436119351582a9ea",
+          "name": "Mamadou Sarr",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        }
+      ]
+    },
+    {
+      "id": "verified:GER_1:04",
+      "league_id": "GER_1",
+      "name": "TSG Hoffenheim",
+      "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv (MIT; 2026 World Cup kickoff roster; NOT current 2026/27)",
+      "players": [
+        {
+          "id": "wc2026:9b2867cc5c7a9d649b",
+          "name": "Alexander Prass",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:c752dd50b97befede1",
+          "name": "Andrej Kramaric",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:d23312271ee3e6c7d9",
+          "name": "Robin Hranac",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:60dc84aa53892e511e",
+          "name": "Vladimír Coufal",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:bee79df47aac97be0a",
+          "name": "Adam Hlozek",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:d1a948c322171eda30",
+          "name": "Oliver Baumann",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:cffc111d06ced05576",
+          "name": "Bazoumana Touré",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:c77bc99451d1ae06f9",
+          "name": "Ozan Kabak",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        }
+      ]
+    },
+    {
+      "id": "official:ENG_1:04",
+      "league_id": "ENG_1",
+      "name": "Brighton & Hove Albion",
+      "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv (MIT; 2026 World Cup kickoff roster; NOT current 2026/27)",
+      "players": [
+        {
+          "id": "wc2026:27cd97cf8c77a25754",
+          "name": "Maxim De Cuyper",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:f2d84bab081fd15b4e",
+          "name": "Pascal Groß",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:3e571a13cfbed6e8ab",
+          "name": "Bart Verbruggen",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:8c2ba0c1d8f40e224d",
+          "name": "Jan Paul van Hecke",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:13ff0927242f2315c7",
+          "name": "Mats Wieffer",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:3789bb7559b286cb47",
+          "name": "Diego Gómez",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:2bf76ca4114276cadd",
+          "name": "Yasin Ayari",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:e01955356250e90662",
+          "name": "Ferdi Kadıoğlu",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        }
+      ]
+    },
+    {
+      "id": "verified:GER_1:03",
+      "league_id": "GER_1",
+      "name": "VfB Stuttgart",
+      "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv (MIT; 2026 World Cup kickoff roster; NOT current 2026/27)",
+      "players": [
+        {
+          "id": "wc2026:08e07ede027bb84d49",
+          "name": "Ermedin Demirovic",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:5c1bd3f6116ec4c63b",
+          "name": "Jeremy Arévalo",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:70ecf45f7f8ca42b40",
+          "name": "Alexander Nübel",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:6aa85dbdef06ff504e",
+          "name": "Angelo Stiller",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:8c1bef6edca8e8a6b5",
+          "name": "Jamie Leweling",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:30bf1dd9aa3ab4bf68",
+          "name": "Deniz Undav",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:4d117038983e6b7252",
+          "name": "Bilal El Khannouss",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:637e9e6af5bf29a2e9",
+          "name": "Luca Jaquez",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        }
+      ]
+    },
+    {
+      "id": "official:ENG_1:16",
+      "league_id": "ENG_1",
+      "name": "Newcastle United",
+      "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv (MIT; 2026 World Cup kickoff roster; NOT current 2026/27)",
+      "players": [
+        {
+          "id": "wc2026:91214cae1137419314",
+          "name": "Bruno Guimarães",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:d69d996516b87623dc",
+          "name": "Malick Thiaw",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:376464d2a46b96394d",
+          "name": "Nick Woltemade",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        }
+      ]
+    },
+    {
+      "id": "openfootball:432aea464e5c1b85",
+      "league_id": "SCO_1",
+      "name": "Celtic FC",
+      "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv (MIT; 2026 World Cup kickoff roster; NOT current 2026/27)",
+      "players": [
+        {
+          "id": "wc2026:06e567f410664107b3",
+          "name": "Alistair Johnston",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:6d2589741ed00d57d1",
+          "name": "Kieran Tierney",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:af03ebfbd267c3e6fc",
+          "name": "Anthony Ralston",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:6d0fb307427d6f76b2",
+          "name": "Hyun-jun Yang",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:2fb768953a582dad98",
+          "name": "Benjamin Nygren",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:4e7fdebfb790d8b30d",
+          "name": "Sebastian Tounekti",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:dc2150d0fd20494ffd",
+          "name": "Auston Trusty",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        }
+      ]
+    },
+    {
+      "id": "verified:ESP_1:19",
+      "league_id": "ESP_1",
+      "name": "Villarreal CF",
+      "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv (MIT; 2026 World Cup kickoff roster; NOT current 2026/27)",
+      "players": [
+        {
+          "id": "wc2026:ccfcecb74fbd89410f",
+          "name": "Tajon Buchanan",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:f5eb5d96fd7a6a1e85",
+          "name": "Tani Oluwaseyi",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:7b20ffc6b477859e7a",
+          "name": "Logan Costa",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:c2b22d46f436224e71",
+          "name": "Thomas Partey",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:fa9fe856c333e6c2ff",
+          "name": "Nicolas Pépé",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:d8b0cdc593db679359",
+          "name": "Renato Veiga",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:0563dfbe7b7314b6b9",
+          "name": "Pape Gueye",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:e3aabc09400067117d",
+          "name": "Alex Freeman",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        }
+      ]
+    },
+    {
+      "id": "verified:GER_1:05",
+      "league_id": "GER_1",
+      "name": "Bayer 04 Leverkusen",
+      "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv (MIT; 2026 World Cup kickoff roster; NOT current 2026/27)",
+      "players": [
+        {
+          "id": "wc2026:7baa27664c960ed34c",
+          "name": "Ibrahim Maza",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:ee121466f0ceead4a2",
+          "name": "Exequiel Palacios",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:5764abb5625cfa034c",
+          "name": "Patrik Schick",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:3992da4bfe8dca9c3d",
+          "name": "Jarell Quansah",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:071d6939ee5812b453",
+          "name": "Mark Flekken",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:3bdf16adbdbf20a644",
+          "name": "Alejandro Grimaldo",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:e0c2fe6991a794dc50",
+          "name": "Malik Tillman",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        }
+      ]
+    },
+    {
+      "id": "openfootball:e85be7d2a6d4991c",
+      "league_id": "FRA_1",
+      "name": "Olympique de Marseille",
+      "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv (MIT; 2026 World Cup kickoff roster; NOT current 2026/27)",
+      "players": [
+        {
+          "id": "wc2026:c7f4b0c0a85e0a7ea4",
+          "name": "Amine Gouiri",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:5fb8801d9664d282b7",
+          "name": "Gerónimo Rulli",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:563929fd0d9f2b7439",
+          "name": "Facundo Medina",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:a50cf892e7dc26680b",
+          "name": "Derek Cornelius",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:0d2f557ec36f83d7a2",
+          "name": "Nayef Aguerd",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:bfb0db42e7e07e855f",
+          "name": "Quinten Timber",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:c92bbd4da00853d861",
+          "name": "Timothy Weah",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        }
+      ]
+    },
+    {
+      "id": "openfootball:5408aaec817ca505",
+      "league_id": "FRA_1",
+      "name": "RC Strasbourg Alsace",
+      "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv (MIT; 2026 World Cup kickoff roster; NOT current 2026/27)",
+      "players": [
+        {
+          "id": "wc2026:276c582c8dab92d964",
+          "name": "Valentín Barco",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:4e1aacb8208f84b2c6",
+          "name": "Mike Penders",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:76db5b9a3b7dae27c3",
+          "name": "Diego Moreira",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:91e05dca6426cd6f2d",
+          "name": "Guéla Doué",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:2919bf8b3a1d621337",
+          "name": "Samir El Mourabet",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:e928bf69ff00dbcf3c",
+          "name": "Gessime Yassine",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        }
+      ]
+    },
+    {
+      "id": "verified:ESP_1:14",
+      "league_id": "ESP_1",
+      "name": "Real Betis",
+      "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv (MIT; 2026 World Cup kickoff roster; NOT current 2026/27)",
+      "players": [
+        {
+          "id": "wc2026:950ce5949a46b09775",
+          "name": "Giovani Lo Celso",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:d266cca6e12aaf78d9",
+          "name": "Cucho Hernández",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:3dc722977f739dda3d",
+          "name": "Cédric Bakambu",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:7e4229c8d7189552ab",
+          "name": "Álvaro Fidalgo",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:c252e396202dc569a0",
+          "name": "Sofyan Amrabat",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:e7183017c0e7b26e50",
+          "name": "Abde Ezzalzouli",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:d977eccd5204286196",
+          "name": "Ricardo Rodríguez",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        }
+      ]
+    },
+    {
+      "id": "verified:ITA_1:07",
+      "league_id": "ITA_1",
+      "name": "Inter",
+      "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv (MIT; 2026 World Cup kickoff roster; NOT current 2026/27)",
+      "players": [
+        {
+          "id": "wc2026:2f723210444d5c672c",
+          "name": "Lautaro Martínez",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:34e049ae66a5b34ef8",
+          "name": "Petar Sučić",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:eeb0d54df895be7a05",
+          "name": "Marcus Thuram",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:85b32dc9b56bb5aa0d",
+          "name": "Ange-Yoan Bonny",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:a2223cb3b9aabba6aa",
+          "name": "Manuel Akanji",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:07a408cd390e46fff7",
+          "name": "Hakan Çalhanoğlu",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        }
+      ]
+    },
+    {
+      "id": "openfootball:be8fc6e5a0e4a51d",
+      "league_id": "POR_1",
+      "name": "Sporting Clube de Portugal",
+      "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv (MIT; 2026 World Cup kickoff roster; NOT current 2026/27)",
+      "players": [
+        {
+          "id": "wc2026:ece51b1c59dc11672c",
+          "name": "Zeno Debast",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:cef8d48ddfccf5bf6f",
+          "name": "Luis Suárez",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:86a8b5c96ecfda9824",
+          "name": "Ousmane Diomande",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:0e37b04a28c2274368",
+          "name": "Rui Silva",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:d569b5003d929771f5",
+          "name": "Gonçalo Inácio",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:33484abec587451e6f",
+          "name": "Francisco Trincão",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:ab6c25787f2949fbf9",
+          "name": "Maxi Araújo",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        }
+      ]
+    },
+    {
+      "id": "verified:ITA_1:00",
+      "league_id": "ITA_1",
+      "name": "Atalanta",
+      "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv (MIT; 2026 World Cup kickoff roster; NOT current 2026/27)",
+      "players": [
+        {
+          "id": "wc2026:aa946c54e97c0a6397",
+          "name": "Charles De Ketelaere",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:53374cb8b4fa24f8c3",
+          "name": "Sead Kolasinac",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:41520ee3ea07d58a13",
+          "name": "Mario Pašalić",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:4c1ed8eb71133c3784",
+          "name": "Kamaldeen Sulemana",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:62f0e9fa04ce449549",
+          "name": "Odilon Kossounou",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:8dd6144dafe818946b",
+          "name": "Marten de Roon",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:d1572c437f865a3818",
+          "name": "Isak Hien",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        }
+      ]
+    },
+    {
+      "id": "verified:GER_1:09",
+      "league_id": "GER_1",
+      "name": "1. FSV Mainz 05",
+      "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv (MIT; 2026 World Cup kickoff roster; NOT current 2026/27)",
+      "players": [
+        {
+          "id": "wc2026:29efa13217ae504664",
+          "name": "Stefan Posch",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:8d386c34c0c876380f",
+          "name": "Phillipp Mwene",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:a1782df85fa9ba9450",
+          "name": "Nadiem Amiri",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:6d645a8178af1f4438",
+          "name": "Kaishu Sano",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:2a5c8e9357acfc9a88",
+          "name": "Jae-sung Lee",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:3eba586767dec037be",
+          "name": "Silvan Widmer",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        }
+      ]
+    },
+    {
+      "id": "verified:GER_1:02",
+      "league_id": "GER_1",
+      "name": "RB Leipzig",
+      "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv (MIT; 2026 World Cup kickoff roster; NOT current 2026/27)",
+      "players": [
+        {
+          "id": "wc2026:665ccd1fcf924962bc",
+          "name": "Nicolas Seiwald",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:9e167f875d90aa1c2c",
+          "name": "Xaver Schlager",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:e82ee62c5a31ccb632",
+          "name": "David Raum",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:e25ebc740f7188b4d0",
+          "name": "Assan Ouédraogo",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:c7aa8fab129e61e461",
+          "name": "Antonio Nusa",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        }
+      ]
+    },
+    {
+      "id": "official:ENG_1:09",
+      "league_id": "ENG_1",
+      "name": "Fulham",
+      "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv (MIT; 2026 World Cup kickoff roster; NOT current 2026/27)",
+      "players": [
+        {
+          "id": "wc2026:598dd4125b9a221d68",
+          "name": "Timothy Castagne",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:f2bbcdf2ba4ae4d5a6",
+          "name": "Raúl Jiménez",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:ba9a7164d74d853673",
+          "name": "Issa Diop",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        }
+      ]
+    },
+    {
+      "id": "verified:ITA_1:15",
+      "league_id": "ITA_1",
+      "name": "Roma",
+      "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv (MIT; 2026 World Cup kickoff roster; NOT current 2026/27)",
+      "players": [
+        {
+          "id": "wc2026:1eac056293e55de878",
+          "name": "Wesley",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:5e2cb9bd855f3b8876",
+          "name": "Manu Koné",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:9f8b52d2e84046324a",
+          "name": "Evan Ndicka",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:4f9e3b06fa78c26f25",
+          "name": "Neil El Aynaoui",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:2651cf3e71e4721af5",
+          "name": "Donyell Malen",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:af51a6b158c961c2aa",
+          "name": "Zeki Çelik",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        }
+      ]
+    },
+    {
+      "id": "verified:ITA_1:08",
+      "league_id": "ITA_1",
+      "name": "Juventus",
+      "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv (MIT; 2026 World Cup kickoff roster; NOT current 2026/27)",
+      "players": [
+        {
+          "id": "wc2026:c107e3631bef403af2",
+          "name": "Bremer",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:890065894024685470",
+          "name": "Jonathan David",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:3cf18e635ccc5f9db7",
+          "name": "Teun Koopmeiners",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:241ffb5a78a8cf1131",
+          "name": "Francisco Conceição",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:f9dc7324dfd43911ba",
+          "name": "Kenan Yıldız",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:d37bcf606deb5adde7",
+          "name": "Weston McKennie",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        }
+      ]
+    },
+    {
+      "id": "openfootball:8d31b14723fe189c",
+      "league_id": "FRA_1",
+      "name": "AS Monaco FC",
+      "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv (MIT; 2026 World Cup kickoff roster; NOT current 2026/27)",
+      "players": [
+        {
+          "id": "wc2026:10d291cbd6fdec0bb9",
+          "name": "Maghnes Akliouche",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:ccf151a070b209de3f",
+          "name": "Simon Adingra",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:cfcc4fdd3c2d8e32b6",
+          "name": "Lamine Camara",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:dde2836fdaccd635a4",
+          "name": "Krépin Diatta",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:3e3f293164a3e753f6",
+          "name": "Denis Zakaria",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:320e18afba7a26ea00",
+          "name": "Folarin Balogun",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        }
+      ]
+    },
+    {
+      "id": "openfootball:0a6ea92510f93c70",
+      "league_id": "BEL_1",
+      "name": "Club Brugge KV",
+      "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv (MIT; 2026 World Cup kickoff roster; NOT current 2026/27)",
+      "players": [
+        {
+          "id": "wc2026:3187475d214dd26cbc",
+          "name": "Joaquin Seys",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:aae76a2c59bf41e300",
+          "name": "Brandon Mechele",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:110d71169a4cd82844",
+          "name": "Hans Vanaken",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:60851a09cbec1d8fd4",
+          "name": "Joel Ordóñez",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:9d6e3456972ec9b896",
+          "name": "Gustaf Nilsson",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        }
+      ]
+    },
+    {
+      "id": "openfootball:990a6ad00d643c5b",
+      "league_id": "SCO_1",
+      "name": "Rangers FC",
+      "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv (MIT; 2026 World Cup kickoff roster; NOT current 2026/27)",
+      "players": [
+        {
+          "id": "wc2026:4b17925d806287b699",
+          "name": "Nicolas Raskin",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:a31cce77e3818c33eb",
+          "name": "Thelo Aasgaard",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:b822f728acfe60450d",
+          "name": "Liam Kelly",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:1f87ee32ca8ac7532c",
+          "name": "John Souttar",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:a197a67c7c172951b9",
+          "name": "Findlay Curtis",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        }
+      ]
+    },
+    {
+      "id": "verified:GER_1:11",
+      "league_id": "GER_1",
+      "name": "Borussia Mönchengladbach",
+      "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv (MIT; 2026 World Cup kickoff roster; NOT current 2026/27)",
+      "players": [
+        {
+          "id": "wc2026:192baf0eee36819534",
+          "name": "Haris Tabakovic",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:6ffbddd4e9fe4dcb67",
+          "name": "Jens Castrop",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:7a8056d8897292ae0c",
+          "name": "Nico Elvedi",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:756b45c471d8527bb5",
+          "name": "Joe Scally",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:e98962a43f27911840",
+          "name": "Giovanni Reyna",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        }
+      ]
+    },
+    {
+      "id": "official:ENG_1:00",
+      "league_id": "ENG_1",
+      "name": "AFC Bournemouth",
+      "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv (MIT; 2026 World Cup kickoff roster; NOT current 2026/27)",
+      "players": [
+        {
+          "id": "wc2026:62a38599fc17659b4b",
+          "name": "Rayan",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:e86049fc254b28ea86",
+          "name": "Justin Kluivert",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:31eacc7bd0d4e04834",
+          "name": "Ryan Christie",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:3b169ced20eeaa1dc7",
+          "name": "Ben Gannon-Doak",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:9c9fc811e33e47adfb",
+          "name": "Tyler Adams",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        }
+      ]
+    },
+    {
+      "id": "verified:ITA_1:01",
+      "league_id": "ITA_1",
+      "name": "Bologna",
+      "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv (MIT; 2026 World Cup kickoff roster; NOT current 2026/27)",
+      "players": [
+        {
+          "id": "wc2026:b0a10abcd44767bb67",
+          "name": "Jhon Lucumí",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:b8d954a6eca51a6d56",
+          "name": "Nikola Moro",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:93a76e216c19824618",
+          "name": "Torbjørn Heggem",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:31fe3187af788ee0cc",
+          "name": "Lewis Ferguson",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:01bf23b8a2e0189df1",
+          "name": "Remo Freuler",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        }
+      ]
+    },
+    {
+      "id": "verified:ESP_1:16",
+      "league_id": "ESP_1",
+      "name": "Real Sociedad",
+      "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv (MIT; 2026 World Cup kickoff roster; NOT current 2026/27)",
+      "players": [
+        {
+          "id": "wc2026:c5b236ee0baa2707cd",
+          "name": "Duje Caleta-Car",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:b9602f21ece4dd8982",
+          "name": "Luka Sucic",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:ccb95776df3079e326",
+          "name": "Takefusa Kubo",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:c53e6e7f09b46cdfb1",
+          "name": "Gonçalo Guedes",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:c63bd450bce38c67cb",
+          "name": "Mikel Oyarzabal",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        }
+      ]
+    },
+    {
+      "id": "openfootball:99dcf6848d8464f7",
+      "league_id": "EGY_1",
+      "name": "Pyramids FC",
+      "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv (MIT; 2026 World Cup kickoff roster; NOT current 2026/27)",
+      "players": [
+        {
+          "id": "wc2026:87d47a4404dad7d168",
+          "name": "Fiston Mayele",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:62fc2ee6b3849d3cd2",
+          "name": "Karim Hafez",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:4edf5a9018915f1ae3",
+          "name": "Mohanad Lasheen",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:51721844ac4a76e782",
+          "name": "Mostafa Ziko",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:7ab95fe0cec48f7f08",
+          "name": "Odeh Fakhoury",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        }
+      ]
+    },
+    {
+      "id": "official:ENG_1:17",
+      "league_id": "ENG_1",
+      "name": "Nottingham Forest",
+      "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv (MIT; 2026 World Cup kickoff roster; NOT current 2026/27)",
+      "players": [
+        {
+          "id": "wc2026:9e843a5b716f9f8616",
+          "name": "Elliot Anderson",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:472cf151df326c89ff",
+          "name": "Angus Gunn",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        },
+        {
+          "id": "wc2026:0b18e6048a80425454",
+          "name": "Dan Ndoye",
+          "source": "https://github.com/ericsanmiguel/football_elo/blob/main/data/squads/2026.csv; roster at tournament kickoff June 2026"
+        }
+      ]
+    }
+  ]
+}

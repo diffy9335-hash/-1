@@ -1,0 +1,3682 @@
+{
+  "format": "velton-offline-1",
+  "season": "2025–2026 mixed snapshots",
+  "description": "Sourced club identities from official league websites, FFF, SPFL, J.League, OpenFootball; no fabricated players; mixed season provenance, not a single contemporaneous roster.",
+  "clubs": [
+    {
+      "id": "v06:f26f4447e34c5f4a59",
+      "league_id": "USA_2",
+      "name": "Birmingham Legion FC",
+      "source": "Real club; 2026 participant snapshot; https://www.uslchampionship.com/about",
+      "players": []
+    },
+    {
+      "id": "v06:884eac7411a9b0371e",
+      "league_id": "USA_2",
+      "name": "Brooklyn FC",
+      "source": "Real club; 2026 participant snapshot; https://www.uslchampionship.com/about",
+      "players": []
+    },
+    {
+      "id": "v06:2bfacc4932deceb473",
+      "league_id": "USA_2",
+      "name": "Charleston Battery",
+      "source": "Real club; 2026 participant snapshot; https://www.uslchampionship.com/about",
+      "players": []
+    },
+    {
+      "id": "v06:a76fa8ce80aaf02812",
+      "league_id": "USA_2",
+      "name": "Colorado Springs Switchbacks FC",
+      "source": "Real club; 2026 participant snapshot; https://www.uslchampionship.com/about",
+      "players": []
+    },
+    {
+      "id": "v06:fa2d5af3906e0d2e34",
+      "league_id": "USA_2",
+      "name": "Detroit City FC",
+      "source": "Real club; 2026 participant snapshot; https://www.uslchampionship.com/about",
+      "players": []
+    },
+    {
+      "id": "v06:645ba730cf734be747",
+      "league_id": "USA_2",
+      "name": "El Paso Locomotive FC",
+      "source": "Real club; 2026 participant snapshot; https://www.uslchampionship.com/about",
+      "players": []
+    },
+    {
+      "id": "v06:c1fef50b77584285fd",
+      "league_id": "USA_2",
+      "name": "FC Tulsa",
+      "source": "Real club; 2026 participant snapshot; https://www.uslchampionship.com/about",
+      "players": []
+    },
+    {
+      "id": "v06:38e436910311b7b89d",
+      "league_id": "USA_2",
+      "name": "Hartford Athletic",
+      "source": "Real club; 2026 participant snapshot; https://www.uslchampionship.com/about",
+      "players": []
+    },
+    {
+      "id": "v06:f4c8ccba87287e95f6",
+      "league_id": "USA_2",
+      "name": "Indy Eleven",
+      "source": "Real club; 2026 participant snapshot; https://www.uslchampionship.com/about",
+      "players": []
+    },
+    {
+      "id": "v06:713758bdacdcb59686",
+      "league_id": "USA_2",
+      "name": "Las Vegas Lights FC",
+      "source": "Real club; 2026 participant snapshot; https://www.uslchampionship.com/about",
+      "players": []
+    },
+    {
+      "id": "v06:91315914ce7f439df8",
+      "league_id": "USA_2",
+      "name": "Lexington SC",
+      "source": "Real club; 2026 participant snapshot; https://www.uslchampionship.com/about",
+      "players": []
+    },
+    {
+      "id": "v06:ae151dd9418aa6d885",
+      "league_id": "USA_2",
+      "name": "Loudoun United FC",
+      "source": "Real club; 2026 participant snapshot; https://www.uslchampionship.com/about",
+      "players": []
+    },
+    {
+      "id": "v06:66368d9e285a5d05da",
+      "league_id": "USA_2",
+      "name": "Louisville City FC",
+      "source": "Real club; 2026 participant snapshot; https://www.uslchampionship.com/about",
+      "players": []
+    },
+    {
+      "id": "v06:c9daedf64410225d61",
+      "league_id": "USA_2",
+      "name": "Miami FC",
+      "source": "Real club; 2026 participant snapshot; https://www.uslchampionship.com/about",
+      "players": []
+    },
+    {
+      "id": "v06:d06f651d00b7108e1f",
+      "league_id": "USA_2",
+      "name": "Monterey Bay FC",
+      "source": "Real club; 2026 participant snapshot; https://www.uslchampionship.com/about",
+      "players": []
+    },
+    {
+      "id": "v06:1468fbe8dfb3b53683",
+      "league_id": "USA_2",
+      "name": "New Mexico United",
+      "source": "Real club; 2026 participant snapshot; https://www.uslchampionship.com/about",
+      "players": []
+    },
+    {
+      "id": "v06:b5284a244a2263ba1b",
+      "league_id": "USA_2",
+      "name": "Oakland Roots SC",
+      "source": "Real club; 2026 participant snapshot; https://www.uslchampionship.com/about",
+      "players": []
+    },
+    {
+      "id": "v06:83dbda37038af46a16",
+      "league_id": "USA_2",
+      "name": "Orange County SC",
+      "source": "Real club; 2026 participant snapshot; https://www.uslchampionship.com/about",
+      "players": []
+    },
+    {
+      "id": "v06:89591cfb1a5c935358",
+      "league_id": "USA_2",
+      "name": "Phoenix Rising FC",
+      "source": "Real club; 2026 participant snapshot; https://www.uslchampionship.com/about",
+      "players": []
+    },
+    {
+      "id": "v06:5ae56220cb9369239d",
+      "league_id": "USA_2",
+      "name": "Pittsburgh Riverhounds SC",
+      "source": "Real club; 2026 participant snapshot; https://www.uslchampionship.com/about",
+      "players": []
+    },
+    {
+      "id": "v06:7c2a55d6527316b9cc",
+      "league_id": "USA_2",
+      "name": "Rhode Island FC",
+      "source": "Real club; 2026 participant snapshot; https://www.uslchampionship.com/about",
+      "players": []
+    },
+    {
+      "id": "v06:579a32b194f56c5e09",
+      "league_id": "USA_2",
+      "name": "Sacramento Republic FC",
+      "source": "Real club; 2026 participant snapshot; https://www.uslchampionship.com/about",
+      "players": []
+    },
+    {
+      "id": "v06:a420a96489a3844101",
+      "league_id": "USA_2",
+      "name": "San Antonio FC",
+      "source": "Real club; 2026 participant snapshot; https://www.uslchampionship.com/about",
+      "players": []
+    },
+    {
+      "id": "v06:d5ad7ef9ff480b8c2a",
+      "league_id": "USA_2",
+      "name": "Sporting Club Jacksonville",
+      "source": "Real club; 2026 participant snapshot; https://www.uslchampionship.com/about",
+      "players": []
+    },
+    {
+      "id": "v06:0d3b14f9a3fbd8dcbe",
+      "league_id": "USA_2",
+      "name": "Tampa Bay Rowdies",
+      "source": "Real club; 2026 participant snapshot; https://www.uslchampionship.com/about",
+      "players": []
+    },
+    {
+      "id": "v06:12f00ad892292492d4",
+      "league_id": "GER_3",
+      "name": "Rot-Weiss Essen",
+      "source": "Real club; 2025/26 participant snapshot; https://github.com/openfootball/deutschland/blob/master/2025-26/3-liga3.txt",
+      "players": []
+    },
+    {
+      "id": "v06:7510f7c9e0c6520a38",
+      "league_id": "GER_3",
+      "name": "TSV 1860 München",
+      "source": "Real club; 2025/26 participant snapshot; https://github.com/openfootball/deutschland/blob/master/2025-26/3-liga3.txt",
+      "players": []
+    },
+    {
+      "id": "v06:a506acfbd20c72d40c",
+      "league_id": "GER_3",
+      "name": "Waldhof Mannheim",
+      "source": "Real club; 2025/26 participant snapshot; https://github.com/openfootball/deutschland/blob/master/2025-26/3-liga3.txt",
+      "players": []
+    },
+    {
+      "id": "v06:f84cd278db3b73e2d0",
+      "league_id": "GER_3",
+      "name": "SC Verl",
+      "source": "Real club; 2025/26 participant snapshot; https://github.com/openfootball/deutschland/blob/master/2025-26/3-liga3.txt",
+      "players": []
+    },
+    {
+      "id": "v06:a158b793749c71d5cd",
+      "league_id": "GER_3",
+      "name": "FC Ingolstadt 04",
+      "source": "Real club; 2025/26 participant snapshot; https://github.com/openfootball/deutschland/blob/master/2025-26/3-liga3.txt",
+      "players": []
+    },
+    {
+      "id": "v06:95786250a7fd79f035",
+      "league_id": "GER_3",
+      "name": "Jahn Regensburg",
+      "source": "Real club; 2025/26 participant snapshot; https://github.com/openfootball/deutschland/blob/master/2025-26/3-liga3.txt",
+      "players": []
+    },
+    {
+      "id": "v06:1630a891502f5e8d66",
+      "league_id": "GER_3",
+      "name": "VfL Osnabrück",
+      "source": "Real club; 2025/26 participant snapshot; https://github.com/openfootball/deutschland/blob/master/2025-26/3-liga3.txt",
+      "players": []
+    },
+    {
+      "id": "v06:51040c06bb04e85a68",
+      "league_id": "GER_3",
+      "name": "Alemannia Aachen",
+      "source": "Real club; 2025/26 participant snapshot; https://github.com/openfootball/deutschland/blob/master/2025-26/3-liga3.txt",
+      "players": []
+    },
+    {
+      "id": "v06:e0f9be30ccc3982b61",
+      "league_id": "GER_3",
+      "name": "Energie Cottbus",
+      "source": "Real club; 2025/26 participant snapshot; https://github.com/openfootball/deutschland/blob/master/2025-26/3-liga3.txt",
+      "players": []
+    },
+    {
+      "id": "v06:9b0e166f254623050e",
+      "league_id": "GER_3",
+      "name": "1. FC Saarbrücken",
+      "source": "Real club; 2025/26 participant snapshot; https://github.com/openfootball/deutschland/blob/master/2025-26/3-liga3.txt",
+      "players": []
+    },
+    {
+      "id": "v06:94007c930124a82181",
+      "league_id": "GER_3",
+      "name": "1899 Hoffenheim II",
+      "source": "Real club; 2025/26 participant snapshot; https://github.com/openfootball/deutschland/blob/master/2025-26/3-liga3.txt",
+      "players": []
+    },
+    {
+      "id": "v06:71be86e3c307687580",
+      "league_id": "GER_3",
+      "name": "TSV Havelse",
+      "source": "Real club; 2025/26 participant snapshot; https://github.com/openfootball/deutschland/blob/master/2025-26/3-liga3.txt",
+      "players": []
+    },
+    {
+      "id": "v06:7fdd53588d1f49b1dd",
+      "league_id": "GER_3",
+      "name": "MSV Duisburg",
+      "source": "Real club; 2025/26 participant snapshot; https://github.com/openfootball/deutschland/blob/master/2025-26/3-liga3.txt",
+      "players": []
+    },
+    {
+      "id": "v06:be360269572ab31482",
+      "league_id": "GER_3",
+      "name": "VfB Stuttgart II",
+      "source": "Real club; 2025/26 participant snapshot; https://github.com/openfootball/deutschland/blob/master/2025-26/3-liga3.txt",
+      "players": []
+    },
+    {
+      "id": "v06:03554308d9983de6df",
+      "league_id": "GER_3",
+      "name": "Erzgebirge Aue",
+      "source": "Real club; 2025/26 participant snapshot; https://github.com/openfootball/deutschland/blob/master/2025-26/3-liga3.txt",
+      "players": []
+    },
+    {
+      "id": "v06:95dfa457def7ba126f",
+      "league_id": "GER_3",
+      "name": "Hansa Rostock",
+      "source": "Real club; 2025/26 participant snapshot; https://github.com/openfootball/deutschland/blob/master/2025-26/3-liga3.txt",
+      "players": []
+    },
+    {
+      "id": "v06:25f2cf4f4c1cc56c37",
+      "league_id": "GER_3",
+      "name": "Viktoria Köln",
+      "source": "Real club; 2025/26 participant snapshot; https://github.com/openfootball/deutschland/blob/master/2025-26/3-liga3.txt",
+      "players": []
+    },
+    {
+      "id": "v06:eca0750870dd5244d2",
+      "league_id": "GER_3",
+      "name": "1. FC Schweinfurt 05",
+      "source": "Real club; 2025/26 participant snapshot; https://github.com/openfootball/deutschland/blob/master/2025-26/3-liga3.txt",
+      "players": []
+    },
+    {
+      "id": "v06:2e6a03bef3a55e4667",
+      "league_id": "GER_3",
+      "name": "SV Wehen Wiesbaden",
+      "source": "Real club; 2025/26 participant snapshot; https://github.com/openfootball/deutschland/blob/master/2025-26/3-liga3.txt",
+      "players": []
+    },
+    {
+      "id": "v06:86951b68ad0efe21d7",
+      "league_id": "GER_3",
+      "name": "SSV Ulm 1846",
+      "source": "Real club; 2025/26 participant snapshot; https://github.com/openfootball/deutschland/blob/master/2025-26/3-liga3.txt",
+      "players": []
+    },
+    {
+      "id": "v06:8bf43dea7ed0d987de",
+      "league_id": "SCO_2",
+      "name": "Airdrieonians",
+      "source": "Real club; 2025/26 participant snapshot; https://en.wikipedia.org/wiki/2025%E2%80%9326_Scottish_Championship",
+      "players": []
+    },
+    {
+      "id": "v06:2497eae8addc21c812",
+      "league_id": "SCO_2",
+      "name": "Arbroath",
+      "source": "Real club; 2025/26 participant snapshot; https://en.wikipedia.org/wiki/2025%E2%80%9326_Scottish_Championship",
+      "players": []
+    },
+    {
+      "id": "v06:7797f9e5c2ab8237d5",
+      "league_id": "SCO_2",
+      "name": "Ayr United",
+      "source": "Real club; 2025/26 participant snapshot; https://en.wikipedia.org/wiki/2025%E2%80%9326_Scottish_Championship",
+      "players": []
+    },
+    {
+      "id": "v06:75fbc96bd6796b0f19",
+      "league_id": "SCO_2",
+      "name": "Dunfermline Athletic",
+      "source": "Real club; 2025/26 participant snapshot; https://en.wikipedia.org/wiki/2025%E2%80%9326_Scottish_Championship",
+      "players": []
+    },
+    {
+      "id": "v06:9e06c1d38fbc76deb0",
+      "league_id": "SCO_2",
+      "name": "Greenock Morton",
+      "source": "Real club; 2025/26 participant snapshot; https://en.wikipedia.org/wiki/2025%E2%80%9326_Scottish_Championship",
+      "players": []
+    },
+    {
+      "id": "v06:a9192e96347e6e7831",
+      "league_id": "SCO_2",
+      "name": "Partick Thistle",
+      "source": "Real club; 2025/26 participant snapshot; https://en.wikipedia.org/wiki/2025%E2%80%9326_Scottish_Championship",
+      "players": []
+    },
+    {
+      "id": "v06:6dfcfc405c74ed011c",
+      "league_id": "SCO_2",
+      "name": "Queen's Park",
+      "source": "Real club; 2025/26 participant snapshot; https://en.wikipedia.org/wiki/2025%E2%80%9326_Scottish_Championship",
+      "players": []
+    },
+    {
+      "id": "v06:1ff2734ef7bffa3fe6",
+      "league_id": "SCO_2",
+      "name": "Raith Rovers",
+      "source": "Real club; 2025/26 participant snapshot; https://en.wikipedia.org/wiki/2025%E2%80%9326_Scottish_Championship",
+      "players": []
+    },
+    {
+      "id": "v06:d2730ee3abe2f8a789",
+      "league_id": "SCO_2",
+      "name": "Ross County",
+      "source": "Real club; 2025/26 participant snapshot; https://en.wikipedia.org/wiki/2025%E2%80%9326_Scottish_Championship",
+      "players": []
+    },
+    {
+      "id": "v06:cb89f55003b0cdf575",
+      "league_id": "SCO_2",
+      "name": "St Johnstone",
+      "source": "Real club; 2025/26 participant snapshot; https://en.wikipedia.org/wiki/2025%E2%80%9326_Scottish_Championship",
+      "players": []
+    },
+    {
+      "id": "v06:2b52c40cf9bb4d2d4c",
+      "league_id": "SCO_3",
+      "name": "Inverness Caledonian Thistle",
+      "source": "Real club; 2025/26 participant snapshot; https://clublogin.spfl.co.uk/league/league-one/archive/393",
+      "players": []
+    },
+    {
+      "id": "v06:048fb84da5f339b386",
+      "league_id": "SCO_3",
+      "name": "Stenhousemuir",
+      "source": "Real club; 2025/26 participant snapshot; https://clublogin.spfl.co.uk/league/league-one/archive/393",
+      "players": []
+    },
+    {
+      "id": "v06:f4d0d56bec0719c73f",
+      "league_id": "SCO_3",
+      "name": "Queen of the South",
+      "source": "Real club; 2025/26 participant snapshot; https://clublogin.spfl.co.uk/league/league-one/archive/393",
+      "players": []
+    },
+    {
+      "id": "v06:a3d8a777134d32f46c",
+      "league_id": "SCO_3",
+      "name": "Alloa Athletic",
+      "source": "Real club; 2025/26 participant snapshot; https://clublogin.spfl.co.uk/league/league-one/archive/393",
+      "players": []
+    },
+    {
+      "id": "v06:3d5ee9bddc1b94aa5f",
+      "league_id": "SCO_3",
+      "name": "Peterhead",
+      "source": "Real club; 2025/26 participant snapshot; https://clublogin.spfl.co.uk/league/league-one/archive/393",
+      "players": []
+    },
+    {
+      "id": "v06:738a12bb937da3c028",
+      "league_id": "SCO_3",
+      "name": "Montrose",
+      "source": "Real club; 2025/26 participant snapshot; https://clublogin.spfl.co.uk/league/league-one/archive/393",
+      "players": []
+    },
+    {
+      "id": "v06:f3a629abe02441713a",
+      "league_id": "SCO_3",
+      "name": "Cove Rangers",
+      "source": "Real club; 2025/26 participant snapshot; https://clublogin.spfl.co.uk/league/league-one/archive/393",
+      "players": []
+    },
+    {
+      "id": "v06:1f6cf8c6059d1d40f9",
+      "league_id": "SCO_3",
+      "name": "East Fife",
+      "source": "Real club; 2025/26 participant snapshot; https://clublogin.spfl.co.uk/league/league-one/archive/393",
+      "players": []
+    },
+    {
+      "id": "v06:d100ed09c9411b8d6f",
+      "league_id": "SCO_3",
+      "name": "Hamilton Academical",
+      "source": "Real club; 2025/26 participant snapshot; https://clublogin.spfl.co.uk/league/league-one/archive/393",
+      "players": []
+    },
+    {
+      "id": "v06:9a598ff70247792d0c",
+      "league_id": "SCO_3",
+      "name": "Kelty Hearts",
+      "source": "Real club; 2025/26 participant snapshot; https://clublogin.spfl.co.uk/league/league-one/archive/393",
+      "players": []
+    },
+    {
+      "id": "v06:3cbd0d5f66c9993bea",
+      "league_id": "JPN_2",
+      "name": "Mito Hollyhock",
+      "source": "Real club; 2025 participant snapshot; https://www.jleague.jp/en/j2/standings/2025/",
+      "players": []
+    },
+    {
+      "id": "v06:3d23b547ad56cd0331",
+      "league_id": "JPN_2",
+      "name": "V-Varen Nagasaki",
+      "source": "Real club; 2025 participant snapshot; https://www.jleague.jp/en/j2/standings/2025/",
+      "players": []
+    },
+    {
+      "id": "v06:bd1c04a3f1ff5146d1",
+      "league_id": "JPN_2",
+      "name": "JEF United Chiba",
+      "source": "Real club; 2025 participant snapshot; https://www.jleague.jp/en/j2/standings/2025/",
+      "players": []
+    },
+    {
+      "id": "v06:66c55cb890774ebec1",
+      "league_id": "JPN_2",
+      "name": "Tokushima Vortis",
+      "source": "Real club; 2025 participant snapshot; https://www.jleague.jp/en/j2/standings/2025/",
+      "players": []
+    },
+    {
+      "id": "v06:12af8fff872554e77a",
+      "league_id": "JPN_2",
+      "name": "Júbilo Iwata",
+      "source": "Real club; 2025 participant snapshot; https://www.jleague.jp/en/j2/standings/2025/",
+      "players": []
+    },
+    {
+      "id": "v06:ed455da716e65cc7ed",
+      "league_id": "JPN_2",
+      "name": "RB Omiya Ardija",
+      "source": "Real club; 2025 participant snapshot; https://www.jleague.jp/en/j2/standings/2025/",
+      "players": []
+    },
+    {
+      "id": "v06:717e98d14edcf10fc9",
+      "league_id": "JPN_2",
+      "name": "Vegalta Sendai",
+      "source": "Real club; 2025 participant snapshot; https://www.jleague.jp/en/j2/standings/2025/",
+      "players": []
+    },
+    {
+      "id": "v06:348d2ec30b29fda850",
+      "league_id": "JPN_2",
+      "name": "Sagan Tosu",
+      "source": "Real club; 2025 participant snapshot; https://www.jleague.jp/en/j2/standings/2025/",
+      "players": []
+    },
+    {
+      "id": "v06:d5783087b2c2c01471",
+      "league_id": "JPN_2",
+      "name": "Iwaki FC",
+      "source": "Real club; 2025 participant snapshot; https://www.jleague.jp/en/j2/standings/2025/",
+      "players": []
+    },
+    {
+      "id": "v06:829b326caac5c5517c",
+      "league_id": "JPN_2",
+      "name": "Montedio Yamagata",
+      "source": "Real club; 2025 participant snapshot; https://www.jleague.jp/en/j2/standings/2025/",
+      "players": []
+    },
+    {
+      "id": "v06:ea18ac73bfa779a92b",
+      "league_id": "JPN_2",
+      "name": "FC Imabari",
+      "source": "Real club; 2025 participant snapshot; https://www.jleague.jp/en/j2/standings/2025/",
+      "players": []
+    },
+    {
+      "id": "v06:725625098729b26e21",
+      "league_id": "JPN_2",
+      "name": "Hokkaido Consadole Sapporo",
+      "source": "Real club; 2025 participant snapshot; https://www.jleague.jp/en/j2/standings/2025/",
+      "players": []
+    },
+    {
+      "id": "v06:9dcb2e360593d6eab2",
+      "league_id": "JPN_2",
+      "name": "Ventforet Kofu",
+      "source": "Real club; 2025 participant snapshot; https://www.jleague.jp/en/j2/standings/2025/",
+      "players": []
+    },
+    {
+      "id": "v06:f80f629e6d7291c071",
+      "league_id": "JPN_2",
+      "name": "Blaublitz Akita",
+      "source": "Real club; 2025 participant snapshot; https://www.jleague.jp/en/j2/standings/2025/",
+      "players": []
+    },
+    {
+      "id": "v06:f3d2356f5e34808e3b",
+      "league_id": "JPN_2",
+      "name": "Fujieda MYFC",
+      "source": "Real club; 2025 participant snapshot; https://www.jleague.jp/en/j2/standings/2025/",
+      "players": []
+    },
+    {
+      "id": "v06:17fd877e9ec14690ad",
+      "league_id": "JPN_2",
+      "name": "Oita Trinita",
+      "source": "Real club; 2025 participant snapshot; https://www.jleague.jp/en/j2/standings/2025/",
+      "players": []
+    },
+    {
+      "id": "v06:d9c36ccb221c2d3537",
+      "league_id": "JPN_2",
+      "name": "Kataller Toyama",
+      "source": "Real club; 2025 participant snapshot; https://www.jleague.jp/en/j2/standings/2025/",
+      "players": []
+    },
+    {
+      "id": "v06:804c0d21f150b6dcf2",
+      "league_id": "JPN_2",
+      "name": "Roasso Kumamoto",
+      "source": "Real club; 2025 participant snapshot; https://www.jleague.jp/en/j2/standings/2025/",
+      "players": []
+    },
+    {
+      "id": "v06:9fb11fbc335e9dd502",
+      "league_id": "JPN_2",
+      "name": "Renofa Yamaguchi FC",
+      "source": "Real club; 2025 participant snapshot; https://www.jleague.jp/en/j2/standings/2025/",
+      "players": []
+    },
+    {
+      "id": "v06:7c59626a4784c1491a",
+      "league_id": "JPN_2",
+      "name": "Ehime FC",
+      "source": "Real club; 2025 participant snapshot; https://www.jleague.jp/en/j2/standings/2025/",
+      "players": []
+    },
+    {
+      "id": "v06:334594d5d840593283",
+      "league_id": "FRA_3",
+      "name": "AC Ajaccio",
+      "source": "Real club; 2025/26 participant snapshot; https://www.fff.fr/article/15064-championnats-2025-2026-les-groupes.html",
+      "players": []
+    },
+    {
+      "id": "v06:2af58c3c87f20a8744",
+      "league_id": "FRA_3",
+      "name": "Aubagne Air Bel",
+      "source": "Real club; 2025/26 participant snapshot; https://www.fff.fr/article/15064-championnats-2025-2026-les-groupes.html",
+      "players": []
+    },
+    {
+      "id": "v06:55eaaf6325306b88e1",
+      "league_id": "FRA_3",
+      "name": "Bourg-Péronnas",
+      "source": "Real club; 2025/26 participant snapshot; https://www.fff.fr/article/15064-championnats-2025-2026-les-groupes.html",
+      "players": []
+    },
+    {
+      "id": "v06:fc52850b6860ef6935",
+      "league_id": "FRA_3",
+      "name": "SM Caen",
+      "source": "Real club; 2025/26 participant snapshot; https://www.fff.fr/article/15064-championnats-2025-2026-les-groupes.html",
+      "players": []
+    },
+    {
+      "id": "v06:c063d9ed16aab1744f",
+      "league_id": "FRA_3",
+      "name": "Châteauroux",
+      "source": "Real club; 2025/26 participant snapshot; https://www.fff.fr/article/15064-championnats-2025-2026-les-groupes.html",
+      "players": []
+    },
+    {
+      "id": "v06:2aed5911296ba6a624",
+      "league_id": "FRA_3",
+      "name": "Concarneau",
+      "source": "Real club; 2025/26 participant snapshot; https://www.fff.fr/article/15064-championnats-2025-2026-les-groupes.html",
+      "players": []
+    },
+    {
+      "id": "v06:1272e976fe7b4e55a2",
+      "league_id": "FRA_3",
+      "name": "Dijon FCO",
+      "source": "Real club; 2025/26 participant snapshot; https://www.fff.fr/article/15064-championnats-2025-2026-les-groupes.html",
+      "players": []
+    },
+    {
+      "id": "v06:c4124d7dee296050c8",
+      "league_id": "FRA_3",
+      "name": "FC Fleury 91",
+      "source": "Real club; 2025/26 participant snapshot; https://www.fff.fr/article/15064-championnats-2025-2026-les-groupes.html",
+      "players": []
+    },
+    {
+      "id": "v06:d5c3f1e1006aba4ba7",
+      "league_id": "FRA_3",
+      "name": "Le Puy Foot",
+      "source": "Real club; 2025/26 participant snapshot; https://www.fff.fr/article/15064-championnats-2025-2026-les-groupes.html",
+      "players": []
+    },
+    {
+      "id": "v06:619a2307c62f90794c",
+      "league_id": "FRA_3",
+      "name": "US Orléans",
+      "source": "Real club; 2025/26 participant snapshot; https://www.fff.fr/article/15064-championnats-2025-2026-les-groupes.html",
+      "players": []
+    },
+    {
+      "id": "v06:17f8e964befbaa94f5",
+      "league_id": "FRA_3",
+      "name": "Paris 13 Atletico",
+      "source": "Real club; 2025/26 participant snapshot; https://www.fff.fr/article/15064-championnats-2025-2026-les-groupes.html",
+      "players": []
+    },
+    {
+      "id": "v06:172982dc5fa899db6e",
+      "league_id": "FRA_3",
+      "name": "Quevilly-Rouen",
+      "source": "Real club; 2025/26 participant snapshot; https://www.fff.fr/article/15064-championnats-2025-2026-les-groupes.html",
+      "players": []
+    },
+    {
+      "id": "v06:40c127dae309c6aa3c",
+      "league_id": "FRA_3",
+      "name": "FC Rouen 1899",
+      "source": "Real club; 2025/26 participant snapshot; https://www.fff.fr/article/15064-championnats-2025-2026-les-groupes.html",
+      "players": []
+    },
+    {
+      "id": "v06:8346738073ee06fa32",
+      "league_id": "FRA_3",
+      "name": "FC Sochaux-Montbéliard",
+      "source": "Real club; 2025/26 participant snapshot; https://www.fff.fr/article/15064-championnats-2025-2026-les-groupes.html",
+      "players": []
+    },
+    {
+      "id": "v06:2e3e338cdc4170fb4f",
+      "league_id": "FRA_3",
+      "name": "Stade Briochin",
+      "source": "Real club; 2025/26 participant snapshot; https://www.fff.fr/article/15064-championnats-2025-2026-les-groupes.html",
+      "players": []
+    },
+    {
+      "id": "v06:c639e6a148d90941a9",
+      "league_id": "FRA_3",
+      "name": "Valenciennes FC",
+      "source": "Real club; 2025/26 participant snapshot; https://www.fff.fr/article/15064-championnats-2025-2026-les-groupes.html",
+      "players": []
+    },
+    {
+      "id": "v06:fc7aaa4b6c0c81e66a",
+      "league_id": "FRA_3",
+      "name": "FC Versailles 78",
+      "source": "Real club; 2025/26 participant snapshot; https://www.fff.fr/article/15064-championnats-2025-2026-les-groupes.html",
+      "players": []
+    },
+    {
+      "id": "v06:830f3aa3c508250705",
+      "league_id": "FRA_3",
+      "name": "FC Villefranche Beaujolais",
+      "source": "Real club; 2025/26 participant snapshot; https://www.fff.fr/article/15064-championnats-2025-2026-les-groupes.html",
+      "players": []
+    },
+    {
+      "id": "v06:d5d0fa04f3dbf588a4",
+      "league_id": "BEL_2",
+      "name": "Jong Genk",
+      "source": "Real club; 2025/26 subset 15 of 17 participant snapshot; https://www.transfermarkt.com/1b-pro-league/teilnehmer/pokalwettbewerb/BE2",
+      "players": []
+    },
+    {
+      "id": "v06:a43cf3d04b4e2b476b",
+      "league_id": "BEL_2",
+      "name": "KV Kortrijk",
+      "source": "Real club; 2025/26 subset 15 of 17 participant snapshot; https://www.transfermarkt.com/1b-pro-league/teilnehmer/pokalwettbewerb/BE2",
+      "players": []
+    },
+    {
+      "id": "v06:5862bab56031aad058",
+      "league_id": "BEL_2",
+      "name": "Beerschot VA",
+      "source": "Real club; 2025/26 subset 15 of 17 participant snapshot; https://www.transfermarkt.com/1b-pro-league/teilnehmer/pokalwettbewerb/BE2",
+      "players": []
+    },
+    {
+      "id": "v06:1a3b2d19c4a45df62f",
+      "league_id": "BEL_2",
+      "name": "SK Beveren",
+      "source": "Real club; 2025/26 subset 15 of 17 participant snapshot; https://www.transfermarkt.com/1b-pro-league/teilnehmer/pokalwettbewerb/BE2",
+      "players": []
+    },
+    {
+      "id": "v06:4e6505ab4531a2dd28",
+      "league_id": "BEL_2",
+      "name": "KAS Eupen",
+      "source": "Real club; 2025/26 subset 15 of 17 participant snapshot; https://www.transfermarkt.com/1b-pro-league/teilnehmer/pokalwettbewerb/BE2",
+      "players": []
+    },
+    {
+      "id": "v06:334a74c302501e6223",
+      "league_id": "BEL_2",
+      "name": "RSCA Futures",
+      "source": "Real club; 2025/26 subset 15 of 17 participant snapshot; https://www.transfermarkt.com/1b-pro-league/teilnehmer/pokalwettbewerb/BE2",
+      "players": []
+    },
+    {
+      "id": "v06:0b059d18228f93ada0",
+      "league_id": "BEL_2",
+      "name": "Club NXT",
+      "source": "Real club; 2025/26 subset 15 of 17 participant snapshot; https://www.transfermarkt.com/1b-pro-league/teilnehmer/pokalwettbewerb/BE2",
+      "players": []
+    },
+    {
+      "id": "v06:6fb46eb74ce96f9baa",
+      "league_id": "BEL_2",
+      "name": "Lommel SK",
+      "source": "Real club; 2025/26 subset 15 of 17 participant snapshot; https://www.transfermarkt.com/1b-pro-league/teilnehmer/pokalwettbewerb/BE2",
+      "players": []
+    },
+    {
+      "id": "v06:eaf983791ffbecfd3e",
+      "league_id": "BEL_2",
+      "name": "RWDM Brussels",
+      "source": "Real club; 2025/26 subset 15 of 17 participant snapshot; https://www.transfermarkt.com/1b-pro-league/teilnehmer/pokalwettbewerb/BE2",
+      "players": []
+    },
+    {
+      "id": "v06:d15068d72a2e9b8376",
+      "league_id": "BEL_2",
+      "name": "Jong KAA Gent",
+      "source": "Real club; 2025/26 subset 15 of 17 participant snapshot; https://www.transfermarkt.com/1b-pro-league/teilnehmer/pokalwettbewerb/BE2",
+      "players": []
+    },
+    {
+      "id": "v06:9b6336b4399c82ee6e",
+      "league_id": "BEL_2",
+      "name": "Francs Borains",
+      "source": "Real club; 2025/26 subset 15 of 17 participant snapshot; https://www.transfermarkt.com/1b-pro-league/teilnehmer/pokalwettbewerb/BE2",
+      "players": []
+    },
+    {
+      "id": "v06:f9654686d8637685dd",
+      "league_id": "BEL_2",
+      "name": "KSC Lokeren",
+      "source": "Real club; 2025/26 subset 15 of 17 participant snapshot; https://www.transfermarkt.com/1b-pro-league/teilnehmer/pokalwettbewerb/BE2",
+      "players": []
+    },
+    {
+      "id": "v06:dd71a8f0a956354617",
+      "league_id": "BEL_2",
+      "name": "Patro Eisden Maasmechelen",
+      "source": "Real club; 2025/26 subset 15 of 17 participant snapshot; https://www.transfermarkt.com/1b-pro-league/teilnehmer/pokalwettbewerb/BE2",
+      "players": []
+    },
+    {
+      "id": "v06:ef1c52e4d434eb3de8",
+      "league_id": "BEL_2",
+      "name": "K Lierse SK",
+      "source": "Real club; 2025/26 subset 15 of 17 participant snapshot; https://www.transfermarkt.com/1b-pro-league/teilnehmer/pokalwettbewerb/BE2",
+      "players": []
+    },
+    {
+      "id": "v06:0aa22a35498b7a163b",
+      "league_id": "BEL_2",
+      "name": "RFC Seraing",
+      "source": "Real club; 2025/26 subset 15 of 17 participant snapshot; https://www.transfermarkt.com/1b-pro-league/teilnehmer/pokalwettbewerb/BE2",
+      "players": []
+    },
+    {
+      "id": "v06:5b6ad82d899fffdb77",
+      "league_id": "ESP_3",
+      "name": "AD Mérida",
+      "source": "Real club; 2025/26 participant snapshot; https://rfef.es/es/noticias/aprobados-los-grupos-de-primera-federacion-para-la-temporada-202526",
+      "players": []
+    },
+    {
+      "id": "v06:fd02f7eb7eb687ae71",
+      "league_id": "ESP_3",
+      "name": "Arenas Club",
+      "source": "Real club; 2025/26 participant snapshot; https://rfef.es/es/noticias/aprobados-los-grupos-de-primera-federacion-para-la-temporada-202526",
+      "players": []
+    },
+    {
+      "id": "v06:5402eb30579cf5d857",
+      "league_id": "ESP_3",
+      "name": "Athletic Club B",
+      "source": "Real club; 2025/26 participant snapshot; https://rfef.es/es/noticias/aprobados-los-grupos-de-primera-federacion-para-la-temporada-202526",
+      "players": []
+    },
+    {
+      "id": "v06:3c36e439db464af707",
+      "league_id": "ESP_3",
+      "name": "Barakaldo CF",
+      "source": "Real club; 2025/26 participant snapshot; https://rfef.es/es/noticias/aprobados-los-grupos-de-primera-federacion-para-la-temporada-202526",
+      "players": []
+    },
+    {
+      "id": "v06:b7394b8fb38db88ead",
+      "league_id": "ESP_3",
+      "name": "CA Osasuna B",
+      "source": "Real club; 2025/26 participant snapshot; https://rfef.es/es/noticias/aprobados-los-grupos-de-primera-federacion-para-la-temporada-202526",
+      "players": []
+    },
+    {
+      "id": "v06:2b6b99a388b393d489",
+      "league_id": "ESP_3",
+      "name": "CD Arenteiro",
+      "source": "Real club; 2025/26 participant snapshot; https://rfef.es/es/noticias/aprobados-los-grupos-de-primera-federacion-para-la-temporada-202526",
+      "players": []
+    },
+    {
+      "id": "v06:d935dd0740530f3eca",
+      "league_id": "ESP_3",
+      "name": "CD Guadalajara",
+      "source": "Real club; 2025/26 participant snapshot; https://rfef.es/es/noticias/aprobados-los-grupos-de-primera-federacion-para-la-temporada-202526",
+      "players": []
+    },
+    {
+      "id": "v06:1825d1301d19562746",
+      "league_id": "ESP_3",
+      "name": "CD Lugo",
+      "source": "Real club; 2025/26 participant snapshot; https://rfef.es/es/noticias/aprobados-los-grupos-de-primera-federacion-para-la-temporada-202526",
+      "players": []
+    },
+    {
+      "id": "v06:b6549dfc2f4017955e",
+      "league_id": "ESP_3",
+      "name": "CD Tenerife",
+      "source": "Real club; 2025/26 participant snapshot; https://rfef.es/es/noticias/aprobados-los-grupos-de-primera-federacion-para-la-temporada-202526",
+      "players": []
+    },
+    {
+      "id": "v06:1edc9929b1afdc8511",
+      "league_id": "ESP_3",
+      "name": "CF Talavera de la Reina",
+      "source": "Real club; 2025/26 participant snapshot; https://rfef.es/es/noticias/aprobados-los-grupos-de-primera-federacion-para-la-temporada-202526",
+      "players": []
+    },
+    {
+      "id": "v06:50284a593f29579ebd",
+      "league_id": "ESP_3",
+      "name": "CP Cacereño",
+      "source": "Real club; 2025/26 participant snapshot; https://rfef.es/es/noticias/aprobados-los-grupos-de-primera-federacion-para-la-temporada-202526",
+      "players": []
+    },
+    {
+      "id": "v06:beb4e6c0f2c548a6da",
+      "league_id": "ESP_3",
+      "name": "Ourense CF",
+      "source": "Real club; 2025/26 participant snapshot; https://rfef.es/es/noticias/aprobados-los-grupos-de-primera-federacion-para-la-temporada-202526",
+      "players": []
+    },
+    {
+      "id": "v06:7d8e0d7125d1817014",
+      "league_id": "ESP_3",
+      "name": "Pontevedra CF",
+      "source": "Real club; 2025/26 participant snapshot; https://rfef.es/es/noticias/aprobados-los-grupos-de-primera-federacion-para-la-temporada-202526",
+      "players": []
+    },
+    {
+      "id": "v06:16ce113b0332ed24b8",
+      "league_id": "ESP_3",
+      "name": "Racing Club Ferrol",
+      "source": "Real club; 2025/26 participant snapshot; https://rfef.es/es/noticias/aprobados-los-grupos-de-primera-federacion-para-la-temporada-202526",
+      "players": []
+    },
+    {
+      "id": "v06:b6fa2042abcd222f6d",
+      "league_id": "ESP_3",
+      "name": "RC Celta Fortuna",
+      "source": "Real club; 2025/26 participant snapshot; https://rfef.es/es/noticias/aprobados-los-grupos-de-primera-federacion-para-la-temporada-202526",
+      "players": []
+    },
+    {
+      "id": "v06:980ecc385595642427",
+      "league_id": "ESP_3",
+      "name": "Real Avilés Industrial",
+      "source": "Real club; 2025/26 participant snapshot; https://rfef.es/es/noticias/aprobados-los-grupos-de-primera-federacion-para-la-temporada-202526",
+      "players": []
+    },
+    {
+      "id": "v06:be24e551092cacf0db",
+      "league_id": "ESP_3",
+      "name": "Real Madrid Castilla",
+      "source": "Real club; 2025/26 participant snapshot; https://rfef.es/es/noticias/aprobados-los-grupos-de-primera-federacion-para-la-temporada-202526",
+      "players": []
+    },
+    {
+      "id": "v06:61a27aef5ad8a14005",
+      "league_id": "ESP_3",
+      "name": "SD Ponferradina",
+      "source": "Real club; 2025/26 participant snapshot; https://rfef.es/es/noticias/aprobados-los-grupos-de-primera-federacion-para-la-temporada-202526",
+      "players": []
+    },
+    {
+      "id": "v06:fb64b244ff018e4caa",
+      "league_id": "ESP_3",
+      "name": "Unionistas de Salamanca CF",
+      "source": "Real club; 2025/26 participant snapshot; https://rfef.es/es/noticias/aprobados-los-grupos-de-primera-federacion-para-la-temporada-202526",
+      "players": []
+    },
+    {
+      "id": "v06:9415e2d2316d7b3bdc",
+      "league_id": "ESP_3",
+      "name": "Zamora CF",
+      "source": "Real club; 2025/26 participant snapshot; https://rfef.es/es/noticias/aprobados-los-grupos-de-primera-federacion-para-la-temporada-202526",
+      "players": []
+    },
+    {
+      "id": "v06:881d31e94e6ef3f4d2",
+      "league_id": "ESP_3",
+      "name": "AD Alcorcón",
+      "source": "Real club; 2025/26 participant snapshot; https://rfef.es/es/noticias/aprobados-los-grupos-de-primera-federacion-para-la-temporada-202526",
+      "players": []
+    },
+    {
+      "id": "v06:e1363fa8d611c3edf3",
+      "league_id": "ESP_3",
+      "name": "Algeciras CF",
+      "source": "Real club; 2025/26 participant snapshot; https://rfef.es/es/noticias/aprobados-los-grupos-de-primera-federacion-para-la-temporada-202526",
+      "players": []
+    },
+    {
+      "id": "v06:573d1cb9781eccdfcc",
+      "league_id": "ESP_3",
+      "name": "Atlético Sanluqueño CF",
+      "source": "Real club; 2025/26 participant snapshot; https://rfef.es/es/noticias/aprobados-los-grupos-de-primera-federacion-para-la-temporada-202526",
+      "players": []
+    },
+    {
+      "id": "v06:1497e9f11b9b8a6d4d",
+      "league_id": "ESP_3",
+      "name": "Antequera CF",
+      "source": "Real club; 2025/26 participant snapshot; https://rfef.es/es/noticias/aprobados-los-grupos-de-primera-federacion-para-la-temporada-202526",
+      "players": []
+    },
+    {
+      "id": "v06:aabb3b9cf7627d7adb",
+      "league_id": "ESP_3",
+      "name": "Betis Deportivo Balompié",
+      "source": "Real club; 2025/26 participant snapshot; https://rfef.es/es/noticias/aprobados-los-grupos-de-primera-federacion-para-la-temporada-202526",
+      "players": []
+    },
+    {
+      "id": "v06:a2f321792f13013195",
+      "league_id": "ESP_3",
+      "name": "Club Atlético de Madrid B",
+      "source": "Real club; 2025/26 participant snapshot; https://rfef.es/es/noticias/aprobados-los-grupos-de-primera-federacion-para-la-temporada-202526",
+      "players": []
+    },
+    {
+      "id": "v06:30aafbd106f070b1a0",
+      "league_id": "ESP_3",
+      "name": "CD Eldense",
+      "source": "Real club; 2025/26 participant snapshot; https://rfef.es/es/noticias/aprobados-los-grupos-de-primera-federacion-para-la-temporada-202526",
+      "players": []
+    },
+    {
+      "id": "v06:9052f02886613fffc3",
+      "league_id": "ESP_3",
+      "name": "CD Teruel",
+      "source": "Real club; 2025/26 participant snapshot; https://rfef.es/es/noticias/aprobados-los-grupos-de-primera-federacion-para-la-temporada-202526",
+      "players": []
+    },
+    {
+      "id": "v06:cd4a80c66e0fddd1f8",
+      "league_id": "ESP_3",
+      "name": "CE Europa",
+      "source": "Real club; 2025/26 participant snapshot; https://rfef.es/es/noticias/aprobados-los-grupos-de-primera-federacion-para-la-temporada-202526",
+      "players": []
+    },
+    {
+      "id": "v06:5e791b72adb35b35bf",
+      "league_id": "ESP_3",
+      "name": "CE Sabadell FC",
+      "source": "Real club; 2025/26 participant snapshot; https://rfef.es/es/noticias/aprobados-los-grupos-de-primera-federacion-para-la-temporada-202526",
+      "players": []
+    },
+    {
+      "id": "v06:a8a365f908a7015cfb",
+      "league_id": "ESP_3",
+      "name": "FC Cartagena",
+      "source": "Real club; 2025/26 participant snapshot; https://rfef.es/es/noticias/aprobados-los-grupos-de-primera-federacion-para-la-temporada-202526",
+      "players": []
+    },
+    {
+      "id": "v06:a93c4624e51f0ce40f",
+      "league_id": "ESP_3",
+      "name": "Gimnàstic de Tarragona",
+      "source": "Real club; 2025/26 participant snapshot; https://rfef.es/es/noticias/aprobados-los-grupos-de-primera-federacion-para-la-temporada-202526",
+      "players": []
+    },
+    {
+      "id": "v06:26563cce155c6bd435",
+      "league_id": "ESP_3",
+      "name": "Hércules CF",
+      "source": "Real club; 2025/26 participant snapshot; https://rfef.es/es/noticias/aprobados-los-grupos-de-primera-federacion-para-la-temporada-202526",
+      "players": []
+    },
+    {
+      "id": "v06:fec4924796162e2254",
+      "league_id": "ESP_3",
+      "name": "Juventud Torremolinos CF",
+      "source": "Real club; 2025/26 participant snapshot; https://rfef.es/es/noticias/aprobados-los-grupos-de-primera-federacion-para-la-temporada-202526",
+      "players": []
+    },
+    {
+      "id": "v06:580811c0deded1665e",
+      "league_id": "ESP_3",
+      "name": "Marbella FC",
+      "source": "Real club; 2025/26 participant snapshot; https://rfef.es/es/noticias/aprobados-los-grupos-de-primera-federacion-para-la-temporada-202526",
+      "players": []
+    },
+    {
+      "id": "v06:44c7563142d95818ae",
+      "league_id": "ESP_3",
+      "name": "Real Murcia CF",
+      "source": "Real club; 2025/26 participant snapshot; https://rfef.es/es/noticias/aprobados-los-grupos-de-primera-federacion-para-la-temporada-202526",
+      "players": []
+    },
+    {
+      "id": "v06:033f2fc147e2332c41",
+      "league_id": "ESP_3",
+      "name": "SD Tarazona",
+      "source": "Real club; 2025/26 participant snapshot; https://rfef.es/es/noticias/aprobados-los-grupos-de-primera-federacion-para-la-temporada-202526",
+      "players": []
+    },
+    {
+      "id": "v06:152740070e5236c9df",
+      "league_id": "ESP_3",
+      "name": "Sevilla Atlético",
+      "source": "Real club; 2025/26 participant snapshot; https://rfef.es/es/noticias/aprobados-los-grupos-de-primera-federacion-para-la-temporada-202526",
+      "players": []
+    },
+    {
+      "id": "v06:ce9eeedb02c06ade55",
+      "league_id": "ESP_3",
+      "name": "UD Ibiza",
+      "source": "Real club; 2025/26 participant snapshot; https://rfef.es/es/noticias/aprobados-los-grupos-de-primera-federacion-para-la-temporada-202526",
+      "players": []
+    },
+    {
+      "id": "v06:01ca970433e20713d9",
+      "league_id": "ESP_3",
+      "name": "Villarreal CF B",
+      "source": "Real club; 2025/26 participant snapshot; https://rfef.es/es/noticias/aprobados-los-grupos-de-primera-federacion-para-la-temporada-202526",
+      "players": []
+    },
+    {
+      "id": "v06:5a80e8622b818fff77",
+      "league_id": "ARG_2",
+      "name": "All Boys",
+      "source": "Real club; 2026 participant snapshot; https://www.ambito.com/deportes/se-sorteo-la-primera-nacional-2026-asi-quedaron-conformadas-las-dos-zonas-los-36-equipos-n6227323",
+      "players": []
+    },
+    {
+      "id": "v06:3892be75c4f3c1540e",
+      "league_id": "ARG_2",
+      "name": "Ferro Carril Oeste",
+      "source": "Real club; 2026 participant snapshot; https://www.ambito.com/deportes/se-sorteo-la-primera-nacional-2026-asi-quedaron-conformadas-las-dos-zonas-los-36-equipos-n6227323",
+      "players": []
+    },
+    {
+      "id": "v06:fcb662b0e4bca9f38a",
+      "league_id": "ARG_2",
+      "name": "Deportivo Madryn",
+      "source": "Real club; 2026 participant snapshot; https://www.ambito.com/deportes/se-sorteo-la-primera-nacional-2026-asi-quedaron-conformadas-las-dos-zonas-los-36-equipos-n6227323",
+      "players": []
+    },
+    {
+      "id": "v06:885c59965874022f63",
+      "league_id": "ARG_2",
+      "name": "Chaco For Ever",
+      "source": "Real club; 2026 participant snapshot; https://www.ambito.com/deportes/se-sorteo-la-primera-nacional-2026-asi-quedaron-conformadas-las-dos-zonas-los-36-equipos-n6227323",
+      "players": []
+    },
+    {
+      "id": "v06:5715a5e339d67006ef",
+      "league_id": "ARG_2",
+      "name": "Deportivo Morón",
+      "source": "Real club; 2026 participant snapshot; https://www.ambito.com/deportes/se-sorteo-la-primera-nacional-2026-asi-quedaron-conformadas-las-dos-zonas-los-36-equipos-n6227323",
+      "players": []
+    },
+    {
+      "id": "v06:269d230b4ba1db2c1a",
+      "league_id": "ARG_2",
+      "name": "Estudiantes de Buenos Aires",
+      "source": "Real club; 2026 participant snapshot; https://www.ambito.com/deportes/se-sorteo-la-primera-nacional-2026-asi-quedaron-conformadas-las-dos-zonas-los-36-equipos-n6227323",
+      "players": []
+    },
+    {
+      "id": "v06:0422fc1130ebbc6597",
+      "league_id": "ARG_2",
+      "name": "Racing de Córdoba",
+      "source": "Real club; 2026 participant snapshot; https://www.ambito.com/deportes/se-sorteo-la-primera-nacional-2026-asi-quedaron-conformadas-las-dos-zonas-los-36-equipos-n6227323",
+      "players": []
+    },
+    {
+      "id": "v06:5b38e58732ddc239bc",
+      "league_id": "ARG_2",
+      "name": "Los Andes",
+      "source": "Real club; 2026 participant snapshot; https://www.ambito.com/deportes/se-sorteo-la-primera-nacional-2026-asi-quedaron-conformadas-las-dos-zonas-los-36-equipos-n6227323",
+      "players": []
+    },
+    {
+      "id": "v06:66384259003a691107",
+      "league_id": "ARG_2",
+      "name": "Mitre de Santiago del Estero",
+      "source": "Real club; 2026 participant snapshot; https://www.ambito.com/deportes/se-sorteo-la-primera-nacional-2026-asi-quedaron-conformadas-las-dos-zonas-los-36-equipos-n6227323",
+      "players": []
+    },
+    {
+      "id": "v06:88558c74f6048cf47e",
+      "league_id": "ARG_2",
+      "name": "Almirante Brown",
+      "source": "Real club; 2026 participant snapshot; https://www.ambito.com/deportes/se-sorteo-la-primera-nacional-2026-asi-quedaron-conformadas-las-dos-zonas-los-36-equipos-n6227323",
+      "players": []
+    },
+    {
+      "id": "v06:a79fd7f0d7b5f9006e",
+      "league_id": "ARG_2",
+      "name": "Ciudad de Bolívar",
+      "source": "Real club; 2026 participant snapshot; https://www.ambito.com/deportes/se-sorteo-la-primera-nacional-2026-asi-quedaron-conformadas-las-dos-zonas-los-36-equipos-n6227323",
+      "players": []
+    },
+    {
+      "id": "v06:4be7c15cba6b79adb8",
+      "league_id": "ARG_2",
+      "name": "Colón",
+      "source": "Real club; 2026 participant snapshot; https://www.ambito.com/deportes/se-sorteo-la-primera-nacional-2026-asi-quedaron-conformadas-las-dos-zonas-los-36-equipos-n6227323",
+      "players": []
+    },
+    {
+      "id": "v06:fcd38f399e30dfa22d",
+      "league_id": "ARG_2",
+      "name": "Central Norte",
+      "source": "Real club; 2026 participant snapshot; https://www.ambito.com/deportes/se-sorteo-la-primera-nacional-2026-asi-quedaron-conformadas-las-dos-zonas-los-36-equipos-n6227323",
+      "players": []
+    },
+    {
+      "id": "v06:bda77dadf4e5fb558d",
+      "league_id": "ARG_2",
+      "name": "San Telmo",
+      "source": "Real club; 2026 participant snapshot; https://www.ambito.com/deportes/se-sorteo-la-primera-nacional-2026-asi-quedaron-conformadas-las-dos-zonas-los-36-equipos-n6227323",
+      "players": []
+    },
+    {
+      "id": "v06:84736f9540f54823d1",
+      "league_id": "ARG_2",
+      "name": "San Miguel",
+      "source": "Real club; 2026 participant snapshot; https://www.ambito.com/deportes/se-sorteo-la-primera-nacional-2026-asi-quedaron-conformadas-las-dos-zonas-los-36-equipos-n6227323",
+      "players": []
+    },
+    {
+      "id": "v06:4c6a448ff89e0ad3b0",
+      "league_id": "ARG_2",
+      "name": "Defensores de Belgrano",
+      "source": "Real club; 2026 participant snapshot; https://www.ambito.com/deportes/se-sorteo-la-primera-nacional-2026-asi-quedaron-conformadas-las-dos-zonas-los-36-equipos-n6227323",
+      "players": []
+    },
+    {
+      "id": "v06:43c3cbf5419acfe99a",
+      "league_id": "ARG_2",
+      "name": "Acassuso",
+      "source": "Real club; 2026 participant snapshot; https://www.ambito.com/deportes/se-sorteo-la-primera-nacional-2026-asi-quedaron-conformadas-las-dos-zonas-los-36-equipos-n6227323",
+      "players": []
+    },
+    {
+      "id": "v06:3c4edac14699c9adbc",
+      "league_id": "ARG_2",
+      "name": "Nueva Chicago",
+      "source": "Real club; 2026 participant snapshot; https://www.ambito.com/deportes/se-sorteo-la-primera-nacional-2026-asi-quedaron-conformadas-las-dos-zonas-los-36-equipos-n6227323",
+      "players": []
+    },
+    {
+      "id": "v06:2ea8441c77208a2087",
+      "league_id": "ARG_2",
+      "name": "Chacarita Juniors",
+      "source": "Real club; 2026 participant snapshot; https://www.ambito.com/deportes/se-sorteo-la-primera-nacional-2026-asi-quedaron-conformadas-las-dos-zonas-los-36-equipos-n6227323",
+      "players": []
+    },
+    {
+      "id": "v06:5a64bc31239b5e8d79",
+      "league_id": "ARG_2",
+      "name": "Atlanta",
+      "source": "Real club; 2026 participant snapshot; https://www.ambito.com/deportes/se-sorteo-la-primera-nacional-2026-asi-quedaron-conformadas-las-dos-zonas-los-36-equipos-n6227323",
+      "players": []
+    },
+    {
+      "id": "v06:5e4a5cb450d7db5b9f",
+      "league_id": "ARG_2",
+      "name": "San Martín de Tucumán",
+      "source": "Real club; 2026 participant snapshot; https://www.ambito.com/deportes/se-sorteo-la-primera-nacional-2026-asi-quedaron-conformadas-las-dos-zonas-los-36-equipos-n6227323",
+      "players": []
+    },
+    {
+      "id": "v06:2ed3d636a49a5d4750",
+      "league_id": "ARG_2",
+      "name": "Gimnasia de Jujuy",
+      "source": "Real club; 2026 participant snapshot; https://www.ambito.com/deportes/se-sorteo-la-primera-nacional-2026-asi-quedaron-conformadas-las-dos-zonas-los-36-equipos-n6227323",
+      "players": []
+    },
+    {
+      "id": "v06:29fe5c57cc8d487f82",
+      "league_id": "ARG_2",
+      "name": "Almagro",
+      "source": "Real club; 2026 participant snapshot; https://www.ambito.com/deportes/se-sorteo-la-primera-nacional-2026-asi-quedaron-conformadas-las-dos-zonas-los-36-equipos-n6227323",
+      "players": []
+    },
+    {
+      "id": "v06:14ea8ae148da1ccb45",
+      "league_id": "ARG_2",
+      "name": "Temperley",
+      "source": "Real club; 2026 participant snapshot; https://www.ambito.com/deportes/se-sorteo-la-primera-nacional-2026-asi-quedaron-conformadas-las-dos-zonas-los-36-equipos-n6227323",
+      "players": []
+    },
+    {
+      "id": "v06:129f5257cb42055b1b",
+      "league_id": "ARG_2",
+      "name": "Güemes de Santiago del Estero",
+      "source": "Real club; 2026 participant snapshot; https://www.ambito.com/deportes/se-sorteo-la-primera-nacional-2026-asi-quedaron-conformadas-las-dos-zonas-los-36-equipos-n6227323",
+      "players": []
+    },
+    {
+      "id": "v06:4fb1b6d46b3e8e8765",
+      "league_id": "ARG_2",
+      "name": "Tristán Suárez",
+      "source": "Real club; 2026 participant snapshot; https://www.ambito.com/deportes/se-sorteo-la-primera-nacional-2026-asi-quedaron-conformadas-las-dos-zonas-los-36-equipos-n6227323",
+      "players": []
+    },
+    {
+      "id": "v06:f345139bd2e23c9c66",
+      "league_id": "ARG_2",
+      "name": "Agropecuario",
+      "source": "Real club; 2026 participant snapshot; https://www.ambito.com/deportes/se-sorteo-la-primera-nacional-2026-asi-quedaron-conformadas-las-dos-zonas-los-36-equipos-n6227323",
+      "players": []
+    },
+    {
+      "id": "v06:d834296b57cecf4021",
+      "league_id": "ARG_2",
+      "name": "Patronato",
+      "source": "Real club; 2026 participant snapshot; https://www.ambito.com/deportes/se-sorteo-la-primera-nacional-2026-asi-quedaron-conformadas-las-dos-zonas-los-36-equipos-n6227323",
+      "players": []
+    },
+    {
+      "id": "v06:453022a763d3e36703",
+      "league_id": "ARG_2",
+      "name": "Gimnasia y Tiro de Salta",
+      "source": "Real club; 2026 participant snapshot; https://www.ambito.com/deportes/se-sorteo-la-primera-nacional-2026-asi-quedaron-conformadas-las-dos-zonas-los-36-equipos-n6227323",
+      "players": []
+    },
+    {
+      "id": "v06:55a5098ca2dc026266",
+      "league_id": "ARG_2",
+      "name": "Deportivo Maipú",
+      "source": "Real club; 2026 participant snapshot; https://www.ambito.com/deportes/se-sorteo-la-primera-nacional-2026-asi-quedaron-conformadas-las-dos-zonas-los-36-equipos-n6227323",
+      "players": []
+    },
+    {
+      "id": "v06:8251f2a862515ddf5a",
+      "league_id": "ARG_2",
+      "name": "Quilmes",
+      "source": "Real club; 2026 participant snapshot; https://www.ambito.com/deportes/se-sorteo-la-primera-nacional-2026-asi-quedaron-conformadas-las-dos-zonas-los-36-equipos-n6227323",
+      "players": []
+    },
+    {
+      "id": "v06:99f9c84a916b05e257",
+      "league_id": "ARG_2",
+      "name": "Colegiales",
+      "source": "Real club; 2026 participant snapshot; https://www.ambito.com/deportes/se-sorteo-la-primera-nacional-2026-asi-quedaron-conformadas-las-dos-zonas-los-36-equipos-n6227323",
+      "players": []
+    },
+    {
+      "id": "v06:295038291ccbb27c9f",
+      "league_id": "ARG_2",
+      "name": "Atlético de Rafaela",
+      "source": "Real club; 2026 participant snapshot; https://www.ambito.com/deportes/se-sorteo-la-primera-nacional-2026-asi-quedaron-conformadas-las-dos-zonas-los-36-equipos-n6227323",
+      "players": []
+    },
+    {
+      "id": "v06:87f5e0107631303e2e",
+      "league_id": "ARG_2",
+      "name": "Ferrocarril Midland",
+      "source": "Real club; 2026 participant snapshot; https://www.ambito.com/deportes/se-sorteo-la-primera-nacional-2026-asi-quedaron-conformadas-las-dos-zonas-los-36-equipos-n6227323",
+      "players": []
+    },
+    {
+      "id": "v06:767eb31af6329459bb",
+      "league_id": "TUR_2",
+      "name": "Adana Demirspor",
+      "source": "Real club; 2025/26 participant snapshot; https://www.tff.org/Default.aspx?hafta=36&pageID=1772",
+      "players": []
+    },
+    {
+      "id": "v06:f5f5260cde3e64b124",
+      "league_id": "TUR_2",
+      "name": "Iğdır FK",
+      "source": "Real club; 2025/26 participant snapshot; https://www.tff.org/Default.aspx?hafta=36&pageID=1772",
+      "players": []
+    },
+    {
+      "id": "v06:5dd67335fc3b2756fe",
+      "league_id": "TUR_2",
+      "name": "Amed SK",
+      "source": "Real club; 2025/26 participant snapshot; https://www.tff.org/Default.aspx?hafta=36&pageID=1772",
+      "players": []
+    },
+    {
+      "id": "v06:43b7c8111e3840bce6",
+      "league_id": "TUR_2",
+      "name": "Çorum FK",
+      "source": "Real club; 2025/26 participant snapshot; https://www.tff.org/Default.aspx?hafta=36&pageID=1772",
+      "players": []
+    },
+    {
+      "id": "v06:38d376af34533c3743",
+      "league_id": "TUR_2",
+      "name": "Hatayspor",
+      "source": "Real club; 2025/26 participant snapshot; https://www.tff.org/Default.aspx?hafta=36&pageID=1772",
+      "players": []
+    },
+    {
+      "id": "v06:19014397b7565cccd5",
+      "league_id": "TUR_2",
+      "name": "Pendikspor",
+      "source": "Real club; 2025/26 participant snapshot; https://www.tff.org/Default.aspx?hafta=36&pageID=1772",
+      "players": []
+    },
+    {
+      "id": "v06:70bf3269ea6379fee9",
+      "league_id": "TUR_2",
+      "name": "Boluspor",
+      "source": "Real club; 2025/26 participant snapshot; https://www.tff.org/Default.aspx?hafta=36&pageID=1772",
+      "players": []
+    },
+    {
+      "id": "v06:9cf29ce779357b94b8",
+      "league_id": "TUR_2",
+      "name": "Ümraniyespor",
+      "source": "Real club; 2025/26 participant snapshot; https://www.tff.org/Default.aspx?hafta=36&pageID=1772",
+      "players": []
+    },
+    {
+      "id": "v06:be54025205eefd2c86",
+      "league_id": "TUR_2",
+      "name": "Ankara Keçiörengücü",
+      "source": "Real club; 2025/26 participant snapshot; https://www.tff.org/Default.aspx?hafta=36&pageID=1772",
+      "players": []
+    },
+    {
+      "id": "v06:d21f076980c9e538b0",
+      "league_id": "TUR_2",
+      "name": "Erzurumspor FK",
+      "source": "Real club; 2025/26 participant snapshot; https://www.tff.org/Default.aspx?hafta=36&pageID=1772",
+      "players": []
+    },
+    {
+      "id": "v06:ef93b9c65a160857a3",
+      "league_id": "TUR_2",
+      "name": "Esenler Erokspor",
+      "source": "Real club; 2025/26 participant snapshot; https://www.tff.org/Default.aspx?hafta=36&pageID=1772",
+      "players": []
+    },
+    {
+      "id": "v06:fd236fbcdb035c03ee",
+      "league_id": "TUR_2",
+      "name": "Van Spor FK",
+      "source": "Real club; 2025/26 participant snapshot; https://www.tff.org/Default.aspx?hafta=36&pageID=1772",
+      "players": []
+    },
+    {
+      "id": "v06:6e0076c35f5f70e4fa",
+      "league_id": "TUR_2",
+      "name": "İstanbulspor",
+      "source": "Real club; 2025/26 participant snapshot; https://www.tff.org/Default.aspx?hafta=36&pageID=1772",
+      "players": []
+    },
+    {
+      "id": "v06:cb1747b2a689e75342",
+      "league_id": "TUR_2",
+      "name": "Manisa FK",
+      "source": "Real club; 2025/26 participant snapshot; https://www.tff.org/Default.aspx?hafta=36&pageID=1772",
+      "players": []
+    },
+    {
+      "id": "v06:b33fdebe3d9d582407",
+      "league_id": "TUR_2",
+      "name": "Sivasspor",
+      "source": "Real club; 2025/26 participant snapshot; https://www.tff.org/Default.aspx?hafta=36&pageID=1772",
+      "players": []
+    },
+    {
+      "id": "v06:8be615f6ce2b5e0053",
+      "league_id": "TUR_2",
+      "name": "Bandırmaspor",
+      "source": "Real club; 2025/26 participant snapshot; https://www.tff.org/Default.aspx?hafta=36&pageID=1772",
+      "players": []
+    },
+    {
+      "id": "v06:79a1cbae99b58471ea",
+      "league_id": "TUR_2",
+      "name": "Sakaryaspor",
+      "source": "Real club; 2025/26 participant snapshot; https://www.tff.org/Default.aspx?hafta=36&pageID=1772",
+      "players": []
+    },
+    {
+      "id": "v06:3059e1ab56c6b1feea",
+      "league_id": "TUR_2",
+      "name": "Serikspor",
+      "source": "Real club; 2025/26 participant snapshot; https://www.tff.org/Default.aspx?hafta=36&pageID=1772",
+      "players": []
+    },
+    {
+      "id": "v06:79a3068a4672e472b2",
+      "league_id": "TUR_2",
+      "name": "Bodrum FK",
+      "source": "Real club; 2025/26 participant snapshot; https://www.tff.org/Default.aspx?hafta=36&pageID=1772",
+      "players": []
+    },
+    {
+      "id": "v06:255d718490e26a19b2",
+      "league_id": "TUR_2",
+      "name": "Sarıyer",
+      "source": "Real club; 2025/26 participant snapshot; https://www.tff.org/Default.aspx?hafta=36&pageID=1772",
+      "players": []
+    },
+    {
+      "id": "v06:60de57eaf3a9f8bd9e",
+      "league_id": "CHN_2",
+      "name": "Liaoning Tieren",
+      "source": "Real club; 2025 participant snapshot; https://www.rsssf.org/tablesc/china2025.html",
+      "players": []
+    },
+    {
+      "id": "v06:5384f38a2ec6604e08",
+      "league_id": "CHN_2",
+      "name": "Chongqing Tonglianglong",
+      "source": "Real club; 2025 participant snapshot; https://www.rsssf.org/tablesc/china2025.html",
+      "players": []
+    },
+    {
+      "id": "v06:fdbe4c0bef6b7cd9cd",
+      "league_id": "CHN_2",
+      "name": "Guangdong Guangzhou Power",
+      "source": "Real club; 2025 participant snapshot; https://www.rsssf.org/tablesc/china2025.html",
+      "players": []
+    },
+    {
+      "id": "v06:e7a37d24b105d09b6e",
+      "league_id": "CHN_2",
+      "name": "Yanbian Longding",
+      "source": "Real club; 2025 participant snapshot; https://www.rsssf.org/tablesc/china2025.html",
+      "players": []
+    },
+    {
+      "id": "v06:b282d8bca1d2ca176f",
+      "league_id": "CHN_2",
+      "name": "Shijiazhuang Gongfu",
+      "source": "Real club; 2025 participant snapshot; https://www.rsssf.org/tablesc/china2025.html",
+      "players": []
+    },
+    {
+      "id": "v06:e3962527d5ad73046f",
+      "league_id": "CHN_2",
+      "name": "Jiangxi Dingnan United",
+      "source": "Real club; 2025 participant snapshot; https://www.rsssf.org/tablesc/china2025.html",
+      "players": []
+    },
+    {
+      "id": "v06:74d8361826e1bf0ac0",
+      "league_id": "CHN_2",
+      "name": "Nantong Zhiyun",
+      "source": "Real club; 2025 participant snapshot; https://www.rsssf.org/tablesc/china2025.html",
+      "players": []
+    },
+    {
+      "id": "v06:9bdec89ae77b5f1356",
+      "league_id": "CHN_2",
+      "name": "Dalian K'un City",
+      "source": "Real club; 2025 participant snapshot; https://www.rsssf.org/tablesc/china2025.html",
+      "players": []
+    },
+    {
+      "id": "v06:43bff0c4b484ca8890",
+      "league_id": "CHN_2",
+      "name": "Shaanxi Union",
+      "source": "Real club; 2025 participant snapshot; https://www.rsssf.org/tablesc/china2025.html",
+      "players": []
+    },
+    {
+      "id": "v06:0bfcd1fc7c956f1555",
+      "league_id": "CHN_2",
+      "name": "Suzhou Dongwu",
+      "source": "Real club; 2025 participant snapshot; https://www.rsssf.org/tablesc/china2025.html",
+      "players": []
+    },
+    {
+      "id": "v06:0ea591bf88d1af354f",
+      "league_id": "CHN_2",
+      "name": "Nanjing City",
+      "source": "Real club; 2025 participant snapshot; https://www.rsssf.org/tablesc/china2025.html",
+      "players": []
+    },
+    {
+      "id": "v06:6bd9291e51a192d1a2",
+      "league_id": "CHN_2",
+      "name": "Shanghai Jiading Huilong",
+      "source": "Real club; 2025 participant snapshot; https://www.rsssf.org/tablesc/china2025.html",
+      "players": []
+    },
+    {
+      "id": "v06:2df72fa40e313eb778",
+      "league_id": "CHN_2",
+      "name": "Foshan Nanshi",
+      "source": "Real club; 2025 participant snapshot; https://www.rsssf.org/tablesc/china2025.html",
+      "players": []
+    },
+    {
+      "id": "v06:6a2eed595142a9c064",
+      "league_id": "CHN_2",
+      "name": "Shenzhen Juniors",
+      "source": "Real club; 2025 participant snapshot; https://www.rsssf.org/tablesc/china2025.html",
+      "players": []
+    },
+    {
+      "id": "v06:bb1e3daea2395d864a",
+      "league_id": "CHN_2",
+      "name": "Guangxi Pingguo",
+      "source": "Real club; 2025 participant snapshot; https://www.rsssf.org/tablesc/china2025.html",
+      "players": []
+    },
+    {
+      "id": "v06:0da7ed22da4fe85bb7",
+      "league_id": "CHN_2",
+      "name": "Qingdao Red Lions",
+      "source": "Real club; 2025 participant snapshot; https://www.rsssf.org/tablesc/china2025.html",
+      "players": []
+    },
+    {
+      "id": "v06:995c7f5f7cc78c18fb",
+      "league_id": "CRO_2",
+      "name": "NK Rudeš",
+      "source": "Real club; 2025/26 participant snapshot; https://www.transfermarkt.nl/2-hnl/startseite/wettbewerb/KR2",
+      "players": []
+    },
+    {
+      "id": "v06:f699d5acbeebd20e45",
+      "league_id": "CRO_2",
+      "name": "NK Dubrava Tim kabel",
+      "source": "Real club; 2025/26 participant snapshot; https://www.transfermarkt.nl/2-hnl/startseite/wettbewerb/KR2",
+      "players": []
+    },
+    {
+      "id": "v06:2d1a16e1b03e61a5fe",
+      "league_id": "CRO_2",
+      "name": "NK Sesvete",
+      "source": "Real club; 2025/26 participant snapshot; https://www.transfermarkt.nl/2-hnl/startseite/wettbewerb/KR2",
+      "players": []
+    },
+    {
+      "id": "v06:20e71be29e16d147db",
+      "league_id": "CRO_2",
+      "name": "NK Dugopolje",
+      "source": "Real club; 2025/26 participant snapshot; https://www.transfermarkt.nl/2-hnl/startseite/wettbewerb/KR2",
+      "players": []
+    },
+    {
+      "id": "v06:2bdbd2901e73854f1e",
+      "league_id": "CRO_2",
+      "name": "HNK Orijent Rijeka",
+      "source": "Real club; 2025/26 participant snapshot; https://www.transfermarkt.nl/2-hnl/startseite/wettbewerb/KR2",
+      "players": []
+    },
+    {
+      "id": "v06:f026e98bff700caa68",
+      "league_id": "CRO_2",
+      "name": "NK BSK Bijelo Brdo",
+      "source": "Real club; 2025/26 participant snapshot; https://www.transfermarkt.nl/2-hnl/startseite/wettbewerb/KR2",
+      "players": []
+    },
+    {
+      "id": "v06:ab73f80ae728844e16",
+      "league_id": "CRO_2",
+      "name": "HNK Cibalia Vinkovci",
+      "source": "Real club; 2025/26 participant snapshot; https://www.transfermarkt.nl/2-hnl/startseite/wettbewerb/KR2",
+      "players": []
+    },
+    {
+      "id": "v06:be0497b470c6e960f9",
+      "league_id": "CRO_2",
+      "name": "NK Karlovac 1919",
+      "source": "Real club; 2025/26 participant snapshot; https://www.transfermarkt.nl/2-hnl/startseite/wettbewerb/KR2",
+      "players": []
+    },
+    {
+      "id": "v06:5ca2d3744264626d70",
+      "league_id": "CRO_2",
+      "name": "NK Opatija",
+      "source": "Real club; 2025/26 participant snapshot; https://www.transfermarkt.nl/2-hnl/startseite/wettbewerb/KR2",
+      "players": []
+    },
+    {
+      "id": "v06:4291fb171dc953fd32",
+      "league_id": "CRO_2",
+      "name": "NK Jarun",
+      "source": "Real club; 2025/26 participant snapshot; https://www.transfermarkt.nl/2-hnl/startseite/wettbewerb/KR2",
+      "players": []
+    },
+    {
+      "id": "v06:2795d41f0403dcbc4e",
+      "league_id": "CRO_2",
+      "name": "NK Hrvace",
+      "source": "Real club; 2025/26 participant snapshot; https://www.transfermarkt.nl/2-hnl/startseite/wettbewerb/KR2",
+      "players": []
+    },
+    {
+      "id": "v06:4c37d75f26d9a02f1a",
+      "league_id": "CRO_2",
+      "name": "NK Croatia Zmijavci",
+      "source": "Real club; 2025/26 participant snapshot; https://www.transfermarkt.nl/2-hnl/startseite/wettbewerb/KR2",
+      "players": []
+    },
+    {
+      "id": "v06:17c14ac0c4edb26012",
+      "league_id": "SRB_2",
+      "name": "Borac 1926",
+      "source": "Real club; 2025/26 participant snapshot; https://en.wikipedia.org/wiki/2025%E2%80%9326_Serbian_First_League",
+      "players": []
+    },
+    {
+      "id": "v06:f0b2e3f37347ef2df9",
+      "league_id": "SRB_2",
+      "name": "Dubočica",
+      "source": "Real club; 2025/26 participant snapshot; https://en.wikipedia.org/wiki/2025%E2%80%9326_Serbian_First_League",
+      "players": []
+    },
+    {
+      "id": "v06:8f7d22e73aa4ba295a",
+      "league_id": "SRB_2",
+      "name": "FAP",
+      "source": "Real club; 2025/26 participant snapshot; https://en.wikipedia.org/wiki/2025%E2%80%9326_Serbian_First_League",
+      "players": []
+    },
+    {
+      "id": "v06:f6b4f52d73f5719420",
+      "league_id": "SRB_2",
+      "name": "Jedinstvo Ub",
+      "source": "Real club; 2025/26 participant snapshot; https://en.wikipedia.org/wiki/2025%E2%80%9326_Serbian_First_League",
+      "players": []
+    },
+    {
+      "id": "v06:0656c04ec28c86411d",
+      "league_id": "SRB_2",
+      "name": "Kabel Novi Sad",
+      "source": "Real club; 2025/26 participant snapshot; https://en.wikipedia.org/wiki/2025%E2%80%9326_Serbian_First_League",
+      "players": []
+    },
+    {
+      "id": "v06:85e87abf15962cbe1e",
+      "league_id": "SRB_2",
+      "name": "Loznica",
+      "source": "Real club; 2025/26 participant snapshot; https://en.wikipedia.org/wiki/2025%E2%80%9326_Serbian_First_League",
+      "players": []
+    },
+    {
+      "id": "v06:b4e7b9fe6f7f4174d9",
+      "league_id": "SRB_2",
+      "name": "Mačva Šabac",
+      "source": "Real club; 2025/26 participant snapshot; https://en.wikipedia.org/wiki/2025%E2%80%9326_Serbian_First_League",
+      "players": []
+    },
+    {
+      "id": "v06:18ed8736666858f57e",
+      "league_id": "SRB_2",
+      "name": "OFK Vršac",
+      "source": "Real club; 2025/26 participant snapshot; https://en.wikipedia.org/wiki/2025%E2%80%9326_Serbian_First_League",
+      "players": []
+    },
+    {
+      "id": "v06:7b4076227ba971bc98",
+      "league_id": "SRB_2",
+      "name": "FK Smederevo",
+      "source": "Real club; 2025/26 participant snapshot; https://en.wikipedia.org/wiki/2025%E2%80%9326_Serbian_First_League",
+      "players": []
+    },
+    {
+      "id": "v06:2fa188905da2eb1278",
+      "league_id": "SRB_2",
+      "name": "Dinamo Jug",
+      "source": "Real club; 2025/26 participant snapshot; https://en.wikipedia.org/wiki/2025%E2%80%9326_Serbian_First_League",
+      "players": []
+    },
+    {
+      "id": "v06:567f98f742e72c47fd",
+      "league_id": "SRB_2",
+      "name": "Tekstilac Odžaci",
+      "source": "Real club; 2025/26 participant snapshot; https://en.wikipedia.org/wiki/2025%E2%80%9326_Serbian_First_League",
+      "players": []
+    },
+    {
+      "id": "v06:3d4acc62b3b1fb0ba5",
+      "league_id": "SRB_2",
+      "name": "Trayal Kruševac",
+      "source": "Real club; 2025/26 participant snapshot; https://en.wikipedia.org/wiki/2025%E2%80%9326_Serbian_First_League",
+      "players": []
+    },
+    {
+      "id": "v06:60f6f60c0f00d92b74",
+      "league_id": "SRB_2",
+      "name": "RFK Grafičar",
+      "source": "Real club; 2025/26 participant snapshot; https://en.wikipedia.org/wiki/2025%E2%80%9326_Serbian_First_League",
+      "players": []
+    },
+    {
+      "id": "v06:d0efa63b5f7ad06df4",
+      "league_id": "SRB_2",
+      "name": "Ušće Novi Beograd",
+      "source": "Real club; 2025/26 participant snapshot; https://en.wikipedia.org/wiki/2025%E2%80%9326_Serbian_First_League",
+      "players": []
+    },
+    {
+      "id": "v06:2d3eca33457cfb99c1",
+      "league_id": "SRB_2",
+      "name": "Voždovac",
+      "source": "Real club; 2025/26 participant snapshot; https://en.wikipedia.org/wiki/2025%E2%80%9326_Serbian_First_League",
+      "players": []
+    },
+    {
+      "id": "v06:5665b90a9c589068e1",
+      "league_id": "SRB_2",
+      "name": "Zemun",
+      "source": "Real club; 2025/26 participant snapshot; https://en.wikipedia.org/wiki/2025%E2%80%9326_Serbian_First_League",
+      "players": []
+    },
+    {
+      "id": "v06:de82f0a6140a67e337",
+      "league_id": "NED_3",
+      "name": "Sparta Rotterdam U21",
+      "source": "Real club; 2025/26 participant snapshot; https://www.transfermarkt.com/tweede-divisie/startseite/wettbewerb/NTD/saison_id/2025",
+      "players": []
+    },
+    {
+      "id": "v06:493ae2cc135061a091",
+      "league_id": "NED_3",
+      "name": "Almere City FC U23",
+      "source": "Real club; 2025/26 participant snapshot; https://www.transfermarkt.com/tweede-divisie/startseite/wettbewerb/NTD/saison_id/2025",
+      "players": []
+    },
+    {
+      "id": "v06:98d1e174cbf9196319",
+      "league_id": "NED_3",
+      "name": "Kozakken Boys Werkendam",
+      "source": "Real club; 2025/26 participant snapshot; https://www.transfermarkt.com/tweede-divisie/startseite/wettbewerb/NTD/saison_id/2025",
+      "players": []
+    },
+    {
+      "id": "v06:339f04c6a061bcac02",
+      "league_id": "NED_3",
+      "name": "VV IJsselmeervogels",
+      "source": "Real club; 2025/26 participant snapshot; https://www.transfermarkt.com/tweede-divisie/startseite/wettbewerb/NTD/saison_id/2025",
+      "players": []
+    },
+    {
+      "id": "v06:49ea368e5110db7332",
+      "league_id": "NED_3",
+      "name": "VV Katwijk",
+      "source": "Real club; 2025/26 participant snapshot; https://www.transfermarkt.com/tweede-divisie/startseite/wettbewerb/NTD/saison_id/2025",
+      "players": []
+    },
+    {
+      "id": "v06:60e462e9b3ebeb96f8",
+      "league_id": "NED_3",
+      "name": "RKAV Volendam",
+      "source": "Real club; 2025/26 participant snapshot; https://www.transfermarkt.com/tweede-divisie/startseite/wettbewerb/NTD/saison_id/2025",
+      "players": []
+    },
+    {
+      "id": "v06:c0188675ea7845c30f",
+      "league_id": "NED_3",
+      "name": "ACV Assen",
+      "source": "Real club; 2025/26 participant snapshot; https://www.transfermarkt.com/tweede-divisie/startseite/wettbewerb/NTD/saison_id/2025",
+      "players": []
+    },
+    {
+      "id": "v06:3213cb220c8942fa50",
+      "league_id": "NED_3",
+      "name": "AFC Amsterdam",
+      "source": "Real club; 2025/26 participant snapshot; https://www.transfermarkt.com/tweede-divisie/startseite/wettbewerb/NTD/saison_id/2025",
+      "players": []
+    },
+    {
+      "id": "v06:9d1df6e5ba3f1db8d8",
+      "league_id": "NED_3",
+      "name": "BVV Barendrecht",
+      "source": "Real club; 2025/26 participant snapshot; https://www.transfermarkt.com/tweede-divisie/startseite/wettbewerb/NTD/saison_id/2025",
+      "players": []
+    },
+    {
+      "id": "v06:3661082522f33abe63",
+      "league_id": "NED_3",
+      "name": "Excelsior Maassluis",
+      "source": "Real club; 2025/26 participant snapshot; https://www.transfermarkt.com/tweede-divisie/startseite/wettbewerb/NTD/saison_id/2025",
+      "players": []
+    },
+    {
+      "id": "v06:6a3742fafa99d9a64b",
+      "league_id": "NED_3",
+      "name": "GVVV Veenendaal",
+      "source": "Real club; 2025/26 participant snapshot; https://www.transfermarkt.com/tweede-divisie/startseite/wettbewerb/NTD/saison_id/2025",
+      "players": []
+    },
+    {
+      "id": "v06:4a65f33778a9217630",
+      "league_id": "NED_3",
+      "name": "Koninklijke HFC Haarlem",
+      "source": "Real club; 2025/26 participant snapshot; https://www.transfermarkt.com/tweede-divisie/startseite/wettbewerb/NTD/saison_id/2025",
+      "players": []
+    },
+    {
+      "id": "v06:0b4cea658e205b401c",
+      "league_id": "NED_3",
+      "name": "HHC Hardenberg",
+      "source": "Real club; 2025/26 participant snapshot; https://www.transfermarkt.com/tweede-divisie/startseite/wettbewerb/NTD/saison_id/2025",
+      "players": []
+    },
+    {
+      "id": "v06:4781366387d1e59173",
+      "league_id": "NED_3",
+      "name": "HSV Hoek",
+      "source": "Real club; 2025/26 participant snapshot; https://www.transfermarkt.com/tweede-divisie/startseite/wettbewerb/NTD/saison_id/2025",
+      "players": []
+    },
+    {
+      "id": "v06:a4c86a27f18e3f9cd1",
+      "league_id": "NED_3",
+      "name": "Rijnsburgse Boys",
+      "source": "Real club; 2025/26 participant snapshot; https://www.transfermarkt.com/tweede-divisie/startseite/wettbewerb/NTD/saison_id/2025",
+      "players": []
+    },
+    {
+      "id": "v06:1ef5ccb743b33d32d8",
+      "league_id": "NED_3",
+      "name": "KVV Quick Boys Katwijk",
+      "source": "Real club; 2025/26 participant snapshot; https://www.transfermarkt.com/tweede-divisie/startseite/wettbewerb/NTD/saison_id/2025",
+      "players": []
+    },
+    {
+      "id": "v06:88215513e671178a0b",
+      "league_id": "NED_3",
+      "name": "SV Spakenburg",
+      "source": "Real club; 2025/26 participant snapshot; https://www.transfermarkt.com/tweede-divisie/startseite/wettbewerb/NTD/saison_id/2025",
+      "players": []
+    },
+    {
+      "id": "v06:74650d6ecb312cdecd",
+      "league_id": "NED_3",
+      "name": "De Treffers",
+      "source": "Real club; 2025/26 participant snapshot; https://www.transfermarkt.com/tweede-divisie/startseite/wettbewerb/NTD/saison_id/2025",
+      "players": []
+    },
+    {
+      "id": "v06:ab7ead3171049a7556",
+      "league_id": "EGY_2",
+      "name": "El-Qanah Club",
+      "source": "Real club; 2025/26 participant snapshot; https://rsssf.org/tablese/egy2026.html",
+      "players": []
+    },
+    {
+      "id": "v06:f14eca4c485a78c50a",
+      "league_id": "EGY_2",
+      "name": "Asyut Petroleum",
+      "source": "Real club; 2025/26 participant snapshot; https://rsssf.org/tablese/egy2026.html",
+      "players": []
+    },
+    {
+      "id": "v06:bf04b0c5b64d2df573",
+      "league_id": "EGY_2",
+      "name": "Abo Qir Semad",
+      "source": "Real club; 2025/26 participant snapshot; https://rsssf.org/tablese/egy2026.html",
+      "players": []
+    },
+    {
+      "id": "v06:fe3fdefe0af0d5f14e",
+      "league_id": "EGY_2",
+      "name": "FC Masar",
+      "source": "Real club; 2025/26 participant snapshot; https://rsssf.org/tablese/egy2026.html",
+      "players": []
+    },
+    {
+      "id": "v06:ea0b9e1212988f3c56",
+      "league_id": "EGY_2",
+      "name": "Proxy",
+      "source": "Real club; 2025/26 participant snapshot; https://rsssf.org/tablese/egy2026.html",
+      "players": []
+    },
+    {
+      "id": "v06:80a634250803a00cc0",
+      "league_id": "EGY_2",
+      "name": "La Viena",
+      "source": "Real club; 2025/26 participant snapshot; https://rsssf.org/tablese/egy2026.html",
+      "players": []
+    },
+    {
+      "id": "v06:71d686a45b67cf316c",
+      "league_id": "EGY_2",
+      "name": "Telecom Egypt",
+      "source": "Real club; 2025/26 participant snapshot; https://rsssf.org/tablese/egy2026.html",
+      "players": []
+    },
+    {
+      "id": "v06:7c06ea7185969b5858",
+      "league_id": "EGY_2",
+      "name": "El-Sekka El-Hadid",
+      "source": "Real club; 2025/26 participant snapshot; https://rsssf.org/tablese/egy2026.html",
+      "players": []
+    },
+    {
+      "id": "v06:471eef2c5eb5f468bb",
+      "league_id": "EGY_2",
+      "name": "El-Mansoura",
+      "source": "Real club; 2025/26 participant snapshot; https://rsssf.org/tablese/egy2026.html",
+      "players": []
+    },
+    {
+      "id": "v06:70a2927a9e60130de7",
+      "league_id": "EGY_2",
+      "name": "Maleyat Kafr El-Zayat",
+      "source": "Real club; 2025/26 participant snapshot; https://rsssf.org/tablese/egy2026.html",
+      "players": []
+    },
+    {
+      "id": "v06:6756324ff037060a63",
+      "league_id": "EGY_2",
+      "name": "Tersana",
+      "source": "Real club; 2025/26 participant snapshot; https://rsssf.org/tablese/egy2026.html",
+      "players": []
+    },
+    {
+      "id": "v06:d36ca5be223cef2d86",
+      "league_id": "EGY_2",
+      "name": "El-Entag El-Harby",
+      "source": "Real club; 2025/26 participant snapshot; https://rsssf.org/tablese/egy2026.html",
+      "players": []
+    },
+    {
+      "id": "v06:b5283fa985500e82d7",
+      "league_id": "EGY_2",
+      "name": "Al-Dakhleya",
+      "source": "Real club; 2025/26 participant snapshot; https://rsssf.org/tablese/egy2026.html",
+      "players": []
+    },
+    {
+      "id": "v06:b74b4d37b6c578f4f5",
+      "league_id": "EGY_2",
+      "name": "Dayrot",
+      "source": "Real club; 2025/26 participant snapshot; https://rsssf.org/tablese/egy2026.html",
+      "players": []
+    },
+    {
+      "id": "v06:bf2f0e7e1ac8049af4",
+      "league_id": "EGY_2",
+      "name": "Tanta",
+      "source": "Real club; 2025/26 participant snapshot; https://rsssf.org/tablese/egy2026.html",
+      "players": []
+    },
+    {
+      "id": "v06:ac68e9bcee1b2828f6",
+      "league_id": "EGY_2",
+      "name": "Baladeyet Al-Mahalla",
+      "source": "Real club; 2025/26 participant snapshot; https://rsssf.org/tablese/egy2026.html",
+      "players": []
+    },
+    {
+      "id": "v06:9ca8c7b3a3ad6a5c56",
+      "league_id": "EGY_2",
+      "name": "Aswan",
+      "source": "Real club; 2025/26 participant snapshot; https://rsssf.org/tablese/egy2026.html",
+      "players": []
+    },
+    {
+      "id": "v06:355d7e1e9583211f44",
+      "league_id": "EGY_2",
+      "name": "Raya",
+      "source": "Real club; 2025/26 participant snapshot; https://rsssf.org/tablese/egy2026.html",
+      "players": []
+    },
+    {
+      "id": "v06:5ff24e8b87445615f7",
+      "league_id": "KSA_2",
+      "name": "Abha",
+      "source": "Real club; 2025/26 participant snapshot; https://www.rsssf.org/tabless/sau2026.html",
+      "players": []
+    },
+    {
+      "id": "v06:fe3df4d5158d0eefe4",
+      "league_id": "KSA_2",
+      "name": "Al-Faisaly",
+      "source": "Real club; 2025/26 participant snapshot; https://www.rsssf.org/tabless/sau2026.html",
+      "players": []
+    },
+    {
+      "id": "v06:756b0ceea78a306aec",
+      "league_id": "KSA_2",
+      "name": "Al-Diraiyah FC",
+      "source": "Real club; 2025/26 participant snapshot; https://www.rsssf.org/tabless/sau2026.html",
+      "players": []
+    },
+    {
+      "id": "v06:eff4ce4b450c774602",
+      "league_id": "KSA_2",
+      "name": "Al-Ula",
+      "source": "Real club; 2025/26 participant snapshot; https://www.rsssf.org/tabless/sau2026.html",
+      "players": []
+    },
+    {
+      "id": "v06:3f269e6de4298fb11b",
+      "league_id": "KSA_2",
+      "name": "Al-Jabalain",
+      "source": "Real club; 2025/26 participant snapshot; https://www.rsssf.org/tabless/sau2026.html",
+      "players": []
+    },
+    {
+      "id": "v06:e122f6cf85be533d2a",
+      "league_id": "KSA_2",
+      "name": "Al-Anwar",
+      "source": "Real club; 2025/26 participant snapshot; https://www.rsssf.org/tabless/sau2026.html",
+      "players": []
+    },
+    {
+      "id": "v06:eb13de97e53fafeeaf",
+      "league_id": "KSA_2",
+      "name": "Al-Bukiryah",
+      "source": "Real club; 2025/26 participant snapshot; https://www.rsssf.org/tabless/sau2026.html",
+      "players": []
+    },
+    {
+      "id": "v06:e8b39480abf4450d11",
+      "league_id": "KSA_2",
+      "name": "Al-Zulfi",
+      "source": "Real club; 2025/26 participant snapshot; https://www.rsssf.org/tabless/sau2026.html",
+      "players": []
+    },
+    {
+      "id": "v06:46c74a7c8ba23d6ffe",
+      "league_id": "KSA_2",
+      "name": "Al-Tai",
+      "source": "Real club; 2025/26 participant snapshot; https://www.rsssf.org/tabless/sau2026.html",
+      "players": []
+    },
+    {
+      "id": "v06:c401c75bf431ea5555",
+      "league_id": "KSA_2",
+      "name": "Al-Adalah",
+      "source": "Real club; 2025/26 participant snapshot; https://www.rsssf.org/tabless/sau2026.html",
+      "players": []
+    },
+    {
+      "id": "v06:adcc284742f1201d85",
+      "league_id": "KSA_2",
+      "name": "Al-Jandal",
+      "source": "Real club; 2025/26 participant snapshot; https://www.rsssf.org/tabless/sau2026.html",
+      "players": []
+    },
+    {
+      "id": "v06:c160052f43329711d8",
+      "league_id": "KSA_2",
+      "name": "Al-Batin",
+      "source": "Real club; 2025/26 participant snapshot; https://www.rsssf.org/tabless/sau2026.html",
+      "players": []
+    },
+    {
+      "id": "v06:df82e0df6e3797ac1f",
+      "league_id": "KSA_2",
+      "name": "Al-Arabi",
+      "source": "Real club; 2025/26 participant snapshot; https://www.rsssf.org/tabless/sau2026.html",
+      "players": []
+    },
+    {
+      "id": "v06:7cc51d66647c863244",
+      "league_id": "KSA_2",
+      "name": "Jeddah SC",
+      "source": "Real club; 2025/26 participant snapshot; https://www.rsssf.org/tabless/sau2026.html",
+      "players": []
+    },
+    {
+      "id": "v06:5c00eda407971cd170",
+      "league_id": "KSA_2",
+      "name": "Al-Jubail",
+      "source": "Real club; 2025/26 participant snapshot; https://www.rsssf.org/tabless/sau2026.html",
+      "players": []
+    },
+    {
+      "id": "v06:7377cda47bd38b6cd6",
+      "league_id": "MAR_2",
+      "name": "Chabab Atlas Khénifra",
+      "source": "Real club; 2026/27 participant snapshot; https://lnfp.ma/",
+      "players": []
+    },
+    {
+      "id": "v06:9969b840fc8c5e7806",
+      "league_id": "MAR_2",
+      "name": "Club Jeunesse Ben Guerir",
+      "source": "Real club; 2026/27 participant snapshot; https://lnfp.ma/",
+      "players": []
+    },
+    {
+      "id": "v06:a70c5a2a27f6723273",
+      "league_id": "MAR_2",
+      "name": "Ittihad Zemmouri Khémisset",
+      "source": "Real club; 2026/27 participant snapshot; https://lnfp.ma/",
+      "players": []
+    },
+    {
+      "id": "v06:eb74da72fde7630649",
+      "league_id": "MAR_2",
+      "name": "Jeunesse sportive Massira",
+      "source": "Real club; 2026/27 participant snapshot; https://lnfp.ma/",
+      "players": []
+    },
+    {
+      "id": "v06:e1e37fabb90e89fcdb",
+      "league_id": "MAR_2",
+      "name": "Kénitra Athletic Club",
+      "source": "Real club; 2026/27 participant snapshot; https://lnfp.ma/",
+      "players": []
+    },
+    {
+      "id": "v06:8d70f2b5e7b8ae0af9",
+      "league_id": "MAR_2",
+      "name": "Mouloudia Club d'Oujda",
+      "source": "Real club; 2026/27 participant snapshot; https://lnfp.ma/",
+      "players": []
+    },
+    {
+      "id": "v06:b61ea242a616b87141",
+      "league_id": "MAR_2",
+      "name": "Olympique Club Khouribga",
+      "source": "Real club; 2026/27 participant snapshot; https://lnfp.ma/",
+      "players": []
+    },
+    {
+      "id": "v06:979b5f9acc94637f2e",
+      "league_id": "MAR_2",
+      "name": "Olympique Dcheira",
+      "source": "Real club; 2026/27 participant snapshot; https://lnfp.ma/",
+      "players": []
+    },
+    {
+      "id": "v06:d8adca1aab893339fc",
+      "league_id": "MAR_2",
+      "name": "Stade Marocain",
+      "source": "Real club; 2026/27 participant snapshot; https://lnfp.ma/",
+      "players": []
+    },
+    {
+      "id": "v06:29012ec8550eb4b872",
+      "league_id": "MAR_2",
+      "name": "Union Sportive Bejaad",
+      "source": "Real club; 2026/27 participant snapshot; https://lnfp.ma/",
+      "players": []
+    },
+    {
+      "id": "v06:352565ac3e3001d302",
+      "league_id": "MAR_2",
+      "name": "Union sportive musulmane d'Oujda",
+      "source": "Real club; 2026/27 participant snapshot; https://lnfp.ma/",
+      "players": []
+    },
+    {
+      "id": "v06:3417c796ba71995d45",
+      "league_id": "MAR_2",
+      "name": "Union sportive Yacoub El Mansour",
+      "source": "Real club; 2026/27 participant snapshot; https://lnfp.ma/",
+      "players": []
+    },
+    {
+      "id": "v06:b483bdb18e65e4ce1c",
+      "league_id": "MAR_2",
+      "name": "Wydad Athletic de Fès",
+      "source": "Real club; 2026/27 participant snapshot; https://lnfp.ma/",
+      "players": []
+    },
+    {
+      "id": "v06:b707f59ebee1ddae00",
+      "league_id": "UKR_2",
+      "name": "Bukovyna Chernivtsi",
+      "source": "Real club; 2025/26 participant snapshot; https://www.rsssf.org/tableso/oekr2026.html",
+      "players": []
+    },
+    {
+      "id": "v06:572bb537429a131cd5",
+      "league_id": "UKR_2",
+      "name": "Ahrobiznes Volochysk",
+      "source": "Real club; 2025/26 participant snapshot; https://www.rsssf.org/tableso/oekr2026.html",
+      "players": []
+    },
+    {
+      "id": "v06:0137d737a5875ea916",
+      "league_id": "UKR_2",
+      "name": "Prykarpattia Ivano-Frankivsk",
+      "source": "Real club; 2025/26 participant snapshot; https://www.rsssf.org/tableso/oekr2026.html",
+      "players": []
+    },
+    {
+      "id": "v06:8ec37c458b0969ee85",
+      "league_id": "UKR_2",
+      "name": "Metalist Kharkiv",
+      "source": "Real club; 2025/26 participant snapshot; https://www.rsssf.org/tableso/oekr2026.html",
+      "players": []
+    },
+    {
+      "id": "v06:2bb5d172f557783f11",
+      "league_id": "UKR_2",
+      "name": "Probiy Horodenka",
+      "source": "Real club; 2025/26 participant snapshot; https://www.rsssf.org/tableso/oekr2026.html",
+      "players": []
+    },
+    {
+      "id": "v06:ca9fe3125fe7e34755",
+      "league_id": "UKR_2",
+      "name": "Phoenix Mariupol",
+      "source": "Real club; 2025/26 participant snapshot; https://www.rsssf.org/tableso/oekr2026.html",
+      "players": []
+    },
+    {
+      "id": "v06:cb50c63173a068aaf3",
+      "league_id": "UKR_2",
+      "name": "Viktoriya Sumy",
+      "source": "Real club; 2025/26 participant snapshot; https://www.rsssf.org/tableso/oekr2026.html",
+      "players": []
+    },
+    {
+      "id": "v06:e06021ae13e7d2f4c6",
+      "league_id": "UKR_2",
+      "name": "UCSA Tarasivka",
+      "source": "Real club; 2025/26 participant snapshot; https://www.rsssf.org/tableso/oekr2026.html",
+      "players": []
+    },
+    {
+      "id": "v06:4dd7d9fbdef6f9bcb9",
+      "league_id": "UKR_2",
+      "name": "Nyva Ternopil",
+      "source": "Real club; 2025/26 participant snapshot; https://www.rsssf.org/tableso/oekr2026.html",
+      "players": []
+    },
+    {
+      "id": "v06:eb6e6b7c7c21ee32e2",
+      "league_id": "UKR_2",
+      "name": "FC Chernihiv",
+      "source": "Real club; 2025/26 participant snapshot; https://www.rsssf.org/tableso/oekr2026.html",
+      "players": []
+    },
+    {
+      "id": "v06:d93c1b1d416051f542",
+      "league_id": "UKR_2",
+      "name": "Podillia Khmelnytskyi",
+      "source": "Real club; 2025/26 participant snapshot; https://www.rsssf.org/tableso/oekr2026.html",
+      "players": []
+    },
+    {
+      "id": "v06:bc407592d2d3766202",
+      "league_id": "UKR_2",
+      "name": "Metalurh Zaporizhzhia",
+      "source": "Real club; 2025/26 participant snapshot; https://www.rsssf.org/tableso/oekr2026.html",
+      "players": []
+    },
+    {
+      "id": "v06:9855350b4ac2cb9a8e",
+      "league_id": "ITA_3",
+      "name": "UC AlbinoLeffe",
+      "source": "Real club; 2025/26 participant snapshot; https://www.lega-pro.com/com/2526-42L.pdf",
+      "players": []
+    },
+    {
+      "id": "v06:8b9e0f4890b7997994",
+      "league_id": "ITA_3",
+      "name": "Team Altamura",
+      "source": "Real club; 2025/26 participant snapshot; https://www.lega-pro.com/com/2526-42L.pdf",
+      "players": []
+    },
+    {
+      "id": "v06:5b23a8e68be37deb6e",
+      "league_id": "ITA_3",
+      "name": "SS Arezzo",
+      "source": "Real club; 2025/26 participant snapshot; https://www.lega-pro.com/com/2526-42L.pdf",
+      "players": []
+    },
+    {
+      "id": "v06:44e9c217fb21106767",
+      "league_id": "ITA_3",
+      "name": "Arzignano Valchiampo",
+      "source": "Real club; 2025/26 participant snapshot; https://www.lega-pro.com/com/2526-42L.pdf",
+      "players": []
+    },
+    {
+      "id": "v06:546c5e7ccf9572f945",
+      "league_id": "ITA_3",
+      "name": "Ascoli Calcio",
+      "source": "Real club; 2025/26 participant snapshot; https://www.lega-pro.com/com/2526-42L.pdf",
+      "players": []
+    },
+    {
+      "id": "v06:19231aab8ccfc1be3e",
+      "league_id": "ITA_3",
+      "name": "Atalanta U23",
+      "source": "Real club; 2025/26 participant snapshot; https://www.lega-pro.com/com/2526-42L.pdf",
+      "players": []
+    },
+    {
+      "id": "v06:627eae25bcb4ed090c",
+      "league_id": "ITA_3",
+      "name": "Aurora Pro Patria",
+      "source": "Real club; 2025/26 participant snapshot; https://www.lega-pro.com/com/2526-42L.pdf",
+      "players": []
+    },
+    {
+      "id": "v06:b26d27818c0c48f4ef",
+      "league_id": "ITA_3",
+      "name": "Benevento Calcio",
+      "source": "Real club; 2025/26 participant snapshot; https://www.lega-pro.com/com/2526-42L.pdf",
+      "players": []
+    },
+    {
+      "id": "v06:13e5b36b99ae08a288",
+      "league_id": "ITA_3",
+      "name": "AC Bra",
+      "source": "Real club; 2025/26 participant snapshot; https://www.lega-pro.com/com/2526-42L.pdf",
+      "players": []
+    },
+    {
+      "id": "v06:14fe3cfbf51503384f",
+      "league_id": "ITA_3",
+      "name": "Union Brescia",
+      "source": "Real club; 2025/26 participant snapshot; https://www.lega-pro.com/com/2526-42L.pdf",
+      "players": []
+    },
+    {
+      "id": "v06:3351edc6021d1d9ad6",
+      "league_id": "ITA_3",
+      "name": "Campobasso FC",
+      "source": "Real club; 2025/26 participant snapshot; https://www.lega-pro.com/com/2526-42L.pdf",
+      "players": []
+    },
+    {
+      "id": "v06:d3bb688cc29906e4d4",
+      "league_id": "ITA_3",
+      "name": "AC Carpi",
+      "source": "Real club; 2025/26 participant snapshot; https://www.lega-pro.com/com/2526-42L.pdf",
+      "players": []
+    },
+    {
+      "id": "v06:5d10737619f4003098",
+      "league_id": "ITA_3",
+      "name": "Casarano Calcio",
+      "source": "Real club; 2025/26 participant snapshot; https://www.lega-pro.com/com/2526-42L.pdf",
+      "players": []
+    },
+    {
+      "id": "v06:ceb95180e42f49e448",
+      "league_id": "ITA_3",
+      "name": "Casertana FC",
+      "source": "Real club; 2025/26 participant snapshot; https://www.lega-pro.com/com/2526-42L.pdf",
+      "players": []
+    },
+    {
+      "id": "v06:174066e46ee3e6f11f",
+      "league_id": "ITA_3",
+      "name": "Catania FC",
+      "source": "Real club; 2025/26 participant snapshot; https://www.lega-pro.com/com/2526-42L.pdf",
+      "players": []
+    },
+    {
+      "id": "v06:228672f2bcec789085",
+      "league_id": "ITA_3",
+      "name": "Cavese 1919",
+      "source": "Real club; 2025/26 participant snapshot; https://www.lega-pro.com/com/2526-42L.pdf",
+      "players": []
+    },
+    {
+      "id": "v06:d51c1cbe3197ed63c1",
+      "league_id": "ITA_3",
+      "name": "Audace Cerignola",
+      "source": "Real club; 2025/26 participant snapshot; https://www.lega-pro.com/com/2526-42L.pdf",
+      "players": []
+    },
+    {
+      "id": "v06:a1432e309de0a6e778",
+      "league_id": "ITA_3",
+      "name": "AS Cittadella",
+      "source": "Real club; 2025/26 participant snapshot; https://www.lega-pro.com/com/2526-42L.pdf",
+      "players": []
+    },
+    {
+      "id": "v06:c3b47a6136b8660b9f",
+      "league_id": "ITA_3",
+      "name": "Cosenza Calcio",
+      "source": "Real club; 2025/26 participant snapshot; https://www.lega-pro.com/com/2526-42L.pdf",
+      "players": []
+    },
+    {
+      "id": "v06:e25d880a2fb9844773",
+      "league_id": "ITA_3",
+      "name": "FC Crotone",
+      "source": "Real club; 2025/26 participant snapshot; https://www.lega-pro.com/com/2526-42L.pdf",
+      "players": []
+    },
+    {
+      "id": "v06:b365e6172e65ac4def",
+      "league_id": "ITA_3",
+      "name": "Dolomiti Bellunesi",
+      "source": "Real club; 2025/26 participant snapshot; https://www.lega-pro.com/com/2526-42L.pdf",
+      "players": []
+    },
+    {
+      "id": "v06:e750a579f580ac8791",
+      "league_id": "ITA_3",
+      "name": "Calcio Foggia 1920",
+      "source": "Real club; 2025/26 participant snapshot; https://www.lega-pro.com/com/2526-42L.pdf",
+      "players": []
+    },
+    {
+      "id": "v06:e35f7622d3ef10353e",
+      "league_id": "ITA_3",
+      "name": "Forlì FC",
+      "source": "Real club; 2025/26 participant snapshot; https://www.lega-pro.com/com/2526-42L.pdf",
+      "players": []
+    },
+    {
+      "id": "v06:db97c6cd6070d1fafb",
+      "league_id": "ITA_3",
+      "name": "AS Giana Erminio",
+      "source": "Real club; 2025/26 participant snapshot; https://www.lega-pro.com/com/2526-42L.pdf",
+      "players": []
+    },
+    {
+      "id": "v06:59a38c27b28a393acf",
+      "league_id": "ITA_3",
+      "name": "Giugliano Calcio 1928",
+      "source": "Real club; 2025/26 participant snapshot; https://www.lega-pro.com/com/2526-42L.pdf",
+      "players": []
+    },
+    {
+      "id": "v06:6c2f64389bafd364ec",
+      "league_id": "ITA_3",
+      "name": "AS Gubbio 1910",
+      "source": "Real club; 2025/26 participant snapshot; https://www.lega-pro.com/com/2526-42L.pdf",
+      "players": []
+    },
+    {
+      "id": "v06:58929185ccf00deea4",
+      "league_id": "ITA_3",
+      "name": "Guidonia Montecelio 1937 FC",
+      "source": "Real club; 2025/26 participant snapshot; https://www.lega-pro.com/com/2526-42L.pdf",
+      "players": []
+    },
+    {
+      "id": "v06:fed46b67111795650d",
+      "league_id": "ITA_3",
+      "name": "Inter U23",
+      "source": "Real club; 2025/26 participant snapshot; https://www.lega-pro.com/com/2526-42L.pdf",
+      "players": []
+    },
+    {
+      "id": "v06:4e44af051f88752d19",
+      "league_id": "ITA_3",
+      "name": "Juventus Next Gen",
+      "source": "Real club; 2025/26 participant snapshot; https://www.lega-pro.com/com/2526-42L.pdf",
+      "players": []
+    },
+    {
+      "id": "v06:66f4e1e77a13a1a42d",
+      "league_id": "ITA_3",
+      "name": "Latina Calcio 1932",
+      "source": "Real club; 2025/26 participant snapshot; https://www.lega-pro.com/com/2526-42L.pdf",
+      "players": []
+    },
+    {
+      "id": "v06:a7023d55caa8279667",
+      "league_id": "ITA_3",
+      "name": "Calcio Lecco 1912",
+      "source": "Real club; 2025/26 participant snapshot; https://www.lega-pro.com/com/2526-42L.pdf",
+      "players": []
+    },
+    {
+      "id": "v06:a947a1607e171bb0e0",
+      "league_id": "ITA_3",
+      "name": "US Livorno 1915",
+      "source": "Real club; 2025/26 participant snapshot; https://www.lega-pro.com/com/2526-42L.pdf",
+      "players": []
+    },
+    {
+      "id": "v06:06baf7ac9459d13fe2",
+      "league_id": "ITA_3",
+      "name": "FC Lumezzane",
+      "source": "Real club; 2025/26 participant snapshot; https://www.lega-pro.com/com/2526-42L.pdf",
+      "players": []
+    },
+    {
+      "id": "v06:05df06cad0332dc87a",
+      "league_id": "ITA_3",
+      "name": "Alcione Milano",
+      "source": "Real club; 2025/26 participant snapshot; https://www.lega-pro.com/com/2526-42L.pdf",
+      "players": []
+    },
+    {
+      "id": "v06:1eeb01a20ccc3c2ea6",
+      "league_id": "ITA_3",
+      "name": "SS Monopoli 1966",
+      "source": "Real club; 2025/26 participant snapshot; https://www.lega-pro.com/com/2526-42L.pdf",
+      "players": []
+    },
+    {
+      "id": "v06:1dc953e7ecb54a2913",
+      "league_id": "ITA_3",
+      "name": "Novara FC",
+      "source": "Real club; 2025/26 participant snapshot; https://www.lega-pro.com/com/2526-42L.pdf",
+      "players": []
+    },
+    {
+      "id": "v06:b29fb6fc06bc452abb",
+      "league_id": "ITA_3",
+      "name": "CPR Ospitaletto",
+      "source": "Real club; 2025/26 participant snapshot; https://www.lega-pro.com/com/2526-42L.pdf",
+      "players": []
+    },
+    {
+      "id": "v06:2500480a5a247f2fc0",
+      "league_id": "ITA_3",
+      "name": "US Pergolettese 1932",
+      "source": "Real club; 2025/26 participant snapshot; https://www.lega-pro.com/com/2526-42L.pdf",
+      "players": []
+    },
+    {
+      "id": "v06:cf8dc0d3be37651037",
+      "league_id": "ITA_3",
+      "name": "AC Perugia Calcio",
+      "source": "Real club; 2025/26 participant snapshot; https://www.lega-pro.com/com/2526-42L.pdf",
+      "players": []
+    },
+    {
+      "id": "v06:4dcc150db78a21158f",
+      "league_id": "ITA_3",
+      "name": "Vis Pesaro 1898",
+      "source": "Real club; 2025/26 participant snapshot; https://www.lega-pro.com/com/2526-42L.pdf",
+      "players": []
+    },
+    {
+      "id": "v06:2868dfa55daf680d2c",
+      "league_id": "ITA_3",
+      "name": "US Pianese",
+      "source": "Real club; 2025/26 participant snapshot; https://www.lega-pro.com/com/2526-42L.pdf",
+      "players": []
+    },
+    {
+      "id": "v06:b0c0323238098cc2a1",
+      "league_id": "ITA_3",
+      "name": "AZ Picerno",
+      "source": "Real club; 2025/26 participant snapshot; https://www.lega-pro.com/com/2526-42L.pdf",
+      "players": []
+    },
+    {
+      "id": "v06:ed8e272923ce823cc9",
+      "league_id": "ITA_3",
+      "name": "Pineto Calcio",
+      "source": "Real club; 2025/26 participant snapshot; https://www.lega-pro.com/com/2526-42L.pdf",
+      "players": []
+    },
+    {
+      "id": "v06:0a4aa5df1890662ff0",
+      "league_id": "ITA_3",
+      "name": "US Città di Pontedera",
+      "source": "Real club; 2025/26 participant snapshot; https://www.lega-pro.com/com/2526-42L.pdf",
+      "players": []
+    },
+    {
+      "id": "v06:a85af6ac0b1358bd51",
+      "league_id": "ITA_3",
+      "name": "Potenza Calcio",
+      "source": "Real club; 2025/26 participant snapshot; https://www.lega-pro.com/com/2526-42L.pdf",
+      "players": []
+    },
+    {
+      "id": "v06:76eca5f75efb53713e",
+      "league_id": "ITA_3",
+      "name": "Ravenna FC",
+      "source": "Real club; 2025/26 participant snapshot; https://www.lega-pro.com/com/2526-42L.pdf",
+      "players": []
+    },
+    {
+      "id": "v06:6de98ed58a5b4cd213",
+      "league_id": "ITA_3",
+      "name": "AC Renate",
+      "source": "Real club; 2025/26 participant snapshot; https://www.lega-pro.com/com/2526-42L.pdf",
+      "players": []
+    },
+    {
+      "id": "v06:38a898db656c74a6d3",
+      "league_id": "ITA_3",
+      "name": "Rimini FC",
+      "source": "Real club; 2025/26 participant snapshot; https://www.lega-pro.com/com/2526-42L.pdf",
+      "players": []
+    },
+    {
+      "id": "v06:7f02cfc5b1eac6c4ae",
+      "league_id": "ITA_3",
+      "name": "US Sambenedettese",
+      "source": "Real club; 2025/26 participant snapshot; https://www.lega-pro.com/com/2526-42L.pdf",
+      "players": []
+    },
+    {
+      "id": "v06:a847518b8671953d74",
+      "league_id": "ITA_3",
+      "name": "US Salernitana 1919",
+      "source": "Real club; 2025/26 participant snapshot; https://www.lega-pro.com/com/2526-42L.pdf",
+      "players": []
+    },
+    {
+      "id": "v06:3856614680f7f6e314",
+      "league_id": "ITA_3",
+      "name": "Siracusa Calcio 1924",
+      "source": "Real club; 2025/26 participant snapshot; https://www.lega-pro.com/com/2526-42L.pdf",
+      "players": []
+    },
+    {
+      "id": "v06:1984732f5e0e0790a0",
+      "league_id": "ITA_3",
+      "name": "Sorrento Calcio 1945",
+      "source": "Real club; 2025/26 participant snapshot; https://www.lega-pro.com/com/2526-42L.pdf",
+      "players": []
+    },
+    {
+      "id": "v06:af8f3bd9e1f3619858",
+      "league_id": "ITA_3",
+      "name": "Ternana Calcio",
+      "source": "Real club; 2025/26 participant snapshot; https://www.lega-pro.com/com/2526-42L.pdf",
+      "players": []
+    },
+    {
+      "id": "v06:03918e88850be55e4e",
+      "league_id": "ITA_3",
+      "name": "SEF Torres 1903",
+      "source": "Real club; 2025/26 participant snapshot; https://www.lega-pro.com/com/2526-42L.pdf",
+      "players": []
+    },
+    {
+      "id": "v06:cf8a11917e5db86543",
+      "league_id": "ITA_3",
+      "name": "FC Trapani 1905",
+      "source": "Real club; 2025/26 participant snapshot; https://www.lega-pro.com/com/2526-42L.pdf",
+      "players": []
+    },
+    {
+      "id": "v06:c4beec3ade8cf8ea37",
+      "league_id": "ITA_3",
+      "name": "AC Trento",
+      "source": "Real club; 2025/26 participant snapshot; https://www.lega-pro.com/com/2526-42L.pdf",
+      "players": []
+    },
+    {
+      "id": "v06:463d1b60e9d190304a",
+      "league_id": "ITA_3",
+      "name": "US Triestina",
+      "source": "Real club; 2025/26 participant snapshot; https://www.lega-pro.com/com/2526-42L.pdf",
+      "players": []
+    },
+    {
+      "id": "v06:83cf81e8b62b152610",
+      "league_id": "ITA_3",
+      "name": "FC Pro Vercelli 1892",
+      "source": "Real club; 2025/26 participant snapshot; https://www.lega-pro.com/com/2526-42L.pdf",
+      "players": []
+    },
+    {
+      "id": "v06:fbb2d564a07bbe020b",
+      "league_id": "ITA_3",
+      "name": "Virtus Verona",
+      "source": "Real club; 2025/26 participant snapshot; https://www.lega-pro.com/com/2526-42L.pdf",
+      "players": []
+    },
+    {
+      "id": "v06:53a6179704ce5659cb",
+      "league_id": "ITA_3",
+      "name": "LR Vicenza",
+      "source": "Real club; 2025/26 participant snapshot; https://www.lega-pro.com/com/2526-42L.pdf",
+      "players": []
+    },
+    {
+      "id": "v06:eede86c08b9e8c11e8",
+      "league_id": "BEL_3",
+      "name": "Crossing Schaerbeek",
+      "source": "Real club; 2025/26 participant snapshot; https://www.national-football-teams.com/app.php/leagues/20/2025/Belgium.html",
+      "players": []
+    },
+    {
+      "id": "v06:223abd74a0c6070733",
+      "league_id": "BEL_3",
+      "name": "Excelsior Virton",
+      "source": "Real club; 2025/26 participant snapshot; https://www.national-football-teams.com/app.php/leagues/20/2025/Belgium.html",
+      "players": []
+    },
+    {
+      "id": "v06:d2ed79e183137fb841",
+      "league_id": "BEL_3",
+      "name": "RAEC Mons",
+      "source": "Real club; 2025/26 participant snapshot; https://www.national-football-teams.com/app.php/leagues/20/2025/Belgium.html",
+      "players": []
+    },
+    {
+      "id": "v06:222907d61152a95be5",
+      "league_id": "BEL_3",
+      "name": "RFC Meux",
+      "source": "Real club; 2025/26 participant snapshot; https://www.national-football-teams.com/app.php/leagues/20/2025/Belgium.html",
+      "players": []
+    },
+    {
+      "id": "v06:381483d5806447745c",
+      "league_id": "BEL_3",
+      "name": "RRC Stockay-Warfusée",
+      "source": "Real club; 2025/26 participant snapshot; https://www.national-football-teams.com/app.php/leagues/20/2025/Belgium.html",
+      "players": []
+    },
+    {
+      "id": "v06:bca0dec7009ba436cf",
+      "league_id": "BEL_3",
+      "name": "RSC Habay-la-Neuve",
+      "source": "Real club; 2025/26 participant snapshot; https://www.national-football-teams.com/app.php/leagues/20/2025/Belgium.html",
+      "players": []
+    },
+    {
+      "id": "v06:8e0a89905d4fb0501e",
+      "league_id": "BEL_3",
+      "name": "RU Tubize - Braine-le-Comte",
+      "source": "Real club; 2025/26 participant snapshot; https://www.national-football-teams.com/app.php/leagues/20/2025/Belgium.html",
+      "players": []
+    },
+    {
+      "id": "v06:8f5a3f000bdb1b77fc",
+      "league_id": "BEL_3",
+      "name": "SL 16 Liège",
+      "source": "Real club; 2025/26 participant snapshot; https://www.national-football-teams.com/app.php/leagues/20/2025/Belgium.html",
+      "players": []
+    },
+    {
+      "id": "v06:2e79b8274a6f38f3f1",
+      "league_id": "BEL_3",
+      "name": "Union Rochefortoise",
+      "source": "Real club; 2025/26 participant snapshot; https://www.national-football-teams.com/app.php/leagues/20/2025/Belgium.html",
+      "players": []
+    },
+    {
+      "id": "v06:75b0320ecf8862f8fa",
+      "league_id": "BEL_3",
+      "name": "Union Saint-Gilloise U23",
+      "source": "Real club; 2025/26 participant snapshot; https://www.national-football-teams.com/app.php/leagues/20/2025/Belgium.html",
+      "players": []
+    },
+    {
+      "id": "v06:9a5b750d89dad948d4",
+      "league_id": "BEL_3",
+      "name": "UR Namur",
+      "source": "Real club; 2025/26 participant snapshot; https://www.national-football-teams.com/app.php/leagues/20/2025/Belgium.html",
+      "players": []
+    },
+    {
+      "id": "v06:d9108edeb3d8be66bf",
+      "league_id": "BEL_3",
+      "name": "Zebra Elite Charleroi",
+      "source": "Real club; 2025/26 participant snapshot; https://www.national-football-teams.com/app.php/leagues/20/2025/Belgium.html",
+      "players": []
+    },
+    {
+      "id": "v06:c51ee5ae39f85cb454",
+      "league_id": "BEL_3",
+      "name": "Belisia Bilzen",
+      "source": "Real club; 2025/26 participant snapshot; https://www.national-football-teams.com/app.php/leagues/20/2025/Belgium.html",
+      "players": []
+    },
+    {
+      "id": "v06:70b0d729c8124d4d7c",
+      "league_id": "BEL_3",
+      "name": "Dessel Sport",
+      "source": "Real club; 2025/26 participant snapshot; https://www.national-football-teams.com/app.php/leagues/20/2025/Belgium.html",
+      "players": []
+    },
+    {
+      "id": "v06:e08553db98d080b137",
+      "league_id": "BEL_3",
+      "name": "Diegem Sport",
+      "source": "Real club; 2025/26 participant snapshot; https://www.national-football-teams.com/app.php/leagues/20/2025/Belgium.html",
+      "players": []
+    },
+    {
+      "id": "v06:8da99a73cf4bd2d7cf",
+      "league_id": "BEL_3",
+      "name": "Hoogstraten VV",
+      "source": "Real club; 2025/26 participant snapshot; https://www.national-football-teams.com/app.php/leagues/20/2025/Belgium.html",
+      "players": []
+    },
+    {
+      "id": "v06:0a29efa77186a8fab6",
+      "league_id": "BEL_3",
+      "name": "Jong Cercle Brugge",
+      "source": "Real club; 2025/26 participant snapshot; https://www.national-football-teams.com/app.php/leagues/20/2025/Belgium.html",
+      "players": []
+    },
+    {
+      "id": "v06:43b43f696855e012c5",
+      "league_id": "BEL_3",
+      "name": "KFC Merelbeke",
+      "source": "Real club; 2025/26 participant snapshot; https://www.national-football-teams.com/app.php/leagues/20/2025/Belgium.html",
+      "players": []
+    },
+    {
+      "id": "v06:e38cfef915e2caee77",
+      "league_id": "BEL_3",
+      "name": "Knokke FC",
+      "source": "Real club; 2025/26 participant snapshot; https://www.national-football-teams.com/app.php/leagues/20/2025/Belgium.html",
+      "players": []
+    },
+    {
+      "id": "v06:d4894c3fd63ce28fe8",
+      "league_id": "BEL_3",
+      "name": "KVC Houtvenne",
+      "source": "Real club; 2025/26 participant snapshot; https://www.national-football-teams.com/app.php/leagues/20/2025/Belgium.html",
+      "players": []
+    },
+    {
+      "id": "v06:a5208175eaae7781eb",
+      "league_id": "BEL_3",
+      "name": "KVK Ninove",
+      "source": "Real club; 2025/26 participant snapshot; https://www.national-football-teams.com/app.php/leagues/20/2025/Belgium.html",
+      "players": []
+    },
+    {
+      "id": "v06:2a4c1439b9e8431ea1",
+      "league_id": "BEL_3",
+      "name": "KVK Tienen",
+      "source": "Real club; 2025/26 participant snapshot; https://www.national-football-teams.com/app.php/leagues/20/2025/Belgium.html",
+      "players": []
+    },
+    {
+      "id": "v06:bf068ff0f083d86bf7",
+      "league_id": "BEL_3",
+      "name": "KVV Zelzate",
+      "source": "Real club; 2025/26 participant snapshot; https://www.national-football-teams.com/app.php/leagues/20/2025/Belgium.html",
+      "players": []
+    },
+    {
+      "id": "v06:eace7e8dea424d84d6",
+      "league_id": "BEL_3",
+      "name": "Lyra-Lierse Berlaar",
+      "source": "Real club; 2025/26 participant snapshot; https://www.national-football-teams.com/app.php/leagues/20/2025/Belgium.html",
+      "players": []
+    },
+    {
+      "id": "v06:81d47412aad15f469a",
+      "league_id": "BEL_3",
+      "name": "Oud-Heverlee Leuven U23",
+      "source": "Real club; 2025/26 participant snapshot; https://www.national-football-teams.com/app.php/leagues/20/2025/Belgium.html",
+      "players": []
+    },
+    {
+      "id": "v06:496c2781b4c68c8639",
+      "league_id": "BEL_3",
+      "name": "SK Roeselare",
+      "source": "Real club; 2025/26 participant snapshot; https://www.national-football-teams.com/app.php/leagues/20/2025/Belgium.html",
+      "players": []
+    },
+    {
+      "id": "v06:889fc3a7c3ada3759b",
+      "league_id": "BEL_3",
+      "name": "Sporting Hasselt",
+      "source": "Real club; 2025/26 participant snapshot; https://www.national-football-teams.com/app.php/leagues/20/2025/Belgium.html",
+      "players": []
+    },
+    {
+      "id": "v06:c1bff385951a9308db",
+      "league_id": "BEL_3",
+      "name": "THES Sport Tessenderlo",
+      "source": "Real club; 2025/26 participant snapshot; https://www.national-football-teams.com/app.php/leagues/20/2025/Belgium.html",
+      "players": []
+    },
+    {
+      "id": "v06:b0ff56d611236d292f",
+      "league_id": "COL_2",
+      "name": "Jaguares de Córdoba",
+      "source": "Real club; 2025 participant snapshot; https://footballsoccerapi.com/our-football-api-data/colombia/primera-b/2025",
+      "players": []
+    },
+    {
+      "id": "v06:c2a71e693080252f98",
+      "league_id": "COL_2",
+      "name": "Patriotas Boyacá",
+      "source": "Real club; 2025 participant snapshot; https://footballsoccerapi.com/our-football-api-data/colombia/primera-b/2025",
+      "players": []
+    },
+    {
+      "id": "v06:d7a8cf592305041fb0",
+      "league_id": "COL_2",
+      "name": "Cúcuta Deportivo",
+      "source": "Real club; 2025 participant snapshot; https://footballsoccerapi.com/our-football-api-data/colombia/primera-b/2025",
+      "players": []
+    },
+    {
+      "id": "v06:a11adb4f687540513f",
+      "league_id": "COL_2",
+      "name": "Real Soacha Cundinamarca",
+      "source": "Real club; 2025 participant snapshot; https://footballsoccerapi.com/our-football-api-data/colombia/primera-b/2025",
+      "players": []
+    },
+    {
+      "id": "v06:ca4f734891a7f130b4",
+      "league_id": "COL_2",
+      "name": "Atlético Huila",
+      "source": "Real club; 2025 participant snapshot; https://footballsoccerapi.com/our-football-api-data/colombia/primera-b/2025",
+      "players": []
+    },
+    {
+      "id": "v06:11f471a82c5f6a9983",
+      "league_id": "COL_2",
+      "name": "Internacional Palmira",
+      "source": "Real club; 2025 participant snapshot; https://footballsoccerapi.com/our-football-api-data/colombia/primera-b/2025",
+      "players": []
+    },
+    {
+      "id": "v06:5bd136887722e1122e",
+      "league_id": "COL_2",
+      "name": "Real Cartagena",
+      "source": "Real club; 2025 participant snapshot; https://footballsoccerapi.com/our-football-api-data/colombia/primera-b/2025",
+      "players": []
+    },
+    {
+      "id": "v06:4471363113455f2748",
+      "league_id": "COL_2",
+      "name": "Tigres FC",
+      "source": "Real club; 2025 participant snapshot; https://footballsoccerapi.com/our-football-api-data/colombia/primera-b/2025",
+      "players": []
+    },
+    {
+      "id": "v06:aaaa8f032393f6d8af",
+      "league_id": "COL_2",
+      "name": "Deportes Quindío",
+      "source": "Real club; 2025 participant snapshot; https://footballsoccerapi.com/our-football-api-data/colombia/primera-b/2025",
+      "players": []
+    },
+    {
+      "id": "v06:23d9f862ed2a138497",
+      "league_id": "COL_2",
+      "name": "Boca Juniors de Cali",
+      "source": "Real club; 2025 participant snapshot; https://footballsoccerapi.com/our-football-api-data/colombia/primera-b/2025",
+      "players": []
+    },
+    {
+      "id": "v06:097a40fcde1685c488",
+      "league_id": "COL_2",
+      "name": "Real Santander",
+      "source": "Real club; 2025 participant snapshot; https://footballsoccerapi.com/our-football-api-data/colombia/primera-b/2025",
+      "players": []
+    },
+    {
+      "id": "v06:955d8cff6732c3a17d",
+      "league_id": "COL_2",
+      "name": "Orsomarso SC",
+      "source": "Real club; 2025 participant snapshot; https://footballsoccerapi.com/our-football-api-data/colombia/primera-b/2025",
+      "players": []
+    },
+    {
+      "id": "v06:7ddb73aaecc95ee6fb",
+      "league_id": "COL_2",
+      "name": "Bogotá FC",
+      "source": "Real club; 2025 participant snapshot; https://footballsoccerapi.com/our-football-api-data/colombia/primera-b/2025",
+      "players": []
+    },
+    {
+      "id": "v06:df4ab8f622a6a45482",
+      "league_id": "COL_2",
+      "name": "Leones FC",
+      "source": "Real club; 2025 participant snapshot; https://footballsoccerapi.com/our-football-api-data/colombia/primera-b/2025",
+      "players": []
+    },
+    {
+      "id": "v06:0ca43edb6239d5906a",
+      "league_id": "COL_2",
+      "name": "Atlético FC",
+      "source": "Real club; 2025 participant snapshot; https://footballsoccerapi.com/our-football-api-data/colombia/primera-b/2025",
+      "players": []
+    },
+    {
+      "id": "v06:2019272181db4246dd",
+      "league_id": "COL_2",
+      "name": "Barranquilla FC",
+      "source": "Real club; 2025 participant snapshot; https://footballsoccerapi.com/our-football-api-data/colombia/primera-b/2025",
+      "players": []
+    },
+    {
+      "id": "v06:629bce6ac085636945",
+      "league_id": "RUS_3",
+      "name": "Volgar Astrakhan",
+      "source": "Real club; 2024/25 participant snapshot; https://www.rsssf.org/tablesr/rus2026.html",
+      "players": []
+    },
+    {
+      "id": "v06:b2e9ab22319b0f8766",
+      "league_id": "RUS_3",
+      "name": "Kuban Krasnodar",
+      "source": "Real club; 2024/25 participant snapshot; https://www.rsssf.org/tablesr/rus2026.html",
+      "players": []
+    },
+    {
+      "id": "v06:8c7729c55f65f00473",
+      "league_id": "RUS_3",
+      "name": "Sibir Novosibirsk",
+      "source": "Real club; 2024/25 participant snapshot; https://www.rsssf.org/tablesr/rus2026.html",
+      "players": []
+    },
+    {
+      "id": "v06:1e753e8245ca07dcb6",
+      "league_id": "RUS_3",
+      "name": "FC Kaluga",
+      "source": "Real club; 2024/25 participant snapshot; https://www.rsssf.org/tablesr/rus2026.html",
+      "players": []
+    },
+    {
+      "id": "v06:4f938aba46a9b64509",
+      "league_id": "RUS_3",
+      "name": "Avangard Kursk",
+      "source": "Real club; 2024/25 participant snapshot; https://www.rsssf.org/tablesr/rus2026.html",
+      "players": []
+    },
+    {
+      "id": "v06:c7a454e17a3e5d081f",
+      "league_id": "RUS_3",
+      "name": "Krasnodar-2",
+      "source": "Real club; 2024/25 participant snapshot; https://www.rsssf.org/tablesr/rus2026.html",
+      "players": []
+    },
+    {
+      "id": "v06:073a9a8902a15fddcf",
+      "league_id": "RUS_3",
+      "name": "Rodina-2 Moscow",
+      "source": "Real club; 2024/25 participant snapshot; https://www.rsssf.org/tablesr/rus2026.html",
+      "players": []
+    },
+    {
+      "id": "v06:95d177c8a1ca00db62",
+      "league_id": "RUS_3",
+      "name": "FC Murom",
+      "source": "Real club; 2024/25 participant snapshot; https://www.rsssf.org/tablesr/rus2026.html",
+      "players": []
+    },
+    {
+      "id": "v06:264bed6a73fcb6aa38",
+      "league_id": "RUS_3",
+      "name": "Metallurg Lipetsk",
+      "source": "Real club; 2024/25 participant snapshot; https://www.rsssf.org/tablesr/rus2026.html",
+      "players": []
+    },
+    {
+      "id": "v06:953aad596bd2dc0527",
+      "league_id": "RUS_3",
+      "name": "Irtysh Omsk",
+      "source": "Real club; 2024/25 participant snapshot; https://www.rsssf.org/tablesr/rus2026.html",
+      "players": []
+    },
+    {
+      "id": "v06:a0061ec9259ebbf40d",
+      "league_id": "RUS_3",
+      "name": "Mashuk-KMV Pyatigorsk",
+      "source": "Real club; 2024/25 participant snapshot; https://www.rsssf.org/tablesr/rus2026.html",
+      "players": []
+    },
+    {
+      "id": "v06:325814a19b6e5e0739",
+      "league_id": "RUS_3",
+      "name": "Khimik Dzerzhinsk",
+      "source": "Real club; 2024/25 participant snapshot; https://www.rsssf.org/tablesr/rus2026.html",
+      "players": []
+    },
+    {
+      "id": "v06:e5b3099ee4daf4dcbc",
+      "league_id": "RUS_3",
+      "name": "Torpedo Miass",
+      "source": "Real club; 2024/25 participant snapshot; https://www.rsssf.org/tablesr/rus2026.html",
+      "players": []
+    },
+    {
+      "id": "v06:471cab32045435bdbf",
+      "league_id": "RUS_3",
+      "name": "Dynamo Bryansk",
+      "source": "Real club; 2024/25 participant snapshot; https://www.rsssf.org/tablesr/rus2026.html",
+      "players": []
+    },
+    {
+      "id": "v06:02352b11b0a2dbc4d4",
+      "league_id": "TUR_3",
+      "name": "Adana 01 FK",
+      "source": "Real club; 2025/26 subset 36/37 participant snapshot; https://www.mus.gen.tr/spor/tff-2-ligde-gruplar-belli-oldu/",
+      "players": []
+    },
+    {
+      "id": "v06:1648f0508dee55eba9",
+      "league_id": "TUR_3",
+      "name": "Altınordu",
+      "source": "Real club; 2025/26 subset 36/37 participant snapshot; https://www.mus.gen.tr/spor/tff-2-ligde-gruplar-belli-oldu/",
+      "players": []
+    },
+    {
+      "id": "v06:3bd554c0953df88bbd",
+      "league_id": "TUR_3",
+      "name": "24 Erzincanspor",
+      "source": "Real club; 2025/26 subset 36/37 participant snapshot; https://www.mus.gen.tr/spor/tff-2-ligde-gruplar-belli-oldu/",
+      "players": []
+    },
+    {
+      "id": "v06:7957f42daf1db26d58",
+      "league_id": "TUR_3",
+      "name": "Batman Petrolspor",
+      "source": "Real club; 2025/26 subset 36/37 participant snapshot; https://www.mus.gen.tr/spor/tff-2-ligde-gruplar-belli-oldu/",
+      "players": []
+    },
+    {
+      "id": "v06:3ada7c3999985054e0",
+      "league_id": "TUR_3",
+      "name": "Beykoz Anadolu Spor",
+      "source": "Real club; 2025/26 subset 36/37 participant snapshot; https://www.mus.gen.tr/spor/tff-2-ligde-gruplar-belli-oldu/",
+      "players": []
+    },
+    {
+      "id": "v06:ea8ff4cd6c02f74f76",
+      "league_id": "TUR_3",
+      "name": "Beyoğlu Yeni Çarşı",
+      "source": "Real club; 2025/26 subset 36/37 participant snapshot; https://www.mus.gen.tr/spor/tff-2-ligde-gruplar-belli-oldu/",
+      "players": []
+    },
+    {
+      "id": "v06:8540b4922de12a5185",
+      "league_id": "TUR_3",
+      "name": "Bucaspor 1928",
+      "source": "Real club; 2025/26 subset 36/37 participant snapshot; https://www.mus.gen.tr/spor/tff-2-ligde-gruplar-belli-oldu/",
+      "players": []
+    },
+    {
+      "id": "v06:e30bf26fd1ac9602f0",
+      "league_id": "TUR_3",
+      "name": "Elazığspor",
+      "source": "Real club; 2025/26 subset 36/37 participant snapshot; https://www.mus.gen.tr/spor/tff-2-ligde-gruplar-belli-oldu/",
+      "players": []
+    },
+    {
+      "id": "v06:18fcf539339d09ff1c",
+      "league_id": "TUR_3",
+      "name": "Kastamonuspor",
+      "source": "Real club; 2025/26 subset 36/37 participant snapshot; https://www.mus.gen.tr/spor/tff-2-ligde-gruplar-belli-oldu/",
+      "players": []
+    },
+    {
+      "id": "v06:a42793e29ab979126a",
+      "league_id": "TUR_3",
+      "name": "İnegölspor",
+      "source": "Real club; 2025/26 subset 36/37 participant snapshot; https://www.mus.gen.tr/spor/tff-2-ligde-gruplar-belli-oldu/",
+      "players": []
+    },
+    {
+      "id": "v06:a1069a8e7be71328f9",
+      "league_id": "TUR_3",
+      "name": "İskenderunspor",
+      "source": "Real club; 2025/26 subset 36/37 participant snapshot; https://www.mus.gen.tr/spor/tff-2-ligde-gruplar-belli-oldu/",
+      "players": []
+    },
+    {
+      "id": "v06:7b9ddaeb0448d8972a",
+      "league_id": "TUR_3",
+      "name": "Karacabey Belediyespor",
+      "source": "Real club; 2025/26 subset 36/37 participant snapshot; https://www.mus.gen.tr/spor/tff-2-ligde-gruplar-belli-oldu/",
+      "players": []
+    },
+    {
+      "id": "v06:158518af275ffb77f1",
+      "league_id": "TUR_3",
+      "name": "Karaman FK",
+      "source": "Real club; 2025/26 subset 36/37 participant snapshot; https://www.mus.gen.tr/spor/tff-2-ligde-gruplar-belli-oldu/",
+      "players": []
+    },
+    {
+      "id": "v06:96dfa19023a29549ab",
+      "league_id": "TUR_3",
+      "name": "Kepez Spor",
+      "source": "Real club; 2025/26 subset 36/37 participant snapshot; https://www.mus.gen.tr/spor/tff-2-ligde-gruplar-belli-oldu/",
+      "players": []
+    },
+    {
+      "id": "v06:bc23f273bec78b348d",
+      "league_id": "TUR_3",
+      "name": "Erbaaspor",
+      "source": "Real club; 2025/26 subset 36/37 participant snapshot; https://www.mus.gen.tr/spor/tff-2-ligde-gruplar-belli-oldu/",
+      "players": []
+    },
+    {
+      "id": "v06:5a691cc52ffe176ac6",
+      "league_id": "TUR_3",
+      "name": "MKE Ankaragücü",
+      "source": "Real club; 2025/26 subset 36/37 participant snapshot; https://www.mus.gen.tr/spor/tff-2-ligde-gruplar-belli-oldu/",
+      "players": []
+    },
+    {
+      "id": "v06:67ccb4ff942ead23d1",
+      "league_id": "TUR_3",
+      "name": "Muğlaspor",
+      "source": "Real club; 2025/26 subset 36/37 participant snapshot; https://www.mus.gen.tr/spor/tff-2-ligde-gruplar-belli-oldu/",
+      "players": []
+    },
+    {
+      "id": "v06:cbf366a6a6b0cdc2a3",
+      "league_id": "TUR_3",
+      "name": "Ankaraspor",
+      "source": "Real club; 2025/26 subset 36/37 participant snapshot; https://www.mus.gen.tr/spor/tff-2-ligde-gruplar-belli-oldu/",
+      "players": []
+    },
+    {
+      "id": "v06:171410e26b04b8e127",
+      "league_id": "TUR_3",
+      "name": "Şanlıurfaspor",
+      "source": "Real club; 2025/26 subset 36/37 participant snapshot; https://www.mus.gen.tr/spor/tff-2-ligde-gruplar-belli-oldu/",
+      "players": []
+    },
+    {
+      "id": "v06:eaf4f9482575b1d261",
+      "league_id": "TUR_3",
+      "name": "68 Aksaray Belediyespor",
+      "source": "Real club; 2025/26 subset 36/37 participant snapshot; https://www.mus.gen.tr/spor/tff-2-ligde-gruplar-belli-oldu/",
+      "players": []
+    },
+    {
+      "id": "v06:a313893154fcab4bd5",
+      "league_id": "TUR_3",
+      "name": "Adanaspor",
+      "source": "Real club; 2025/26 subset 36/37 participant snapshot; https://www.mus.gen.tr/spor/tff-2-ligde-gruplar-belli-oldu/",
+      "players": []
+    },
+    {
+      "id": "v06:2963475fba7073e1d4",
+      "league_id": "TUR_3",
+      "name": "Aliağa FK",
+      "source": "Real club; 2025/26 subset 36/37 participant snapshot; https://www.mus.gen.tr/spor/tff-2-ligde-gruplar-belli-oldu/",
+      "players": []
+    },
+    {
+      "id": "v06:40f707f1cba0cd7d00",
+      "league_id": "TUR_3",
+      "name": "Ankara Demirspor",
+      "source": "Real club; 2025/26 subset 36/37 participant snapshot; https://www.mus.gen.tr/spor/tff-2-ligde-gruplar-belli-oldu/",
+      "players": []
+    },
+    {
+      "id": "v06:9aa711df61dca2d2bd",
+      "league_id": "TUR_3",
+      "name": "Arnavutköy Belediyespor",
+      "source": "Real club; 2025/26 subset 36/37 participant snapshot; https://www.mus.gen.tr/spor/tff-2-ligde-gruplar-belli-oldu/",
+      "players": []
+    },
+    {
+      "id": "v06:f9ef297b9ade473356",
+      "league_id": "TUR_3",
+      "name": "Belediye Derincespor",
+      "source": "Real club; 2025/26 subset 36/37 participant snapshot; https://www.mus.gen.tr/spor/tff-2-ligde-gruplar-belli-oldu/",
+      "players": []
+    },
+    {
+      "id": "v06:360d9b1e1988736c1a",
+      "league_id": "TUR_3",
+      "name": "Bursaspor",
+      "source": "Real club; 2025/26 subset 36/37 participant snapshot; https://www.mus.gen.tr/spor/tff-2-ligde-gruplar-belli-oldu/",
+      "players": []
+    },
+    {
+      "id": "v06:647a17fe38a17002aa",
+      "league_id": "TUR_3",
+      "name": "Fethiyespor",
+      "source": "Real club; 2025/26 subset 36/37 participant snapshot; https://www.mus.gen.tr/spor/tff-2-ligde-gruplar-belli-oldu/",
+      "players": []
+    },
+    {
+      "id": "v06:8385c91cf220d29e34",
+      "league_id": "TUR_3",
+      "name": "Isparta 32 Spor",
+      "source": "Real club; 2025/26 subset 36/37 participant snapshot; https://www.mus.gen.tr/spor/tff-2-ligde-gruplar-belli-oldu/",
+      "players": []
+    },
+    {
+      "id": "v06:94559905f3e4eb4fbe",
+      "league_id": "TUR_3",
+      "name": "Kahramanmaraş İstiklalspor",
+      "source": "Real club; 2025/26 subset 36/37 participant snapshot; https://www.mus.gen.tr/spor/tff-2-ligde-gruplar-belli-oldu/",
+      "players": []
+    },
+    {
+      "id": "v06:7c2600895c0968f0d0",
+      "league_id": "TUR_3",
+      "name": "1461 Trabzon FK",
+      "source": "Real club; 2025/26 subset 36/37 participant snapshot; https://www.mus.gen.tr/spor/tff-2-ligde-gruplar-belli-oldu/",
+      "players": []
+    },
+    {
+      "id": "v06:ead5522718c099fa0a",
+      "league_id": "TUR_3",
+      "name": "Kırklarelispor",
+      "source": "Real club; 2025/26 subset 36/37 participant snapshot; https://www.mus.gen.tr/spor/tff-2-ligde-gruplar-belli-oldu/",
+      "players": []
+    },
+    {
+      "id": "v06:fb3a9e768876700301",
+      "league_id": "TUR_3",
+      "name": "Mardin 1969 Spor",
+      "source": "Real club; 2025/26 subset 36/37 participant snapshot; https://www.mus.gen.tr/spor/tff-2-ligde-gruplar-belli-oldu/",
+      "players": []
+    },
+    {
+      "id": "v06:8b341bbe780171119e",
+      "league_id": "TUR_3",
+      "name": "Menemen FK",
+      "source": "Real club; 2025/26 subset 36/37 participant snapshot; https://www.mus.gen.tr/spor/tff-2-ligde-gruplar-belli-oldu/",
+      "players": []
+    },
+    {
+      "id": "v06:41154a59cf63ae696d",
+      "league_id": "TUR_3",
+      "name": "Muşspor",
+      "source": "Real club; 2025/26 subset 36/37 participant snapshot; https://www.mus.gen.tr/spor/tff-2-ligde-gruplar-belli-oldu/",
+      "players": []
+    },
+    {
+      "id": "v06:f39fea0ac6f8083045",
+      "league_id": "TUR_3",
+      "name": "Somaspor",
+      "source": "Real club; 2025/26 subset 36/37 participant snapshot; https://www.mus.gen.tr/spor/tff-2-ligde-gruplar-belli-oldu/",
+      "players": []
+    },
+    {
+      "id": "v06:9ea85eba45fafe660b",
+      "league_id": "TUR_3",
+      "name": "Yeni Mersin İdman Yurdu",
+      "source": "Real club; 2025/26 subset 36/37 participant snapshot; https://www.mus.gen.tr/spor/tff-2-ligde-gruplar-belli-oldu/",
+      "players": []
+    },
+    {
+      "id": "v06:a9e697da53333c1e9d",
+      "league_id": "GRE_2",
+      "name": "Iraklis Thessaloniki",
+      "source": "Real club; 2025/26 participant snapshot; https://www.rsssf.org/tablesg/grk2026.html",
+      "players": []
+    },
+    {
+      "id": "v06:ee2e5df6e16c7eb00b",
+      "league_id": "GRE_2",
+      "name": "Niki Volou",
+      "source": "Real club; 2025/26 participant snapshot; https://www.rsssf.org/tablesg/grk2026.html",
+      "players": []
+    },
+    {
+      "id": "v06:16095134ac61874107",
+      "league_id": "GRE_2",
+      "name": "Anagennisi Karditsas",
+      "source": "Real club; 2025/26 participant snapshot; https://www.rsssf.org/tablesg/grk2026.html",
+      "players": []
+    },
+    {
+      "id": "v06:2b3a3382c1b5ad7c03",
+      "league_id": "GRE_2",
+      "name": "Asteras Tripolis B",
+      "source": "Real club; 2025/26 participant snapshot; https://www.rsssf.org/tablesg/grk2026.html",
+      "players": []
+    },
+    {
+      "id": "v06:79e4205d4d70bd21f9",
+      "league_id": "GRE_2",
+      "name": "PAOK B Thessaloniki",
+      "source": "Real club; 2025/26 participant snapshot; https://www.rsssf.org/tablesg/grk2026.html",
+      "players": []
+    },
+    {
+      "id": "v06:b34e1575a47fa411f2",
+      "league_id": "GRE_2",
+      "name": "AO Kavala",
+      "source": "Real club; 2025/26 participant snapshot; https://www.rsssf.org/tablesg/grk2026.html",
+      "players": []
+    },
+    {
+      "id": "v06:1515bf70cc42251896",
+      "league_id": "GRE_2",
+      "name": "Nestos Chrysoupoli",
+      "source": "Real club; 2025/26 participant snapshot; https://www.rsssf.org/tablesg/grk2026.html",
+      "players": []
+    },
+    {
+      "id": "v06:bf03b782eeeb8b10bc",
+      "league_id": "GRE_2",
+      "name": "Kampaniakos Chalastra",
+      "source": "Real club; 2025/26 participant snapshot; https://www.rsssf.org/tablesg/grk2026.html",
+      "players": []
+    },
+    {
+      "id": "v06:657a730ebbd19b4f09",
+      "league_id": "GRE_2",
+      "name": "PAS Giannina",
+      "source": "Real club; 2025/26 participant snapshot; https://www.rsssf.org/tablesg/grk2026.html",
+      "players": []
+    },
+    {
+      "id": "v06:bf2ceae37a2b905521",
+      "league_id": "GRE_2",
+      "name": "Makedonikos Neapoli",
+      "source": "Real club; 2025/26 participant snapshot; https://www.rsssf.org/tablesg/grk2026.html",
+      "players": []
+    },
+    {
+      "id": "v06:ebdfbd47bfb87e9e73",
+      "league_id": "GRE_2",
+      "name": "Kalamata",
+      "source": "Real club; 2025/26 participant snapshot; https://www.rsssf.org/tablesg/grk2026.html",
+      "players": []
+    },
+    {
+      "id": "v06:c5a28d278f2618e3a1",
+      "league_id": "GRE_2",
+      "name": "Panionios GSS",
+      "source": "Real club; 2025/26 participant snapshot; https://www.rsssf.org/tablesg/grk2026.html",
+      "players": []
+    },
+    {
+      "id": "v06:bfd3e46daed57266ec",
+      "league_id": "GRE_2",
+      "name": "Marko Markopoulo",
+      "source": "Real club; 2025/26 participant snapshot; https://www.rsssf.org/tablesg/grk2026.html",
+      "players": []
+    },
+    {
+      "id": "v06:6cfa1e62cf04bbd0e3",
+      "league_id": "GRE_2",
+      "name": "Olympiakos B Piraeus",
+      "source": "Real club; 2025/26 participant snapshot; https://www.rsssf.org/tablesg/grk2026.html",
+      "players": []
+    },
+    {
+      "id": "v06:ef40f558c1d4169c93",
+      "league_id": "GRE_2",
+      "name": "Athens Kallithea FC",
+      "source": "Real club; 2025/26 participant snapshot; https://www.rsssf.org/tablesg/grk2026.html",
+      "players": []
+    },
+    {
+      "id": "v06:108483fdaa65d502b0",
+      "league_id": "GRE_2",
+      "name": "Hellas Syros",
+      "source": "Real club; 2025/26 participant snapshot; https://www.rsssf.org/tablesg/grk2026.html",
+      "players": []
+    },
+    {
+      "id": "v06:4d8368d697fed8421b",
+      "league_id": "GRE_2",
+      "name": "AO Aigaleo",
+      "source": "Real club; 2025/26 participant snapshot; https://www.rsssf.org/tablesg/grk2026.html",
+      "players": []
+    },
+    {
+      "id": "v06:bcaa9129d3a1e24c0a",
+      "league_id": "GRE_2",
+      "name": "GS Ilioupolis",
+      "source": "Real club; 2025/26 participant snapshot; https://www.rsssf.org/tablesg/grk2026.html",
+      "players": []
+    },
+    {
+      "id": "v06:da8509bf03271c2ec1",
+      "league_id": "GRE_2",
+      "name": "AO Chania Kissamikos",
+      "source": "Real club; 2025/26 participant snapshot; https://www.rsssf.org/tablesg/grk2026.html",
+      "players": []
+    },
+    {
+      "id": "v06:01cc25c78e820a617b",
+      "league_id": "GRE_2",
+      "name": "Panargiakos APO",
+      "source": "Real club; 2025/26 participant snapshot; https://www.rsssf.org/tablesg/grk2026.html",
+      "players": []
+    },
+    {
+      "id": "v06:9534982abd48f6f4f4",
+      "league_id": "POR_3",
+      "name": "Vitória SC B",
+      "source": "Real club; 2025/26 participant snapshot; https://www.transfermarkt.pt/liga-3/startseite/wettbewerb/PT3A/saison_id/2025",
+      "players": []
+    },
+    {
+      "id": "v06:c3ee9e4784660f60e3",
+      "league_id": "POR_3",
+      "name": "SC Braga B",
+      "source": "Real club; 2025/26 participant snapshot; https://www.transfermarkt.pt/liga-3/startseite/wettbewerb/PT3A/saison_id/2025",
+      "players": []
+    },
+    {
+      "id": "v06:0cd287450ac54a8d19",
+      "league_id": "POR_3",
+      "name": "SU 1º Dezembro",
+      "source": "Real club; 2025/26 participant snapshot; https://www.transfermarkt.pt/liga-3/startseite/wettbewerb/PT3A/saison_id/2025",
+      "players": []
+    },
+    {
+      "id": "v06:b3df526639d7d11145",
+      "league_id": "POR_3",
+      "name": "CF Os Belenenses",
+      "source": "Real club; 2025/26 participant snapshot; https://www.transfermarkt.pt/liga-3/startseite/wettbewerb/PT3A/saison_id/2025",
+      "players": []
+    },
+    {
+      "id": "v06:a64a0a98f55e432ee0",
+      "league_id": "POR_3",
+      "name": "União Santarém",
+      "source": "Real club; 2025/26 participant snapshot; https://www.transfermarkt.pt/liga-3/startseite/wettbewerb/PT3A/saison_id/2025",
+      "players": []
+    },
+    {
+      "id": "v06:67a969ec822199afd0",
+      "league_id": "POR_3",
+      "name": "Varzim SC",
+      "source": "Real club; 2025/26 participant snapshot; https://www.transfermarkt.pt/liga-3/startseite/wettbewerb/PT3A/saison_id/2025",
+      "players": []
+    },
+    {
+      "id": "v06:65b76ae3287ded2d3a",
+      "league_id": "POR_3",
+      "name": "SC São João de Ver",
+      "source": "Real club; 2025/26 participant snapshot; https://www.transfermarkt.pt/liga-3/startseite/wettbewerb/PT3A/saison_id/2025",
+      "players": []
+    },
+    {
+      "id": "v06:81b664c3603f0c039d",
+      "league_id": "POR_3",
+      "name": "SC Covilhã",
+      "source": "Real club; 2025/26 participant snapshot; https://www.transfermarkt.pt/liga-3/startseite/wettbewerb/PT3A/saison_id/2025",
+      "players": []
+    },
+    {
+      "id": "v06:2645e7b78a999d28d8",
+      "league_id": "POR_3",
+      "name": "Académica de Coimbra",
+      "source": "Real club; 2025/26 participant snapshot; https://www.transfermarkt.pt/liga-3/startseite/wettbewerb/PT3A/saison_id/2025",
+      "players": []
+    },
+    {
+      "id": "v06:3ca6db108fdd942b14",
+      "league_id": "POR_3",
+      "name": "Caldas SC",
+      "source": "Real club; 2025/26 participant snapshot; https://www.transfermarkt.pt/liga-3/startseite/wettbewerb/PT3A/saison_id/2025",
+      "players": []
+    },
+    {
+      "id": "v06:a28f7817fbf445ce27",
+      "league_id": "POR_3",
+      "name": "Amora FC",
+      "source": "Real club; 2025/26 participant snapshot; https://www.transfermarkt.pt/liga-3/startseite/wettbewerb/PT3A/saison_id/2025",
+      "players": []
+    },
+    {
+      "id": "v06:6b0ffdbfd33bed921d",
+      "league_id": "POR_3",
+      "name": "Amarante FC",
+      "source": "Real club; 2025/26 participant snapshot; https://www.transfermarkt.pt/liga-3/startseite/wettbewerb/PT3A/saison_id/2025",
+      "players": []
+    },
+    {
+      "id": "v06:27e5c3ed719ddb43aa",
+      "league_id": "POR_3",
+      "name": "AD Sanjoanense",
+      "source": "Real club; 2025/26 participant snapshot; https://www.transfermarkt.pt/liga-3/startseite/wettbewerb/PT3A/saison_id/2025",
+      "players": []
+    },
+    {
+      "id": "v06:e5069ea735d9af2237",
+      "league_id": "POR_3",
+      "name": "AD Marco 09",
+      "source": "Real club; 2025/26 participant snapshot; https://www.transfermarkt.pt/liga-3/startseite/wettbewerb/PT3A/saison_id/2025",
+      "players": []
+    },
+    {
+      "id": "v06:a4640161f7b3f0a40d",
+      "league_id": "POR_3",
+      "name": "USC Paredes",
+      "source": "Real club; 2025/26 participant snapshot; https://www.transfermarkt.pt/liga-3/startseite/wettbewerb/PT3A/saison_id/2025",
+      "players": []
+    },
+    {
+      "id": "v06:06b07c24f5a90ba235",
+      "league_id": "POR_3",
+      "name": "CD Trofense",
+      "source": "Real club; 2025/26 participant snapshot; https://www.transfermarkt.pt/liga-3/startseite/wettbewerb/PT3A/saison_id/2025",
+      "players": []
+    },
+    {
+      "id": "v06:9a57f25acdf1a488a6",
+      "league_id": "POR_3",
+      "name": "AD Fafe",
+      "source": "Real club; 2025/26 participant snapshot; https://www.transfermarkt.pt/liga-3/startseite/wettbewerb/PT3A/saison_id/2025",
+      "players": []
+    },
+    {
+      "id": "v06:9207619b4642815900",
+      "league_id": "POR_3",
+      "name": "Atlético CP",
+      "source": "Real club; 2025/26 participant snapshot; https://www.transfermarkt.pt/liga-3/startseite/wettbewerb/PT3A/saison_id/2025",
+      "players": []
+    },
+    {
+      "id": "v06:d65a7a9cba4f10e992",
+      "league_id": "POR_3",
+      "name": "Lusitano GC",
+      "source": "Real club; 2025/26 participant snapshot; https://www.transfermarkt.pt/liga-3/startseite/wettbewerb/PT3A/saison_id/2025",
+      "players": []
+    }
+  ]
+}

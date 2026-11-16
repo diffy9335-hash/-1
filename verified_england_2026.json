@@ -1,0 +1,40 @@
+{
+  "season": "2026/27",
+  "league_sources": {
+    "ENG_1": "https://www.premierleague.com/en/news/4365156",
+    "ENG_2": "https://footiehound.com/complete-list-of-efl-championship-teams/"
+  },
+  "players_source": "https://www.premierleague.com/en/news/4725682",
+  "leagues": {
+    "ENG_1": [
+      {"name":"AFC Bournemouth"}, {"name":"Arsenal", "players":["David Raya","William Saliba","Ben White","Gabriel Magalhaes","Bukayo Saka","Martin Odegaard","Eberechi Eze","Viktor Gyokeres","Noni Madueke","Ethan Nwaneri","Kai Havertz","Declan Rice","Martin Zubimendi","Riccardo Calafiori"]},
+      {"name":"Aston Villa","players":["Zion Suzuki","Matty Cash","Tyrone Mings","Ross Barkley","John McGinn","Boubacar Kamara","Emiliano Buendia","Nicolas Jackson","Tammy Abraham","Pau Torres","Ibrahim Mbaye","Leon Goretzka"]},
+      {"name":"Brentford"}, {"name":"Brighton & Hove Albion"},
+      {"name":"Chelsea","players":["Emiliano Martinez","Wesley Fofana","Levi Colwill","Pedro Neto","Joao Pedro","Cole Palmer","Jamie Gittens","Reece James","Moises Caicedo","Malo Gusto","Estevao","Romeo Lavia"]},
+      {"name":"Coventry City","players":["Ethan Pinnock","Jay Dasilva","Bobby Thomas","Jack Rudoni","Matt Grimes","Tatsuhiro Sakamoto","Ellis Simms","Haji Wright","Frank Onyeka","Victor Torp"]},
+      {"name":"Crystal Palace","players":["Dean Henderson","Tyrick Mitchell","Ismaila Sarr","Jefferson Lerma","Eddie Nketiah","Yeremy Pino","Jean-Philippe Mateta","Adam Wharton","Will Hughes","Chris Richards"]},
+      {"name":"Everton","players":["Jordan Pickford","Jarrad Branthwaite","James Tarkowski","Kiernan Dewsbury-Hall","Jack Grealish","Thierno Barry","Brennan Johnson","James Garner","Jake O'Brien","Vitalii Mykolenko"]},
+      {"name":"Fulham","players":["Bernd Leno","Kenny Tete","Calvin Bassey","Joachim Andersen","Rodrigo Muniz","Tom Cairney","Oscar Bobb","Sander Berge","Alex Iwobi","Emile Smith Rowe","Antonee Robinson"]},
+      {"name":"Hull City","players":["Jack Butland","Lewie Coyle","Ryan Giles","Charlie Hughes","Hidemasa Morita","Oliver McBurnie","Joe Gelhardt","Elliot Stroud","Ilyas Ansah","Regan Slater"]},
+      {"name":"Ipswich Town","players":["Alex Palmer","Darnell Furlong","Leif Davis","Julio Enciso","Jaden Philogene","Jacob Greaves","Christian Walton","Chuba Akpom","Daizen Maeda","Jack Clarke"]},
+      {"name":"Leeds United","players":["James Trafford","Jayden Bogle","Ethan Ampadu","Joe Rodon","Daniel James","Dominic Calvert-Lewin","Brenden Aaronson","Noah Okafor","Anton Stach","Ao Tanaka"]},
+      {"name":"Liverpool","players":["Alisson Becker","Virgil van Dijk","Florian Wirtz","Dominik Szoboszlai","Alexander Isak","Alexis Mac Allister","Cody Gakpo","Federico Chiesa","Hugo Ekitike","Jeremie Frimpong","Ryan Gravenberch"]},
+      {"name":"Manchester City","players":["Gianluigi Donnarumma","Ruben Dias","Erling Haaland","Rayan Cherki","Jeremy Doku","Enzo Fernandez","Josko Gvardiol","Matheus Nunes","Phil Foden","Rico Lewis","Antoine Semenyo"]},
+      {"name":"Manchester United","players":["Senne Lammens","Diogo Dalot","Matthijs de Ligt","Harry Maguire","Bruno Fernandes","Marcus Rashford","Matheus Cunha","Joshua Zirkzee","Amad Diallo","Bryan Mbeumo","Kobbie Mainoo"]},
+      {"name":"Newcastle United","players":["Nick Pope","Tino Livramento","Lewis Hall","Sven Botman","Joelinton","Yoane Wissa","Harvey Barnes","Anthony Elanga","Dan Burn","Jacob Ramsey"]},
+      {"name":"Nottingham Forest","players":["Neco Williams","Murillo","Ibrahim Sangare","Callum Hudson-Odoi","Chris Wood","Morgan Gibbs-White","Igor Jesus","Ryan Yates","Matz Sels","Ola Aina"]},
+      {"name":"Sunderland","players":["Dan Ballard","Chemsdine Talbi","Brian Brobbey","Chris Rigg","Granit Xhaka","Robin Roefs","Habib Diarra","Wilson Isidor","Enzo Le Fee","Trai Hume"]},
+      {"name":"Tottenham Hotspur","players":["Andy Robertson","Xavi Simons","Conor Gallagher","James Maddison","Mathys Tel","Lucas Bergvall","Sandro Tonali","Dominic Solanke","Mohammed Kudus","Dejan Kulusevski","Pedro Porro"]}
+    ],
+    "ENG_2": [
+      {"name":"Birmingham City"}, {"name":"Blackburn Rovers"}, {"name":"Bolton Wanderers"},
+      {"name":"Bristol City"}, {"name":"Burnley"}, {"name":"Cardiff City"},
+      {"name":"Charlton Athletic"}, {"name":"Derby County"}, {"name":"Lincoln City"},
+      {"name":"Middlesbrough"}, {"name":"Millwall"}, {"name":"Norwich City"},
+      {"name":"Portsmouth"}, {"name":"Preston North End"}, {"name":"Queens Park Rangers"},
+      {"name":"Sheffield United"}, {"name":"Southampton"}, {"name":"Stoke City"},
+      {"name":"Swansea City"}, {"name":"Watford"}, {"name":"West Bromwich Albion"},
+      {"name":"West Ham United"}, {"name":"Wolverhampton Wanderers"}, {"name":"Wrexham"}
+    ]
+  }
+}

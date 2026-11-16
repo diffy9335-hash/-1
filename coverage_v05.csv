@@ -1,0 +1,81 @@
+﻿league_id,league_name,country,target_clubs,imported_clubs,status,source_season
+ARG_1,Primera División,Аргентина,30,30,complete,2025
+ARG_2,Primera Nacional (2 зоны),Аргентина,36,0,empty,
+AUT_1,Austrian Bundesliga,Австрия,12,12,complete,2025-26
+AUT_2,2. Liga,Австрия,16,16,complete,2025-26
+BEL_1,Jupiler Pro League,Бельгия,18,16,partial,2025-26
+BEL_2,Challenger Pro League,Бельгия,15,0,empty,
+BEL_3,Nationale 1 (VV + ACFF),Бельгия,29,0,empty,
+BRA_1,Brasileirão Série A,Бразилия,20,20,complete,2026
+BRA_2,Brasileirão Série B,Бразилия,20,16,partial,2025
+CHI_1,Primera División,Чили,16,16,complete,2026
+CHI_2,Primera B,Чили,16,16,complete,2026
+CHN_1,Chinese Super League,Китай,16,16,complete,2025
+CHN_2,China League One,Китай,16,0,empty,
+COL_1,Categoría Primera A,Колумбия,20,20,complete,2025
+COL_2,Categoría Primera B,Колумбия,16,0,empty,
+CRO_1,HNL,Хорватия,10,10,complete,2024-25
+CRO_2,Prva NL,Хорватия,12,0,empty,
+CZE_1,Czech First League,Чехия,16,16,complete,2026-27
+CZE_2,Czech National Football League,Чехия,16,15,partial,2024-25
+DEN_1,Danish Superliga,Дания,12,12,complete,2024-25
+DEN_2,Danish 1st Division,Дания,12,12,complete,2024-25
+EGY_1,Egyptian Premier League,Египет,20,18,partial,2024-25
+EGY_2,Egyptian Second Division A,Египет,20,0,empty,
+ENG_1,Premier League,Англия,20,20,complete,2026/27
+ENG_2,EFL Championship,Англия,24,24,complete,2026/27
+ENG_3,EFL League One,Англия,24,21,partial,2025-26
+ESP_1,La Liga,Испания,20,20,complete,2026/27
+ESP_2,La Liga 2,Испания,22,20,partial,2025-26
+ESP_3,Primera Federación (2 группы),Испания,40,0,empty,
+FRA_1,Ligue 1,Франция,18,18,complete,2026-27
+FRA_2,Ligue 2,Франция,18,16,partial,2025-26
+FRA_3,Championnat National,Франция,18,0,empty,
+GER_1,Bundesliga,Германия,18,18,complete,2026/27
+GER_2,2. Bundesliga,Германия,18,15,partial,2025-26
+GER_3,3. Liga,Германия,20,0,empty,
+GRE_1,Super League Greece,Греция,14,14,complete,2025-26
+GRE_2,Super League 2,Греция,16,0,empty,
+ITA_1,Serie A,Италия,20,20,complete,2026/27
+ITA_2,Serie B,Италия,20,19,partial,2025-26
+ITA_3,Serie C (3 группы),Италия,60,0,empty,
+JPN_1,J1 League,Япония,20,20,complete,2025
+JPN_2,J2 League,Япония,20,0,empty,
+KOR_1,K League 1,Южная Корея,12,12,complete,2026
+KOR_2,K League 2,Южная Корея,17,17,complete,2026
+KSA_1,Saudi Pro League,Саудовская Аравия,18,18,complete,2024-25
+KSA_2,Saudi First Division League,Саудовская Аравия,18,0,empty,
+MAR_1,Botola Pro,Марокко,16,16,complete,2024-25
+MAR_2,Botola 2,Марокко,16,0,empty,
+MEX_1,Liga MX,Мексика,18,18,complete,2024-25
+NED_1,Eredivisie,Нидерланды,18,18,complete,2026-27
+NED_2,Eerste Divisie,Нидерланды,20,17,partial,2024-25
+NED_3,Tweede Divisie,Нидерланды,18,0,empty,
+NOR_1,Eliteserien,Норвегия,16,16,complete,2025
+NOR_2,OBOS-ligaen,Норвегия,16,16,complete,2025
+POL_1,Ekstraklasa,Польша,18,18,complete,2024-25
+POL_2,I liga,Польша,18,18,complete,2024-25
+POR_1,Primeira Liga,Португалия,18,18,complete,2026-27
+POR_2,Liga Portugal 2,Португалия,18,15,partial,2024-25
+POR_3,Liga 3 (2 группы),Португалия,20,0,empty,
+RUS_1,Российская Премьер-Лига,Россия,16,16,complete,2024-25
+RUS_2,Первая лига,Россия,18,17,partial,2026-27
+RUS_3,Вторая лига А (2 группы),Россия,20,0,empty,
+SCO_1,Scottish Premiership,Шотландия,12,12,complete,2025-26
+SCO_2,Scottish Championship,Шотландия,10,0,empty,
+SCO_3,Scottish League One,Шотландия,10,0,empty,
+SRB_1,Serbian SuperLiga,Сербия,14,14,complete,2026-27
+SRB_2,Serbian First League,Сербия,16,0,empty,
+SUI_1,Swiss Super League,Швейцария,12,12,complete,2026-27
+SUI_2,Challenge League,Швейцария,10,8,partial,2024-25
+SWE_1,Allsvenskan,Швеция,16,16,complete,2025
+SWE_2,Superettan,Швеция,16,16,complete,2025
+TUR_1,Süper Lig,Турция,18,18,complete,2025-26
+TUR_2,TFF 1. Lig,Турция,20,0,empty,
+TUR_3,TFF 2. Lig (2 группы),Турция,36,0,empty,
+UKR_1,Украинская Премьер-лига,Украина,16,16,complete,2024-25
+UKR_2,Первая лига Украины,Украина,16,0,empty,
+URU_1,Primera División,Уругвай,16,16,complete,2026
+URU_2,Segunda División Profesional,Уругвай,14,14,complete,2026
+USA_1,Major League Soccer (MLS),США,30,30,complete,2025
+USA_2,USL Championship,США,25,0,empty,

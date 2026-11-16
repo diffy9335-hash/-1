@@ -1,0 +1,81 @@
+﻿id,country,name,intended_clubs,clubs,players,clubs_with_players,new_source_players,status
+ARG_1,Аргентина,Primera División,30,30,0,0,0,complete
+ARG_2,Аргентина,Primera Nacional (2 зоны),36,34,0,0,0,partial
+AUT_1,Австрия,Austrian Bundesliga,12,12,0,0,0,complete
+AUT_2,Австрия,2. Liga,16,16,0,0,0,complete
+BEL_1,Бельгия,Jupiler Pro League,18,16,5,1,0,partial
+BEL_2,Бельгия,Challenger Pro League,15,15,0,0,0,complete
+BEL_3,Бельгия,Nationale 1 (VV + ACFF),29,28,0,0,0,partial
+BRA_1,Бразилия,Brasileirão Série A,20,20,9,1,0,complete
+BRA_2,Бразилия,Brasileirão Série B,20,16,0,0,0,partial
+CHI_1,Чили,Primera División,16,16,0,0,0,complete
+CHI_2,Чили,Primera B,16,16,0,0,0,complete
+CHN_1,Китай,Chinese Super League,16,16,0,0,0,complete
+CHN_2,Китай,China League One,16,16,0,0,0,complete
+COL_1,Колумбия,Categoría Primera A,20,20,0,0,0,complete
+COL_2,Колумбия,Categoría Primera B,16,16,0,0,0,complete
+CRO_1,Хорватия,HNL,10,10,0,0,0,complete
+CRO_2,Хорватия,Prva NL,12,12,0,0,0,complete
+CZE_1,Чехия,Czech First League,16,16,10,1,0,complete
+CZE_2,Чехия,Czech National Football League,16,15,0,0,0,partial
+DEN_1,Дания,Danish Superliga,12,12,0,0,0,complete
+DEN_2,Дания,Danish 1st Division,12,12,0,0,0,complete
+EGY_1,Египет,Egyptian Premier League,20,18,14,2,0,partial
+EGY_2,Египет,Egyptian Second Division A,20,18,0,0,0,partial
+ENG_1,Англия,Premier League,20,20,263,20,10,complete
+ENG_2,Англия,EFL Championship,24,24,0,0,0,complete
+ENG_3,Англия,EFL League One,24,21,0,0,0,partial
+ESP_1,Испания,La Liga,20,20,106,15,18,complete
+ESP_2,Испания,La Liga 2,22,20,0,0,0,partial
+ESP_3,Испания,Primera Federación (2 группы),40,40,0,0,0,complete
+FRA_1,Франция,Ligue 1,18,18,75,15,26,complete
+FRA_2,Франция,Ligue 2,18,16,0,0,0,partial
+FRA_3,Франция,Championnat National,18,18,0,0,0,complete
+GER_1,Германия,Bundesliga,18,18,129,15,20,complete
+GER_2,Германия,2. Bundesliga,18,15,0,0,0,partial
+GER_3,Германия,3. Liga,20,20,0,0,0,complete
+GRE_1,Греция,Super League Greece,14,14,0,0,0,complete
+GRE_2,Греция,Super League 2,20,20,0,0,0,complete
+ITA_1,Италия,Serie A,20,20,63,16,23,complete
+ITA_2,Италия,Serie B,20,19,0,0,0,partial
+ITA_3,Италия,Serie C (3 группы),60,60,0,0,0,complete
+JPN_1,Япония,J1 League,20,20,0,0,0,complete
+JPN_2,Япония,J2 League,20,20,0,0,0,complete
+KOR_1,Южная Корея,K League 1,12,12,0,0,0,complete
+KOR_2,Южная Корея,K League 2,17,17,0,0,0,complete
+KSA_1,Саудовская Аравия,Saudi Pro League,18,18,30,3,0,complete
+KSA_2,Саудовская Аравия,Saudi First Division League,18,15,0,0,0,partial
+MAR_1,Марокко,Botola Pro,16,16,0,0,0,complete
+MAR_2,Марокко,Botola 2,16,13,0,0,0,partial
+MEX_1,Мексика,Liga MX,18,18,0,0,0,complete
+NED_1,Нидерланды,Eredivisie,18,18,9,1,0,complete
+NED_2,Нидерланды,Eerste Divisie,20,17,0,0,0,partial
+NED_3,Нидерланды,Tweede Divisie,18,18,0,0,0,complete
+NOR_1,Норвегия,Eliteserien,16,16,0,0,0,complete
+NOR_2,Норвегия,OBOS-ligaen,16,16,0,0,0,complete
+POL_1,Польша,Ekstraklasa,18,18,0,0,0,complete
+POL_2,Польша,I liga,18,18,0,0,0,complete
+POR_1,Португалия,Primeira Liga,18,18,15,2,0,complete
+POR_2,Португалия,Liga Portugal 2,18,15,0,0,0,partial
+POR_3,Португалия,Liga 3 (2 группы),20,19,0,0,0,partial
+RUS_1,Россия,Российская Премьер-Лига,16,16,0,0,0,complete
+RUS_2,Россия,Первая лига,18,17,0,0,0,partial
+RUS_3,Россия,Вторая лига А (2 группы),20,14,0,0,0,partial
+SCO_1,Шотландия,Scottish Premiership,12,12,12,2,0,complete
+SCO_2,Шотландия,Scottish Championship,10,10,0,0,0,complete
+SCO_3,Шотландия,Scottish League One,10,10,0,0,0,complete
+SRB_1,Сербия,Serbian SuperLiga,14,14,0,0,0,complete
+SRB_2,Сербия,Serbian First League,16,16,0,0,0,complete
+SUI_1,Швейцария,Swiss Super League,12,12,0,0,0,complete
+SUI_2,Швейцария,Challenge League,10,8,0,0,0,partial
+SWE_1,Швеция,Allsvenskan,16,16,0,0,0,complete
+SWE_2,Швеция,Superettan,16,16,0,0,0,complete
+TUR_1,Турция,Süper Lig,18,18,21,2,0,complete
+TUR_2,Турция,TFF 1. Lig,20,20,0,0,0,complete
+TUR_3,Турция,TFF 2. Lig (2 группы),36,36,0,0,0,complete
+UKR_1,Украина,Украинская Премьер-лига,16,16,0,0,0,complete
+UKR_2,Украина,Первая лига Украины,16,12,0,0,0,partial
+URU_1,Уругвай,Primera División,16,16,0,0,0,complete
+URU_2,Уругвай,Segunda División Profesional,14,14,0,0,0,complete
+USA_1,США,Major League Soccer (MLS),30,30,0,0,0,complete
+USA_2,США,USL Championship,25,25,0,0,0,complete

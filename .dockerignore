@@ -1,0 +1,17 @@
+.env
+.git/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.sqlite3
+*.sqlite3-*
+data/
+*.zip
+*.png
+*.jpg
+*.jpeg
+*.webp
+tests/
+docs/
+# Never exclude world_data/ or static/; they are required at runtime.

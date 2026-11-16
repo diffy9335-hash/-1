@@ -1,0 +1,1057 @@
+{
+  "project": "VELTON",
+  "registry_version": "0.1",
+  "season_basis": "2026/27 (calendar-year leagues: 2026)",
+  "counts_are": "planned initial database allocation; not an imported roster of 1499 actual clubs",
+  "rules": [
+    "One league id represents one competition/tier even when there are regional groups.",
+    "Second team/reserve teams are distinct competition entrants linked to parent clubs rather than new parent clubs.",
+    "Promotion/relegation rules must be country- and season-specific.",
+    "MLS and USL Championship have no automatic promotion/relegation.",
+    "Club names, rosters and league membership must be imported and reviewed separately."
+  ],
+  "summary": {
+    "countries": 35,
+    "leagues": 80,
+    "club_slots": 1504,
+    "by_region": {
+      "Европа": {
+        "countries": 22,
+        "leagues": 55,
+        "club_slots": 1018
+      },
+      "Южная Америка": {
+        "countries": 5,
+        "leagues": 10,
+        "club_slots": 204
+      },
+      "Северная Америка": {
+        "countries": 2,
+        "leagues": 3,
+        "club_slots": 73
+      },
+      "Азия": {
+        "countries": 4,
+        "leagues": 8,
+        "club_slots": 137
+      },
+      "Африка": {
+        "countries": 2,
+        "leagues": 4,
+        "club_slots": 72
+      }
+    }
+  },
+  "countries": [
+    {
+      "name_ru": "Англия",
+      "association_code": "ENG",
+      "region": "Европа",
+      "competition_count": 3,
+      "club_slots": 68
+    },
+    {
+      "name_ru": "Испания",
+      "association_code": "ESP",
+      "region": "Европа",
+      "competition_count": 3,
+      "club_slots": 82
+    },
+    {
+      "name_ru": "Германия",
+      "association_code": "GER",
+      "region": "Европа",
+      "competition_count": 3,
+      "club_slots": 56
+    },
+    {
+      "name_ru": "Италия",
+      "association_code": "ITA",
+      "region": "Европа",
+      "competition_count": 3,
+      "club_slots": 100
+    },
+    {
+      "name_ru": "Франция",
+      "association_code": "FRA",
+      "region": "Европа",
+      "competition_count": 3,
+      "club_slots": 54
+    },
+    {
+      "name_ru": "Португалия",
+      "association_code": "POR",
+      "region": "Европа",
+      "competition_count": 3,
+      "club_slots": 56
+    },
+    {
+      "name_ru": "Нидерланды",
+      "association_code": "NED",
+      "region": "Европа",
+      "competition_count": 3,
+      "club_slots": 56
+    },
+    {
+      "name_ru": "Бельгия",
+      "association_code": "BEL",
+      "region": "Европа",
+      "competition_count": 3,
+      "club_slots": 62
+    },
+    {
+      "name_ru": "Турция",
+      "association_code": "TUR",
+      "region": "Европа",
+      "competition_count": 3,
+      "club_slots": 74
+    },
+    {
+      "name_ru": "Россия",
+      "association_code": "RUS",
+      "region": "Европа",
+      "competition_count": 3,
+      "club_slots": 54
+    },
+    {
+      "name_ru": "Шотландия",
+      "association_code": "SCO",
+      "region": "Европа",
+      "competition_count": 3,
+      "club_slots": 32
+    },
+    {
+      "name_ru": "Австрия",
+      "association_code": "AUT",
+      "region": "Европа",
+      "competition_count": 2,
+      "club_slots": 28
+    },
+    {
+      "name_ru": "Швейцария",
+      "association_code": "SUI",
+      "region": "Европа",
+      "competition_count": 2,
+      "club_slots": 22
+    },
+    {
+      "name_ru": "Греция",
+      "association_code": "GRE",
+      "region": "Европа",
+      "competition_count": 2,
+      "club_slots": 34
+    },
+    {
+      "name_ru": "Дания",
+      "association_code": "DEN",
+      "region": "Европа",
+      "competition_count": 2,
+      "club_slots": 24
+    },
+    {
+      "name_ru": "Норвегия",
+      "association_code": "NOR",
+      "region": "Европа",
+      "competition_count": 2,
+      "club_slots": 32
+    },
+    {
+      "name_ru": "Швеция",
+      "association_code": "SWE",
+      "region": "Европа",
+      "competition_count": 2,
+      "club_slots": 32
+    },
+    {
+      "name_ru": "Польша",
+      "association_code": "POL",
+      "region": "Европа",
+      "competition_count": 2,
+      "club_slots": 36
+    },
+    {
+      "name_ru": "Чехия",
+      "association_code": "CZE",
+      "region": "Европа",
+      "competition_count": 2,
+      "club_slots": 32
+    },
+    {
+      "name_ru": "Хорватия",
+      "association_code": "CRO",
+      "region": "Европа",
+      "competition_count": 2,
+      "club_slots": 22
+    },
+    {
+      "name_ru": "Украина",
+      "association_code": "UKR",
+      "region": "Европа",
+      "competition_count": 2,
+      "club_slots": 32
+    },
+    {
+      "name_ru": "Сербия",
+      "association_code": "SRB",
+      "region": "Европа",
+      "competition_count": 2,
+      "club_slots": 30
+    },
+    {
+      "name_ru": "Бразилия",
+      "association_code": "BRA",
+      "region": "Южная Америка",
+      "competition_count": 2,
+      "club_slots": 40
+    },
+    {
+      "name_ru": "Аргентина",
+      "association_code": "ARG",
+      "region": "Южная Америка",
+      "competition_count": 2,
+      "club_slots": 66
+    },
+    {
+      "name_ru": "Уругвай",
+      "association_code": "URU",
+      "region": "Южная Америка",
+      "competition_count": 2,
+      "club_slots": 30
+    },
+    {
+      "name_ru": "Колумбия",
+      "association_code": "COL",
+      "region": "Южная Америка",
+      "competition_count": 2,
+      "club_slots": 36
+    },
+    {
+      "name_ru": "Чили",
+      "association_code": "CHI",
+      "region": "Южная Америка",
+      "competition_count": 2,
+      "club_slots": 32
+    },
+    {
+      "name_ru": "США",
+      "association_code": "USA",
+      "region": "Северная Америка",
+      "competition_count": 2,
+      "club_slots": 55
+    },
+    {
+      "name_ru": "Мексика",
+      "association_code": "MEX",
+      "region": "Северная Америка",
+      "competition_count": 1,
+      "club_slots": 18
+    },
+    {
+      "name_ru": "Япония",
+      "association_code": "JPN",
+      "region": "Азия",
+      "competition_count": 2,
+      "club_slots": 40
+    },
+    {
+      "name_ru": "Южная Корея",
+      "association_code": "KOR",
+      "region": "Азия",
+      "competition_count": 2,
+      "club_slots": 29
+    },
+    {
+      "name_ru": "Саудовская Аравия",
+      "association_code": "KSA",
+      "region": "Азия",
+      "competition_count": 2,
+      "club_slots": 36
+    },
+    {
+      "name_ru": "Китай",
+      "association_code": "CHN",
+      "region": "Азия",
+      "competition_count": 2,
+      "club_slots": 32
+    },
+    {
+      "name_ru": "Египет",
+      "association_code": "EGY",
+      "region": "Африка",
+      "competition_count": 2,
+      "club_slots": 40
+    },
+    {
+      "name_ru": "Марокко",
+      "association_code": "MAR",
+      "region": "Африка",
+      "competition_count": 2,
+      "club_slots": 32
+    }
+  ],
+  "leagues": [
+    {
+      "league_id": "ENG_1",
+      "association_code": "ENG",
+      "region": "Европа",
+      "country_ru": "Англия",
+      "competition": "Premier League",
+      "tier_order": 1,
+      "club_slots": 20
+    },
+    {
+      "league_id": "ENG_2",
+      "association_code": "ENG",
+      "region": "Европа",
+      "country_ru": "Англия",
+      "competition": "EFL Championship",
+      "tier_order": 2,
+      "club_slots": 24
+    },
+    {
+      "league_id": "ENG_3",
+      "association_code": "ENG",
+      "region": "Европа",
+      "country_ru": "Англия",
+      "competition": "EFL League One",
+      "tier_order": 3,
+      "club_slots": 24
+    },
+    {
+      "league_id": "ESP_1",
+      "association_code": "ESP",
+      "region": "Европа",
+      "country_ru": "Испания",
+      "competition": "La Liga",
+      "tier_order": 1,
+      "club_slots": 20
+    },
+    {
+      "league_id": "ESP_2",
+      "association_code": "ESP",
+      "region": "Европа",
+      "country_ru": "Испания",
+      "competition": "La Liga 2",
+      "tier_order": 2,
+      "club_slots": 22
+    },
+    {
+      "league_id": "ESP_3",
+      "association_code": "ESP",
+      "region": "Европа",
+      "country_ru": "Испания",
+      "competition": "Primera Federación (2 группы)",
+      "tier_order": 3,
+      "club_slots": 40,
+      "groups": [
+        20,
+        20
+      ]
+    },
+    {
+      "league_id": "GER_1",
+      "association_code": "GER",
+      "region": "Европа",
+      "country_ru": "Германия",
+      "competition": "Bundesliga",
+      "tier_order": 1,
+      "club_slots": 18
+    },
+    {
+      "league_id": "GER_2",
+      "association_code": "GER",
+      "region": "Европа",
+      "country_ru": "Германия",
+      "competition": "2. Bundesliga",
+      "tier_order": 2,
+      "club_slots": 18
+    },
+    {
+      "league_id": "GER_3",
+      "association_code": "GER",
+      "region": "Европа",
+      "country_ru": "Германия",
+      "competition": "3. Liga",
+      "tier_order": 3,
+      "club_slots": 20
+    },
+    {
+      "league_id": "ITA_1",
+      "association_code": "ITA",
+      "region": "Европа",
+      "country_ru": "Италия",
+      "competition": "Serie A",
+      "tier_order": 1,
+      "club_slots": 20
+    },
+    {
+      "league_id": "ITA_2",
+      "association_code": "ITA",
+      "region": "Европа",
+      "country_ru": "Италия",
+      "competition": "Serie B",
+      "tier_order": 2,
+      "club_slots": 20
+    },
+    {
+      "league_id": "ITA_3",
+      "association_code": "ITA",
+      "region": "Европа",
+      "country_ru": "Италия",
+      "competition": "Serie C (3 группы)",
+      "tier_order": 3,
+      "club_slots": 60,
+      "groups": [
+        20,
+        20,
+        20
+      ]
+    },
+    {
+      "league_id": "FRA_1",
+      "association_code": "FRA",
+      "region": "Европа",
+      "country_ru": "Франция",
+      "competition": "Ligue 1",
+      "tier_order": 1,
+      "club_slots": 18
+    },
+    {
+      "league_id": "FRA_2",
+      "association_code": "FRA",
+      "region": "Европа",
+      "country_ru": "Франция",
+      "competition": "Ligue 2",
+      "tier_order": 2,
+      "club_slots": 18
+    },
+    {
+      "league_id": "FRA_3",
+      "association_code": "FRA",
+      "region": "Европа",
+      "country_ru": "Франция",
+      "competition": "Championnat National",
+      "tier_order": 3,
+      "club_slots": 18
+    },
+    {
+      "league_id": "POR_1",
+      "association_code": "POR",
+      "region": "Европа",
+      "country_ru": "Португалия",
+      "competition": "Primeira Liga",
+      "tier_order": 1,
+      "club_slots": 18
+    },
+    {
+      "league_id": "POR_2",
+      "association_code": "POR",
+      "region": "Европа",
+      "country_ru": "Португалия",
+      "competition": "Liga Portugal 2",
+      "tier_order": 2,
+      "club_slots": 18
+    },
+    {
+      "league_id": "POR_3",
+      "association_code": "POR",
+      "region": "Европа",
+      "country_ru": "Португалия",
+      "competition": "Liga 3 (2 группы)",
+      "tier_order": 3,
+      "club_slots": 20,
+      "groups": [
+        10,
+        10
+      ]
+    },
+    {
+      "league_id": "NED_1",
+      "association_code": "NED",
+      "region": "Европа",
+      "country_ru": "Нидерланды",
+      "competition": "Eredivisie",
+      "tier_order": 1,
+      "club_slots": 18
+    },
+    {
+      "league_id": "NED_2",
+      "association_code": "NED",
+      "region": "Европа",
+      "country_ru": "Нидерланды",
+      "competition": "Eerste Divisie",
+      "tier_order": 2,
+      "club_slots": 20
+    },
+    {
+      "league_id": "NED_3",
+      "association_code": "NED",
+      "region": "Европа",
+      "country_ru": "Нидерланды",
+      "competition": "Tweede Divisie",
+      "tier_order": 3,
+      "club_slots": 18
+    },
+    {
+      "league_id": "BEL_1",
+      "association_code": "BEL",
+      "region": "Европа",
+      "country_ru": "Бельгия",
+      "competition": "Jupiler Pro League",
+      "tier_order": 1,
+      "club_slots": 18
+    },
+    {
+      "league_id": "BEL_2",
+      "association_code": "BEL",
+      "region": "Европа",
+      "country_ru": "Бельгия",
+      "competition": "Challenger Pro League",
+      "tier_order": 2,
+      "club_slots": 15
+    },
+    {
+      "league_id": "BEL_3",
+      "association_code": "BEL",
+      "region": "Европа",
+      "country_ru": "Бельгия",
+      "competition": "Nationale 1 (VV + ACFF)",
+      "tier_order": 3,
+      "club_slots": 29,
+      "groups": [
+        16,
+        13
+      ]
+    },
+    {
+      "league_id": "TUR_1",
+      "association_code": "TUR",
+      "region": "Европа",
+      "country_ru": "Турция",
+      "competition": "Süper Lig",
+      "tier_order": 1,
+      "club_slots": 18
+    },
+    {
+      "league_id": "TUR_2",
+      "association_code": "TUR",
+      "region": "Европа",
+      "country_ru": "Турция",
+      "competition": "TFF 1. Lig",
+      "tier_order": 2,
+      "club_slots": 20
+    },
+    {
+      "league_id": "TUR_3",
+      "association_code": "TUR",
+      "region": "Европа",
+      "country_ru": "Турция",
+      "competition": "TFF 2. Lig (2 группы)",
+      "tier_order": 3,
+      "club_slots": 36,
+      "groups": [
+        18,
+        18
+      ]
+    },
+    {
+      "league_id": "RUS_1",
+      "association_code": "RUS",
+      "region": "Европа",
+      "country_ru": "Россия",
+      "competition": "Российская Премьер-Лига",
+      "tier_order": 1,
+      "club_slots": 16
+    },
+    {
+      "league_id": "RUS_2",
+      "association_code": "RUS",
+      "region": "Европа",
+      "country_ru": "Россия",
+      "competition": "Первая лига",
+      "tier_order": 2,
+      "club_slots": 18
+    },
+    {
+      "league_id": "RUS_3",
+      "association_code": "RUS",
+      "region": "Европа",
+      "country_ru": "Россия",
+      "competition": "Вторая лига А (2 группы)",
+      "tier_order": 3,
+      "club_slots": 20,
+      "groups": [
+        10,
+        10
+      ]
+    },
+    {
+      "league_id": "SCO_1",
+      "association_code": "SCO",
+      "region": "Европа",
+      "country_ru": "Шотландия",
+      "competition": "Scottish Premiership",
+      "tier_order": 1,
+      "club_slots": 12
+    },
+    {
+      "league_id": "SCO_2",
+      "association_code": "SCO",
+      "region": "Европа",
+      "country_ru": "Шотландия",
+      "competition": "Scottish Championship",
+      "tier_order": 2,
+      "club_slots": 10
+    },
+    {
+      "league_id": "SCO_3",
+      "association_code": "SCO",
+      "region": "Европа",
+      "country_ru": "Шотландия",
+      "competition": "Scottish League One",
+      "tier_order": 3,
+      "club_slots": 10
+    },
+    {
+      "league_id": "AUT_1",
+      "association_code": "AUT",
+      "region": "Европа",
+      "country_ru": "Австрия",
+      "competition": "Austrian Bundesliga",
+      "tier_order": 1,
+      "club_slots": 12
+    },
+    {
+      "league_id": "AUT_2",
+      "association_code": "AUT",
+      "region": "Европа",
+      "country_ru": "Австрия",
+      "competition": "2. Liga",
+      "tier_order": 2,
+      "club_slots": 16
+    },
+    {
+      "league_id": "SUI_1",
+      "association_code": "SUI",
+      "region": "Европа",
+      "country_ru": "Швейцария",
+      "competition": "Swiss Super League",
+      "tier_order": 1,
+      "club_slots": 12
+    },
+    {
+      "league_id": "SUI_2",
+      "association_code": "SUI",
+      "region": "Европа",
+      "country_ru": "Швейцария",
+      "competition": "Challenge League",
+      "tier_order": 2,
+      "club_slots": 10
+    },
+    {
+      "league_id": "GRE_1",
+      "association_code": "GRE",
+      "region": "Европа",
+      "country_ru": "Греция",
+      "competition": "Super League Greece",
+      "tier_order": 1,
+      "club_slots": 14
+    },
+    {
+      "league_id": "GRE_2",
+      "association_code": "GRE",
+      "region": "Европа",
+      "country_ru": "Греция",
+      "competition": "Super League 2",
+      "tier_order": 2,
+      "club_slots": 20,
+      "groups": [
+        10,
+        10
+      ]
+    },
+    {
+      "league_id": "DEN_1",
+      "association_code": "DEN",
+      "region": "Европа",
+      "country_ru": "Дания",
+      "competition": "Danish Superliga",
+      "tier_order": 1,
+      "club_slots": 12
+    },
+    {
+      "league_id": "DEN_2",
+      "association_code": "DEN",
+      "region": "Европа",
+      "country_ru": "Дания",
+      "competition": "Danish 1st Division",
+      "tier_order": 2,
+      "club_slots": 12
+    },
+    {
+      "league_id": "NOR_1",
+      "association_code": "NOR",
+      "region": "Европа",
+      "country_ru": "Норвегия",
+      "competition": "Eliteserien",
+      "tier_order": 1,
+      "club_slots": 16
+    },
+    {
+      "league_id": "NOR_2",
+      "association_code": "NOR",
+      "region": "Европа",
+      "country_ru": "Норвегия",
+      "competition": "OBOS-ligaen",
+      "tier_order": 2,
+      "club_slots": 16
+    },
+    {
+      "league_id": "SWE_1",
+      "association_code": "SWE",
+      "region": "Европа",
+      "country_ru": "Швеция",
+      "competition": "Allsvenskan",
+      "tier_order": 1,
+      "club_slots": 16
+    },
+    {
+      "league_id": "SWE_2",
+      "association_code": "SWE",
+      "region": "Европа",
+      "country_ru": "Швеция",
+      "competition": "Superettan",
+      "tier_order": 2,
+      "club_slots": 16
+    },
+    {
+      "league_id": "POL_1",
+      "association_code": "POL",
+      "region": "Европа",
+      "country_ru": "Польша",
+      "competition": "Ekstraklasa",
+      "tier_order": 1,
+      "club_slots": 18
+    },
+    {
+      "league_id": "POL_2",
+      "association_code": "POL",
+      "region": "Европа",
+      "country_ru": "Польша",
+      "competition": "I liga",
+      "tier_order": 2,
+      "club_slots": 18
+    },
+    {
+      "league_id": "CZE_1",
+      "association_code": "CZE",
+      "region": "Европа",
+      "country_ru": "Чехия",
+      "competition": "Czech First League",
+      "tier_order": 1,
+      "club_slots": 16
+    },
+    {
+      "league_id": "CZE_2",
+      "association_code": "CZE",
+      "region": "Европа",
+      "country_ru": "Чехия",
+      "competition": "Czech National Football League",
+      "tier_order": 2,
+      "club_slots": 16
+    },
+    {
+      "league_id": "CRO_1",
+      "association_code": "CRO",
+      "region": "Европа",
+      "country_ru": "Хорватия",
+      "competition": "HNL",
+      "tier_order": 1,
+      "club_slots": 10
+    },
+    {
+      "league_id": "CRO_2",
+      "association_code": "CRO",
+      "region": "Европа",
+      "country_ru": "Хорватия",
+      "competition": "Prva NL",
+      "tier_order": 2,
+      "club_slots": 12
+    },
+    {
+      "league_id": "UKR_1",
+      "association_code": "UKR",
+      "region": "Европа",
+      "country_ru": "Украина",
+      "competition": "Украинская Премьер-лига",
+      "tier_order": 1,
+      "club_slots": 16
+    },
+    {
+      "league_id": "UKR_2",
+      "association_code": "UKR",
+      "region": "Европа",
+      "country_ru": "Украина",
+      "competition": "Первая лига Украины",
+      "tier_order": 2,
+      "club_slots": 16
+    },
+    {
+      "league_id": "SRB_1",
+      "association_code": "SRB",
+      "region": "Европа",
+      "country_ru": "Сербия",
+      "competition": "Serbian SuperLiga",
+      "tier_order": 1,
+      "club_slots": 14
+    },
+    {
+      "league_id": "SRB_2",
+      "association_code": "SRB",
+      "region": "Европа",
+      "country_ru": "Сербия",
+      "competition": "Serbian First League",
+      "tier_order": 2,
+      "club_slots": 16
+    },
+    {
+      "league_id": "BRA_1",
+      "association_code": "BRA",
+      "region": "Южная Америка",
+      "country_ru": "Бразилия",
+      "competition": "Brasileirão Série A",
+      "tier_order": 1,
+      "club_slots": 20
+    },
+    {
+      "league_id": "BRA_2",
+      "association_code": "BRA",
+      "region": "Южная Америка",
+      "country_ru": "Бразилия",
+      "competition": "Brasileirão Série B",
+      "tier_order": 2,
+      "club_slots": 20
+    },
+    {
+      "league_id": "ARG_1",
+      "association_code": "ARG",
+      "region": "Южная Америка",
+      "country_ru": "Аргентина",
+      "competition": "Primera División",
+      "tier_order": 1,
+      "club_slots": 30
+    },
+    {
+      "league_id": "ARG_2",
+      "association_code": "ARG",
+      "region": "Южная Америка",
+      "country_ru": "Аргентина",
+      "competition": "Primera Nacional (2 зоны)",
+      "tier_order": 2,
+      "club_slots": 36,
+      "groups": [
+        18,
+        18
+      ]
+    },
+    {
+      "league_id": "URU_1",
+      "association_code": "URU",
+      "region": "Южная Америка",
+      "country_ru": "Уругвай",
+      "competition": "Primera División",
+      "tier_order": 1,
+      "club_slots": 16
+    },
+    {
+      "league_id": "URU_2",
+      "association_code": "URU",
+      "region": "Южная Америка",
+      "country_ru": "Уругвай",
+      "competition": "Segunda División Profesional",
+      "tier_order": 2,
+      "club_slots": 14
+    },
+    {
+      "league_id": "COL_1",
+      "association_code": "COL",
+      "region": "Южная Америка",
+      "country_ru": "Колумбия",
+      "competition": "Categoría Primera A",
+      "tier_order": 1,
+      "club_slots": 20
+    },
+    {
+      "league_id": "COL_2",
+      "association_code": "COL",
+      "region": "Южная Америка",
+      "country_ru": "Колумбия",
+      "competition": "Categoría Primera B",
+      "tier_order": 2,
+      "club_slots": 16
+    },
+    {
+      "league_id": "CHI_1",
+      "association_code": "CHI",
+      "region": "Южная Америка",
+      "country_ru": "Чили",
+      "competition": "Primera División",
+      "tier_order": 1,
+      "club_slots": 16
+    },
+    {
+      "league_id": "CHI_2",
+      "association_code": "CHI",
+      "region": "Южная Америка",
+      "country_ru": "Чили",
+      "competition": "Primera B",
+      "tier_order": 2,
+      "club_slots": 16
+    },
+    {
+      "league_id": "USA_1",
+      "association_code": "USA",
+      "region": "Северная Америка",
+      "country_ru": "США",
+      "competition": "Major League Soccer (MLS)",
+      "tier_order": 1,
+      "club_slots": 30,
+      "groups": [
+        15,
+        15
+      ],
+      "promotion_relegation": "independent_leagues_no_automatic_promotion"
+    },
+    {
+      "league_id": "USA_2",
+      "association_code": "USA",
+      "region": "Северная Америка",
+      "country_ru": "США",
+      "competition": "USL Championship",
+      "tier_order": 2,
+      "club_slots": 25,
+      "groups": [
+        13,
+        12
+      ],
+      "promotion_relegation": "independent_leagues_no_automatic_promotion"
+    },
+    {
+      "league_id": "MEX_1",
+      "association_code": "MEX",
+      "region": "Северная Америка",
+      "country_ru": "Мексика",
+      "competition": "Liga MX",
+      "tier_order": 1,
+      "club_slots": 18
+    },
+    {
+      "league_id": "JPN_1",
+      "association_code": "JPN",
+      "region": "Азия",
+      "country_ru": "Япония",
+      "competition": "J1 League",
+      "tier_order": 1,
+      "club_slots": 20
+    },
+    {
+      "league_id": "JPN_2",
+      "association_code": "JPN",
+      "region": "Азия",
+      "country_ru": "Япония",
+      "competition": "J2 League",
+      "tier_order": 2,
+      "club_slots": 20
+    },
+    {
+      "league_id": "KOR_1",
+      "association_code": "KOR",
+      "region": "Азия",
+      "country_ru": "Южная Корея",
+      "competition": "K League 1",
+      "tier_order": 1,
+      "club_slots": 12
+    },
+    {
+      "league_id": "KOR_2",
+      "association_code": "KOR",
+      "region": "Азия",
+      "country_ru": "Южная Корея",
+      "competition": "K League 2",
+      "tier_order": 2,
+      "club_slots": 17
+    },
+    {
+      "league_id": "KSA_1",
+      "association_code": "KSA",
+      "region": "Азия",
+      "country_ru": "Саудовская Аравия",
+      "competition": "Saudi Pro League",
+      "tier_order": 1,
+      "club_slots": 18
+    },
+    {
+      "league_id": "KSA_2",
+      "association_code": "KSA",
+      "region": "Азия",
+      "country_ru": "Саудовская Аравия",
+      "competition": "Saudi First Division League",
+      "tier_order": 2,
+      "club_slots": 18
+    },
+    {
+      "league_id": "CHN_1",
+      "association_code": "CHN",
+      "region": "Азия",
+      "country_ru": "Китай",
+      "competition": "Chinese Super League",
+      "tier_order": 1,
+      "club_slots": 16
+    },
+    {
+      "league_id": "CHN_2",
+      "association_code": "CHN",
+      "region": "Азия",
+      "country_ru": "Китай",
+      "competition": "China League One",
+      "tier_order": 2,
+      "club_slots": 16
+    },
+    {
+      "league_id": "EGY_1",
+      "association_code": "EGY",
+      "region": "Африка",
+      "country_ru": "Египет",
+      "competition": "Egyptian Premier League",
+      "tier_order": 1,
+      "club_slots": 20
+    },
+    {
+      "league_id": "EGY_2",
+      "association_code": "EGY",
+      "region": "Африка",
+      "country_ru": "Египет",
+      "competition": "Egyptian Second Division A",
+      "tier_order": 2,
+      "club_slots": 20
+    },
+    {
+      "league_id": "MAR_1",
+      "association_code": "MAR",
+      "region": "Африка",
+      "country_ru": "Марокко",
+      "competition": "Botola Pro",
+      "tier_order": 1,
+      "club_slots": 16
+    },
+    {
+      "league_id": "MAR_2",
+      "association_code": "MAR",
+      "region": "Африка",
+      "country_ru": "Марокко",
+      "competition": "Botola 2",
+      "tier_order": 2,
+      "club_slots": 16
+    }
+  ]
+}

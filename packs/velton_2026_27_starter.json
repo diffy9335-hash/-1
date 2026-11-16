@@ -1,0 +1,3330 @@
+{
+  "format": "velton-offline-1",
+  "season": "2026/27",
+  "description": "Стартовый офлайн-каталог: реальные названия клубов и проверенные имена некоторых игроков. Не полные составы.",
+  "clubs": [
+    {
+      "id": "official:ENG_1:00",
+      "league_id": "ENG_1",
+      "name": "AFC Bournemouth",
+      "strength": 79,
+      "source": "Official 2026/27 league roster",
+      "synced_at": "2026-11-14",
+      "players": []
+    },
+    {
+      "id": "official:ENG_1:01",
+      "league_id": "ENG_1",
+      "name": "Arsenal",
+      "strength": 67,
+      "source": "Official 2026/27 league roster",
+      "synced_at": "2026-11-14",
+      "players": [
+        {
+          "id": "official:ENG_1:01:000",
+          "name": "David Raya",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:01:001",
+          "name": "William Saliba",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:01:002",
+          "name": "Ben White",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:01:003",
+          "name": "Gabriel Magalhaes",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:01:004",
+          "name": "Bukayo Saka",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:01:005",
+          "name": "Martin Odegaard",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:01:006",
+          "name": "Eberechi Eze",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:01:007",
+          "name": "Viktor Gyokeres",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:01:008",
+          "name": "Noni Madueke",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:01:009",
+          "name": "Ethan Nwaneri",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:01:010",
+          "name": "Kai Havertz",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:01:011",
+          "name": "Declan Rice",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:01:012",
+          "name": "Martin Zubimendi",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:01:013",
+          "name": "Riccardo Calafiori",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        }
+      ]
+    },
+    {
+      "id": "official:ENG_1:02",
+      "league_id": "ENG_1",
+      "name": "Aston Villa",
+      "strength": 65,
+      "source": "Official 2026/27 league roster",
+      "synced_at": "2026-11-14",
+      "players": [
+        {
+          "id": "official:ENG_1:02:000",
+          "name": "Zion Suzuki",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:02:001",
+          "name": "Matty Cash",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:02:002",
+          "name": "Tyrone Mings",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:02:003",
+          "name": "Ross Barkley",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:02:004",
+          "name": "John McGinn",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:02:005",
+          "name": "Boubacar Kamara",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:02:006",
+          "name": "Emiliano Buendia",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:02:007",
+          "name": "Nicolas Jackson",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:02:008",
+          "name": "Tammy Abraham",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:02:009",
+          "name": "Pau Torres",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:02:010",
+          "name": "Ibrahim Mbaye",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:02:011",
+          "name": "Leon Goretzka",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        }
+      ]
+    },
+    {
+      "id": "official:ENG_1:03",
+      "league_id": "ENG_1",
+      "name": "Brentford",
+      "strength": 63,
+      "source": "Official 2026/27 league roster",
+      "synced_at": "2026-11-14",
+      "players": []
+    },
+    {
+      "id": "official:ENG_1:04",
+      "league_id": "ENG_1",
+      "name": "Brighton & Hove Albion",
+      "strength": 66,
+      "source": "Official 2026/27 league roster",
+      "synced_at": "2026-11-14",
+      "players": []
+    },
+    {
+      "id": "official:ENG_1:05",
+      "league_id": "ENG_1",
+      "name": "Chelsea",
+      "strength": 69,
+      "source": "Official 2026/27 league roster",
+      "synced_at": "2026-11-14",
+      "players": [
+        {
+          "id": "official:ENG_1:05:000",
+          "name": "Emiliano Martinez",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:05:001",
+          "name": "Wesley Fofana",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:05:002",
+          "name": "Levi Colwill",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:05:003",
+          "name": "Pedro Neto",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:05:004",
+          "name": "Joao Pedro",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:05:005",
+          "name": "Cole Palmer",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:05:006",
+          "name": "Jamie Gittens",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:05:007",
+          "name": "Reece James",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:05:008",
+          "name": "Moises Caicedo",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:05:009",
+          "name": "Malo Gusto",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:05:010",
+          "name": "Estevao",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:05:011",
+          "name": "Romeo Lavia",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        }
+      ]
+    },
+    {
+      "id": "official:ENG_1:06",
+      "league_id": "ENG_1",
+      "name": "Coventry City",
+      "strength": 78,
+      "source": "Official 2026/27 league roster",
+      "synced_at": "2026-11-14",
+      "players": [
+        {
+          "id": "official:ENG_1:06:000",
+          "name": "Ethan Pinnock",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:06:001",
+          "name": "Jay Dasilva",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:06:002",
+          "name": "Bobby Thomas",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:06:003",
+          "name": "Jack Rudoni",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:06:004",
+          "name": "Matt Grimes",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:06:005",
+          "name": "Tatsuhiro Sakamoto",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:06:006",
+          "name": "Ellis Simms",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:06:007",
+          "name": "Haji Wright",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:06:008",
+          "name": "Frank Onyeka",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:06:009",
+          "name": "Victor Torp",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        }
+      ]
+    },
+    {
+      "id": "official:ENG_1:07",
+      "league_id": "ENG_1",
+      "name": "Crystal Palace",
+      "strength": 67,
+      "source": "Official 2026/27 league roster",
+      "synced_at": "2026-11-14",
+      "players": [
+        {
+          "id": "official:ENG_1:07:000",
+          "name": "Dean Henderson",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:07:001",
+          "name": "Tyrick Mitchell",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:07:002",
+          "name": "Ismaila Sarr",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:07:003",
+          "name": "Jefferson Lerma",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:07:004",
+          "name": "Eddie Nketiah",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:07:005",
+          "name": "Yeremy Pino",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:07:006",
+          "name": "Jean-Philippe Mateta",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:07:007",
+          "name": "Adam Wharton",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:07:008",
+          "name": "Will Hughes",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:07:009",
+          "name": "Chris Richards",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        }
+      ]
+    },
+    {
+      "id": "official:ENG_1:08",
+      "league_id": "ENG_1",
+      "name": "Everton",
+      "strength": 67,
+      "source": "Official 2026/27 league roster",
+      "synced_at": "2026-11-14",
+      "players": [
+        {
+          "id": "official:ENG_1:08:000",
+          "name": "Jordan Pickford",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:08:001",
+          "name": "Jarrad Branthwaite",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:08:002",
+          "name": "James Tarkowski",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:08:003",
+          "name": "Kiernan Dewsbury-Hall",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:08:004",
+          "name": "Jack Grealish",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:08:005",
+          "name": "Thierno Barry",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:08:006",
+          "name": "Brennan Johnson",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:08:007",
+          "name": "James Garner",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:08:008",
+          "name": "Jake O'Brien",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:08:009",
+          "name": "Vitalii Mykolenko",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        }
+      ]
+    },
+    {
+      "id": "official:ENG_1:09",
+      "league_id": "ENG_1",
+      "name": "Fulham",
+      "strength": 64,
+      "source": "Official 2026/27 league roster",
+      "synced_at": "2026-11-14",
+      "players": [
+        {
+          "id": "official:ENG_1:09:000",
+          "name": "Bernd Leno",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:09:001",
+          "name": "Kenny Tete",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:09:002",
+          "name": "Calvin Bassey",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:09:003",
+          "name": "Joachim Andersen",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:09:004",
+          "name": "Rodrigo Muniz",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:09:005",
+          "name": "Tom Cairney",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:09:006",
+          "name": "Oscar Bobb",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:09:007",
+          "name": "Sander Berge",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:09:008",
+          "name": "Alex Iwobi",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:09:009",
+          "name": "Emile Smith Rowe",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:09:010",
+          "name": "Antonee Robinson",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        }
+      ]
+    },
+    {
+      "id": "official:ENG_1:10",
+      "league_id": "ENG_1",
+      "name": "Hull City",
+      "strength": 75,
+      "source": "Official 2026/27 league roster",
+      "synced_at": "2026-11-14",
+      "players": [
+        {
+          "id": "official:ENG_1:10:000",
+          "name": "Jack Butland",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:10:001",
+          "name": "Lewie Coyle",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:10:002",
+          "name": "Ryan Giles",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:10:003",
+          "name": "Charlie Hughes",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:10:004",
+          "name": "Hidemasa Morita",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:10:005",
+          "name": "Oliver McBurnie",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:10:006",
+          "name": "Joe Gelhardt",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:10:007",
+          "name": "Elliot Stroud",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:10:008",
+          "name": "Ilyas Ansah",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:10:009",
+          "name": "Regan Slater",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        }
+      ]
+    },
+    {
+      "id": "official:ENG_1:11",
+      "league_id": "ENG_1",
+      "name": "Ipswich Town",
+      "strength": 70,
+      "source": "Official 2026/27 league roster",
+      "synced_at": "2026-11-14",
+      "players": [
+        {
+          "id": "official:ENG_1:11:000",
+          "name": "Alex Palmer",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:11:001",
+          "name": "Darnell Furlong",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:11:002",
+          "name": "Leif Davis",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:11:003",
+          "name": "Julio Enciso",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:11:004",
+          "name": "Jaden Philogene",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:11:005",
+          "name": "Jacob Greaves",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:11:006",
+          "name": "Christian Walton",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:11:007",
+          "name": "Chuba Akpom",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:11:008",
+          "name": "Daizen Maeda",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:11:009",
+          "name": "Jack Clarke",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        }
+      ]
+    },
+    {
+      "id": "official:ENG_1:12",
+      "league_id": "ENG_1",
+      "name": "Leeds United",
+      "strength": 72,
+      "source": "Official 2026/27 league roster",
+      "synced_at": "2026-11-14",
+      "players": [
+        {
+          "id": "official:ENG_1:12:000",
+          "name": "James Trafford",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:12:001",
+          "name": "Jayden Bogle",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:12:002",
+          "name": "Ethan Ampadu",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:12:003",
+          "name": "Joe Rodon",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:12:004",
+          "name": "Daniel James",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:12:005",
+          "name": "Dominic Calvert-Lewin",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:12:006",
+          "name": "Brenden Aaronson",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:12:007",
+          "name": "Noah Okafor",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:12:008",
+          "name": "Anton Stach",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:12:009",
+          "name": "Ao Tanaka",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        }
+      ]
+    },
+    {
+      "id": "official:ENG_1:13",
+      "league_id": "ENG_1",
+      "name": "Liverpool",
+      "strength": 65,
+      "source": "Official 2026/27 league roster",
+      "synced_at": "2026-11-14",
+      "players": [
+        {
+          "id": "official:ENG_1:13:000",
+          "name": "Alisson Becker",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:13:001",
+          "name": "Virgil van Dijk",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:13:002",
+          "name": "Florian Wirtz",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:13:003",
+          "name": "Dominik Szoboszlai",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:13:004",
+          "name": "Alexander Isak",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:13:005",
+          "name": "Alexis Mac Allister",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:13:006",
+          "name": "Cody Gakpo",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:13:007",
+          "name": "Federico Chiesa",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:13:008",
+          "name": "Hugo Ekitike",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:13:009",
+          "name": "Jeremie Frimpong",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:13:010",
+          "name": "Ryan Gravenberch",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        }
+      ]
+    },
+    {
+      "id": "official:ENG_1:14",
+      "league_id": "ENG_1",
+      "name": "Manchester City",
+      "strength": 72,
+      "source": "Official 2026/27 league roster",
+      "synced_at": "2026-11-14",
+      "players": [
+        {
+          "id": "official:ENG_1:14:000",
+          "name": "Gianluigi Donnarumma",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:14:001",
+          "name": "Ruben Dias",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:14:002",
+          "name": "Erling Haaland",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:14:003",
+          "name": "Rayan Cherki",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:14:004",
+          "name": "Jeremy Doku",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:14:005",
+          "name": "Enzo Fernandez",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:14:006",
+          "name": "Josko Gvardiol",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:14:007",
+          "name": "Matheus Nunes",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:14:008",
+          "name": "Phil Foden",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:14:009",
+          "name": "Rico Lewis",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:14:010",
+          "name": "Antoine Semenyo",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        }
+      ]
+    },
+    {
+      "id": "official:ENG_1:15",
+      "league_id": "ENG_1",
+      "name": "Manchester United",
+      "strength": 62,
+      "source": "Official 2026/27 league roster",
+      "synced_at": "2026-11-14",
+      "players": [
+        {
+          "id": "official:ENG_1:15:000",
+          "name": "Senne Lammens",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:15:001",
+          "name": "Diogo Dalot",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:15:002",
+          "name": "Matthijs de Ligt",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:15:003",
+          "name": "Harry Maguire",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:15:004",
+          "name": "Bruno Fernandes",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:15:005",
+          "name": "Marcus Rashford",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:15:006",
+          "name": "Matheus Cunha",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:15:007",
+          "name": "Joshua Zirkzee",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:15:008",
+          "name": "Amad Diallo",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:15:009",
+          "name": "Bryan Mbeumo",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:15:010",
+          "name": "Kobbie Mainoo",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        }
+      ]
+    },
+    {
+      "id": "official:ENG_1:16",
+      "league_id": "ENG_1",
+      "name": "Newcastle United",
+      "strength": 72,
+      "source": "Official 2026/27 league roster",
+      "synced_at": "2026-11-14",
+      "players": [
+        {
+          "id": "official:ENG_1:16:000",
+          "name": "Nick Pope",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:16:001",
+          "name": "Tino Livramento",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:16:002",
+          "name": "Lewis Hall",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:16:003",
+          "name": "Sven Botman",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:16:004",
+          "name": "Joelinton",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:16:005",
+          "name": "Yoane Wissa",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:16:006",
+          "name": "Harvey Barnes",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:16:007",
+          "name": "Anthony Elanga",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:16:008",
+          "name": "Dan Burn",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:16:009",
+          "name": "Jacob Ramsey",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        }
+      ]
+    },
+    {
+      "id": "official:ENG_1:17",
+      "league_id": "ENG_1",
+      "name": "Nottingham Forest",
+      "strength": 74,
+      "source": "Official 2026/27 league roster",
+      "synced_at": "2026-11-14",
+      "players": [
+        {
+          "id": "official:ENG_1:17:000",
+          "name": "Neco Williams",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:17:001",
+          "name": "Murillo",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:17:002",
+          "name": "Ibrahim Sangare",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:17:003",
+          "name": "Callum Hudson-Odoi",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:17:004",
+          "name": "Chris Wood",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:17:005",
+          "name": "Morgan Gibbs-White",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:17:006",
+          "name": "Igor Jesus",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:17:007",
+          "name": "Ryan Yates",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:17:008",
+          "name": "Matz Sels",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:17:009",
+          "name": "Ola Aina",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        }
+      ]
+    },
+    {
+      "id": "official:ENG_1:18",
+      "league_id": "ENG_1",
+      "name": "Sunderland",
+      "strength": 74,
+      "source": "Official 2026/27 league roster",
+      "synced_at": "2026-11-14",
+      "players": [
+        {
+          "id": "official:ENG_1:18:000",
+          "name": "Dan Ballard",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:18:001",
+          "name": "Chemsdine Talbi",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:18:002",
+          "name": "Brian Brobbey",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:18:003",
+          "name": "Chris Rigg",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:18:004",
+          "name": "Granit Xhaka",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:18:005",
+          "name": "Robin Roefs",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:18:006",
+          "name": "Habib Diarra",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:18:007",
+          "name": "Wilson Isidor",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:18:008",
+          "name": "Enzo Le Fee",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:18:009",
+          "name": "Trai Hume",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        }
+      ]
+    },
+    {
+      "id": "official:ENG_1:19",
+      "league_id": "ENG_1",
+      "name": "Tottenham Hotspur",
+      "strength": 79,
+      "source": "Official 2026/27 league roster",
+      "synced_at": "2026-11-14",
+      "players": [
+        {
+          "id": "official:ENG_1:19:000",
+          "name": "Andy Robertson",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:19:001",
+          "name": "Xavi Simons",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:19:002",
+          "name": "Conor Gallagher",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:19:003",
+          "name": "James Maddison",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:19:004",
+          "name": "Mathys Tel",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:19:005",
+          "name": "Lucas Bergvall",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:19:006",
+          "name": "Sandro Tonali",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:19:007",
+          "name": "Dominic Solanke",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:19:008",
+          "name": "Mohammed Kudus",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:19:009",
+          "name": "Dejan Kulusevski",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        },
+        {
+          "id": "official:ENG_1:19:010",
+          "name": "Pedro Porro",
+          "position": null,
+          "age": null,
+          "nationality": null,
+          "source": "Premier League 2026/27 squad numbers"
+        }
+      ]
+    },
+    {
+      "id": "official:ENG_2:00",
+      "league_id": "ENG_2",
+      "name": "Birmingham City",
+      "strength": 59,
+      "source": "2026/27 Championship club listing",
+      "synced_at": "2026-11-14",
+      "players": []
+    },
+    {
+      "id": "official:ENG_2:01",
+      "league_id": "ENG_2",
+      "name": "Blackburn Rovers",
+      "strength": 74,
+      "source": "2026/27 Championship club listing",
+      "synced_at": "2026-11-14",
+      "players": []
+    },
+    {
+      "id": "official:ENG_2:02",
+      "league_id": "ENG_2",
+      "name": "Bolton Wanderers",
+      "strength": 58,
+      "source": "2026/27 Championship club listing",
+      "synced_at": "2026-11-14",
+      "players": []
+    },
+    {
+      "id": "official:ENG_2:03",
+      "league_id": "ENG_2",
+      "name": "Bristol City",
+      "strength": 74,
+      "source": "2026/27 Championship club listing",
+      "synced_at": "2026-11-14",
+      "players": []
+    },
+    {
+      "id": "official:ENG_2:04",
+      "league_id": "ENG_2",
+      "name": "Burnley",
+      "strength": 75,
+      "source": "2026/27 Championship club listing",
+      "synced_at": "2026-11-14",
+      "players": []
+    },
+    {
+      "id": "official:ENG_2:05",
+      "league_id": "ENG_2",
+      "name": "Cardiff City",
+      "strength": 72,
+      "source": "2026/27 Championship club listing",
+      "synced_at": "2026-11-14",
+      "players": []
+    },
+    {
+      "id": "official:ENG_2:06",
+      "league_id": "ENG_2",
+      "name": "Charlton Athletic",
+      "strength": 64,
+      "source": "2026/27 Championship club listing",
+      "synced_at": "2026-11-14",
+      "players": []
+    },
+    {
+      "id": "official:ENG_2:07",
+      "league_id": "ENG_2",
+      "name": "Derby County",
+      "strength": 65,
+      "source": "2026/27 Championship club listing",
+      "synced_at": "2026-11-14",
+      "players": []
+    },
+    {
+      "id": "official:ENG_2:08",
+      "league_id": "ENG_2",
+      "name": "Lincoln City",
+      "strength": 75,
+      "source": "2026/27 Championship club listing",
+      "synced_at": "2026-11-14",
+      "players": []
+    },
+    {
+      "id": "official:ENG_2:09",
+      "league_id": "ENG_2",
+      "name": "Middlesbrough",
+      "strength": 71,
+      "source": "2026/27 Championship club listing",
+      "synced_at": "2026-11-14",
+      "players": []
+    },
+    {
+      "id": "official:ENG_2:10",
+      "league_id": "ENG_2",
+      "name": "Millwall",
+      "strength": 63,
+      "source": "2026/27 Championship club listing",
+      "synced_at": "2026-11-14",
+      "players": []
+    },
+    {
+      "id": "official:ENG_2:11",
+      "league_id": "ENG_2",
+      "name": "Norwich City",
+      "strength": 64,
+      "source": "2026/27 Championship club listing",
+      "synced_at": "2026-11-14",
+      "players": []
+    },
+    {
+      "id": "official:ENG_2:12",
+      "league_id": "ENG_2",
+      "name": "Portsmouth",
+      "strength": 62,
+      "source": "2026/27 Championship club listing",
+      "synced_at": "2026-11-14",
+      "players": []
+    },
+    {
+      "id": "official:ENG_2:13",
+      "league_id": "ENG_2",
+      "name": "Preston North End",
+      "strength": 67,
+      "source": "2026/27 Championship club listing",
+      "synced_at": "2026-11-14",
+      "players": []
+    },
+    {
+      "id": "official:ENG_2:14",
+      "league_id": "ENG_2",
+      "name": "Queens Park Rangers",
+      "strength": 66,
+      "source": "2026/27 Championship club listing",
+      "synced_at": "2026-11-14",
+      "players": []
+    },
+    {
+      "id": "official:ENG_2:15",
+      "league_id": "ENG_2",
+      "name": "Sheffield United",
+      "strength": 60,
+      "source": "2026/27 Championship club listing",
+      "synced_at": "2026-11-14",
+      "players": []
+    },
+    {
+      "id": "official:ENG_2:16",
+      "league_id": "ENG_2",
+      "name": "Southampton",
+      "strength": 76,
+      "source": "2026/27 Championship club listing",
+      "synced_at": "2026-11-14",
+      "players": []
+    },
+    {
+      "id": "official:ENG_2:17",
+      "league_id": "ENG_2",
+      "name": "Stoke City",
+      "strength": 75,
+      "source": "2026/27 Championship club listing",
+      "synced_at": "2026-11-14",
+      "players": []
+    },
+    {
+      "id": "official:ENG_2:18",
+      "league_id": "ENG_2",
+      "name": "Swansea City",
+      "strength": 72,
+      "source": "2026/27 Championship club listing",
+      "synced_at": "2026-11-14",
+      "players": []
+    },
+    {
+      "id": "official:ENG_2:19",
+      "league_id": "ENG_2",
+      "name": "Watford",
+      "strength": 70,
+      "source": "2026/27 Championship club listing",
+      "synced_at": "2026-11-14",
+      "players": []
+    },
+    {
+      "id": "official:ENG_2:20",
+      "league_id": "ENG_2",
+      "name": "West Bromwich Albion",
+      "strength": 74,
+      "source": "2026/27 Championship club listing",
+      "synced_at": "2026-11-14",
+      "players": []
+    },
+    {
+      "id": "official:ENG_2:21",
+      "league_id": "ENG_2",
+      "name": "West Ham United",
+      "strength": 72,
+      "source": "2026/27 Championship club listing",
+      "synced_at": "2026-11-14",
+      "players": []
+    },
+    {
+      "id": "official:ENG_2:22",
+      "league_id": "ENG_2",
+      "name": "Wolverhampton Wanderers",
+      "strength": 73,
+      "source": "2026/27 Championship club listing",
+      "synced_at": "2026-11-14",
+      "players": []
+    },
+    {
+      "id": "official:ENG_2:23",
+      "league_id": "ENG_2",
+      "name": "Wrexham",
+      "strength": 74,
+      "source": "2026/27 Championship club listing",
+      "synced_at": "2026-11-14",
+      "players": []
+    },
+    {
+      "id": "verified:ESP_1:00",
+      "league_id": "ESP_1",
+      "name": "Athletic Club",
+      "strength": 68,
+      "source": "https://www.laliga.com/en-US/laliga-easports/clubs",
+      "synced_at": "2026-11-15",
+      "players": []
+    },
+    {
+      "id": "verified:ESP_1:01",
+      "league_id": "ESP_1",
+      "name": "Atlético de Madrid",
+      "strength": 68,
+      "source": "https://www.laliga.com/en-US/laliga-easports/clubs",
+      "synced_at": "2026-11-15",
+      "players": []
+    },
+    {
+      "id": "verified:ESP_1:02",
+      "league_id": "ESP_1",
+      "name": "CA Osasuna",
+      "strength": 67,
+      "source": "https://www.laliga.com/en-US/laliga-easports/clubs",
+      "synced_at": "2026-11-15",
+      "players": []
+    },
+    {
+      "id": "verified:ESP_1:03",
+      "league_id": "ESP_1",
+      "name": "Celta",
+      "strength": 73,
+      "source": "https://www.laliga.com/en-US/laliga-easports/clubs",
+      "synced_at": "2026-11-15",
+      "players": []
+    },
+    {
+      "id": "verified:ESP_1:04",
+      "league_id": "ESP_1",
+      "name": "Deportivo Alavés",
+      "strength": 77,
+      "source": "https://www.laliga.com/en-US/laliga-easports/clubs",
+      "synced_at": "2026-11-15",
+      "players": []
+    },
+    {
+      "id": "verified:ESP_1:05",
+      "league_id": "ESP_1",
+      "name": "Elche CF",
+      "strength": 72,
+      "source": "https://www.laliga.com/en-US/laliga-easports/clubs",
+      "synced_at": "2026-11-15",
+      "players": []
+    },
+    {
+      "id": "verified:ESP_1:06",
+      "league_id": "ESP_1",
+      "name": "FC Barcelona",
+      "strength": 63,
+      "source": "https://www.laliga.com/en-US/laliga-easports/clubs",
+      "synced_at": "2026-11-15",
+      "players": [
+        {
+          "id": "verified:ESP_1:06:ATT:00",
+          "name": "Gabriel Jesus",
+          "position": "ATT",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.fcbarcelona.com/en/news/4570894/202627-first-team-jersey-numbers-confirmed/amp"
+        },
+        {
+          "id": "verified:ESP_1:06:ATT:01",
+          "name": "Lamine Yamal",
+          "position": "ATT",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.fcbarcelona.com/en/news/4570894/202627-first-team-jersey-numbers-confirmed/amp"
+        },
+        {
+          "id": "verified:ESP_1:06:ATT:02",
+          "name": "Raphinha",
+          "position": "ATT",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.fcbarcelona.com/en/news/4570894/202627-first-team-jersey-numbers-confirmed/amp"
+        },
+        {
+          "id": "verified:ESP_1:06:ATT:03",
+          "name": "Karim Adeyemi",
+          "position": "ATT",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.fcbarcelona.com/en/news/4570894/202627-first-team-jersey-numbers-confirmed/amp"
+        },
+        {
+          "id": "verified:ESP_1:06:ATT:04",
+          "name": "Anthony Gordon",
+          "position": "ATT",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.fcbarcelona.com/en/news/4570894/202627-first-team-jersey-numbers-confirmed/amp"
+        },
+        {
+          "id": "verified:ESP_1:06:ATT:05",
+          "name": "Roony Bardghji",
+          "position": "ATT",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.fcbarcelona.com/en/news/4570894/202627-first-team-jersey-numbers-confirmed/amp"
+        },
+        {
+          "id": "verified:ESP_1:06:ATT:06",
+          "name": "Jesse Bisiwu",
+          "position": "ATT",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.fcbarcelona.com/en/news/4570894/202627-first-team-jersey-numbers-confirmed/amp"
+        },
+        {
+          "id": "verified:ESP_1:06:ATT:07",
+          "name": "Hamza Abdelkarim",
+          "position": "ATT",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.fcbarcelona.com/en/news/4570894/202627-first-team-jersey-numbers-confirmed/amp"
+        },
+        {
+          "id": "verified:ESP_1:06:DEF:00",
+          "name": "João Cancelo",
+          "position": "DEF",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.fcbarcelona.com/en/news/4570894/202627-first-team-jersey-numbers-confirmed/amp"
+        },
+        {
+          "id": "verified:ESP_1:06:DEF:01",
+          "name": "Alejandro Balde",
+          "position": "DEF",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.fcbarcelona.com/en/news/4570894/202627-first-team-jersey-numbers-confirmed/amp"
+        },
+        {
+          "id": "verified:ESP_1:06:DEF:02",
+          "name": "Brian Fariñas",
+          "position": "DEF",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.fcbarcelona.com/en/news/4570894/202627-first-team-jersey-numbers-confirmed/amp"
+        },
+        {
+          "id": "verified:ESP_1:06:DEF:03",
+          "name": "Pau Cubarsí",
+          "position": "DEF",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.fcbarcelona.com/en/news/4570894/202627-first-team-jersey-numbers-confirmed/amp"
+        },
+        {
+          "id": "verified:ESP_1:06:DEF:04",
+          "name": "Xavi Espart",
+          "position": "DEF",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.fcbarcelona.com/en/news/4570894/202627-first-team-jersey-numbers-confirmed/amp"
+        },
+        {
+          "id": "verified:ESP_1:06:DEF:05",
+          "name": "Andreas Christensen",
+          "position": "DEF",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.fcbarcelona.com/en/news/4570894/202627-first-team-jersey-numbers-confirmed/amp"
+        },
+        {
+          "id": "verified:ESP_1:06:DEF:06",
+          "name": "Gerard Martín",
+          "position": "DEF",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.fcbarcelona.com/en/news/4570894/202627-first-team-jersey-numbers-confirmed/amp"
+        },
+        {
+          "id": "verified:ESP_1:06:DEF:07",
+          "name": "Jules Koundé",
+          "position": "DEF",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.fcbarcelona.com/en/news/4570894/202627-first-team-jersey-numbers-confirmed/amp"
+        },
+        {
+          "id": "verified:ESP_1:06:DEF:08",
+          "name": "Eric García",
+          "position": "DEF",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.fcbarcelona.com/en/news/4570894/202627-first-team-jersey-numbers-confirmed/amp"
+        },
+        {
+          "id": "verified:ESP_1:06:GK:00",
+          "name": "Joan García",
+          "position": "GK",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.fcbarcelona.com/en/news/4570894/202627-first-team-jersey-numbers-confirmed/amp"
+        },
+        {
+          "id": "verified:ESP_1:06:GK:01",
+          "name": "Wojciech Szczęsny",
+          "position": "GK",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.fcbarcelona.com/en/news/4570894/202627-first-team-jersey-numbers-confirmed/amp"
+        },
+        {
+          "id": "verified:ESP_1:06:GK:02",
+          "name": "Dominik Livaković",
+          "position": "GK",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.fcbarcelona.com/en/news/4570894/202627-first-team-jersey-numbers-confirmed/amp"
+        },
+        {
+          "id": "verified:ESP_1:06:MID:00",
+          "name": "Gavi",
+          "position": "MID",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.fcbarcelona.com/en/news/4570894/202627-first-team-jersey-numbers-confirmed/amp"
+        },
+        {
+          "id": "verified:ESP_1:06:MID:01",
+          "name": "Fermín López",
+          "position": "MID",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.fcbarcelona.com/en/news/4570894/202627-first-team-jersey-numbers-confirmed/amp"
+        },
+        {
+          "id": "verified:ESP_1:06:MID:02",
+          "name": "Pedri",
+          "position": "MID",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.fcbarcelona.com/en/news/4570894/202627-first-team-jersey-numbers-confirmed/amp"
+        },
+        {
+          "id": "verified:ESP_1:06:MID:03",
+          "name": "Rodri",
+          "position": "MID",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.fcbarcelona.com/en/news/4570894/202627-first-team-jersey-numbers-confirmed/amp"
+        },
+        {
+          "id": "verified:ESP_1:06:MID:04",
+          "name": "Dani Olmo",
+          "position": "MID",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.fcbarcelona.com/en/news/4570894/202627-first-team-jersey-numbers-confirmed/amp"
+        },
+        {
+          "id": "verified:ESP_1:06:MID:05",
+          "name": "Frenkie de Jong",
+          "position": "MID",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.fcbarcelona.com/en/news/4570894/202627-first-team-jersey-numbers-confirmed/amp"
+        },
+        {
+          "id": "verified:ESP_1:06:MID:06",
+          "name": "Marc Bernal",
+          "position": "MID",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.fcbarcelona.com/en/news/4570894/202627-first-team-jersey-numbers-confirmed/amp"
+        }
+      ]
+    },
+    {
+      "id": "verified:ESP_1:07",
+      "league_id": "ESP_1",
+      "name": "Getafe CF",
+      "strength": 68,
+      "source": "https://www.laliga.com/en-US/laliga-easports/clubs",
+      "synced_at": "2026-11-15",
+      "players": []
+    },
+    {
+      "id": "verified:ESP_1:08",
+      "league_id": "ESP_1",
+      "name": "Levante UD",
+      "strength": 69,
+      "source": "https://www.laliga.com/en-US/laliga-easports/clubs",
+      "synced_at": "2026-11-15",
+      "players": []
+    },
+    {
+      "id": "verified:ESP_1:09",
+      "league_id": "ESP_1",
+      "name": "Málaga CF",
+      "strength": 79,
+      "source": "https://www.laliga.com/en-US/laliga-easports/clubs",
+      "synced_at": "2026-11-15",
+      "players": []
+    },
+    {
+      "id": "verified:ESP_1:10",
+      "league_id": "ESP_1",
+      "name": "Racing de Santander",
+      "strength": 70,
+      "source": "https://www.laliga.com/en-US/laliga-easports/clubs",
+      "synced_at": "2026-11-15",
+      "players": []
+    },
+    {
+      "id": "verified:ESP_1:11",
+      "league_id": "ESP_1",
+      "name": "Rayo Vallecano",
+      "strength": 72,
+      "source": "https://www.laliga.com/en-US/laliga-easports/clubs",
+      "synced_at": "2026-11-15",
+      "players": []
+    },
+    {
+      "id": "verified:ESP_1:12",
+      "league_id": "ESP_1",
+      "name": "Deportivo La Coruña",
+      "strength": 81,
+      "source": "https://www.laliga.com/en-US/laliga-easports/clubs",
+      "synced_at": "2026-11-15",
+      "players": []
+    },
+    {
+      "id": "verified:ESP_1:13",
+      "league_id": "ESP_1",
+      "name": "RCD Espanyol",
+      "strength": 75,
+      "source": "https://www.laliga.com/en-US/laliga-easports/clubs",
+      "synced_at": "2026-11-15",
+      "players": []
+    },
+    {
+      "id": "verified:ESP_1:14",
+      "league_id": "ESP_1",
+      "name": "Real Betis",
+      "strength": 73,
+      "source": "https://www.laliga.com/en-US/laliga-easports/clubs",
+      "synced_at": "2026-11-15",
+      "players": []
+    },
+    {
+      "id": "verified:ESP_1:15",
+      "league_id": "ESP_1",
+      "name": "Real Madrid",
+      "strength": 76,
+      "source": "https://www.laliga.com/en-US/laliga-easports/clubs",
+      "synced_at": "2026-11-15",
+      "players": [
+        {
+          "id": "verified:ESP_1:15:ATT:00",
+          "name": "Vinícius Júnior",
+          "position": "ATT",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/dorsales-del-real-madrid-para-la-temporada-2026-27-10-08-2026"
+        },
+        {
+          "id": "verified:ESP_1:15:ATT:01",
+          "name": "Endrick",
+          "position": "ATT",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/dorsales-del-real-madrid-para-la-temporada-2026-27-10-08-2026"
+        },
+        {
+          "id": "verified:ESP_1:15:ATT:02",
+          "name": "Kylian Mbappé",
+          "position": "ATT",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/dorsales-del-real-madrid-para-la-temporada-2026-27-10-08-2026"
+        },
+        {
+          "id": "verified:ESP_1:15:ATT:03",
+          "name": "Rodrygo",
+          "position": "ATT",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/dorsales-del-real-madrid-para-la-temporada-2026-27-10-08-2026"
+        },
+        {
+          "id": "verified:ESP_1:15:ATT:04",
+          "name": "César Espi",
+          "position": "ATT",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/dorsales-del-real-madrid-para-la-temporada-2026-27-10-08-2026"
+        },
+        {
+          "id": "verified:ESP_1:15:ATT:05",
+          "name": "Brahim Díaz",
+          "position": "ATT",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/dorsales-del-real-madrid-para-la-temporada-2026-27-10-08-2026"
+        },
+        {
+          "id": "verified:ESP_1:15:ATT:06",
+          "name": "Yan Diomandé",
+          "position": "ATT",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/dorsales-del-real-madrid-para-la-temporada-2026-27-10-08-2026"
+        },
+        {
+          "id": "verified:ESP_1:15:DEF:00",
+          "name": "Raúl Asencio",
+          "position": "DEF",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/dorsales-del-real-madrid-para-la-temporada-2026-27-10-08-2026"
+        },
+        {
+          "id": "verified:ESP_1:15:DEF:01",
+          "name": "Éder Militão",
+          "position": "DEF",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/dorsales-del-real-madrid-para-la-temporada-2026-27-10-08-2026"
+        },
+        {
+          "id": "verified:ESP_1:15:DEF:02",
+          "name": "Dean Huijsen",
+          "position": "DEF",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/dorsales-del-real-madrid-para-la-temporada-2026-27-10-08-2026"
+        },
+        {
+          "id": "verified:ESP_1:15:DEF:03",
+          "name": "Trent Alexander-Arnold",
+          "position": "DEF",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/dorsales-del-real-madrid-para-la-temporada-2026-27-10-08-2026"
+        },
+        {
+          "id": "verified:ESP_1:15:DEF:04",
+          "name": "Ibrahima Konaté",
+          "position": "DEF",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/dorsales-del-real-madrid-para-la-temporada-2026-27-10-08-2026"
+        },
+        {
+          "id": "verified:ESP_1:15:DEF:05",
+          "name": "Marc Cucurella",
+          "position": "DEF",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/dorsales-del-real-madrid-para-la-temporada-2026-27-10-08-2026"
+        },
+        {
+          "id": "verified:ESP_1:15:DEF:06",
+          "name": "Álvaro Carreras",
+          "position": "DEF",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/dorsales-del-real-madrid-para-la-temporada-2026-27-10-08-2026"
+        },
+        {
+          "id": "verified:ESP_1:15:DEF:07",
+          "name": "Antonio Rüdiger",
+          "position": "DEF",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/dorsales-del-real-madrid-para-la-temporada-2026-27-10-08-2026"
+        },
+        {
+          "id": "verified:ESP_1:15:DEF:08",
+          "name": "Ferland Mendy",
+          "position": "DEF",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/dorsales-del-real-madrid-para-la-temporada-2026-27-10-08-2026"
+        },
+        {
+          "id": "verified:ESP_1:15:DEF:09",
+          "name": "Denzel Dumfries",
+          "position": "DEF",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/dorsales-del-real-madrid-para-la-temporada-2026-27-10-08-2026"
+        },
+        {
+          "id": "verified:ESP_1:15:GK:00",
+          "name": "Thibaut Courtois",
+          "position": "GK",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/dorsales-del-real-madrid-para-la-temporada-2026-27-10-08-2026"
+        },
+        {
+          "id": "verified:ESP_1:15:GK:01",
+          "name": "Andriy Lunin",
+          "position": "GK",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/dorsales-del-real-madrid-para-la-temporada-2026-27-10-08-2026"
+        },
+        {
+          "id": "verified:ESP_1:15:MID:00",
+          "name": "Jude Bellingham",
+          "position": "MID",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/dorsales-del-real-madrid-para-la-temporada-2026-27-10-08-2026"
+        },
+        {
+          "id": "verified:ESP_1:15:MID:01",
+          "name": "Eduardo Camavinga",
+          "position": "MID",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/dorsales-del-real-madrid-para-la-temporada-2026-27-10-08-2026"
+        },
+        {
+          "id": "verified:ESP_1:15:MID:02",
+          "name": "Federico Valverde",
+          "position": "MID",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/dorsales-del-real-madrid-para-la-temporada-2026-27-10-08-2026"
+        },
+        {
+          "id": "verified:ESP_1:15:MID:03",
+          "name": "Aurélien Tchouaméni",
+          "position": "MID",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/dorsales-del-real-madrid-para-la-temporada-2026-27-10-08-2026"
+        },
+        {
+          "id": "verified:ESP_1:15:MID:04",
+          "name": "Arda Güler",
+          "position": "MID",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/dorsales-del-real-madrid-para-la-temporada-2026-27-10-08-2026"
+        },
+        {
+          "id": "verified:ESP_1:15:MID:05",
+          "name": "Bernardo Silva",
+          "position": "MID",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/dorsales-del-real-madrid-para-la-temporada-2026-27-10-08-2026"
+        },
+        {
+          "id": "verified:ESP_1:15:MID:06",
+          "name": "Thiago Pitarch",
+          "position": "MID",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/dorsales-del-real-madrid-para-la-temporada-2026-27-10-08-2026"
+        }
+      ]
+    },
+    {
+      "id": "verified:ESP_1:16",
+      "league_id": "ESP_1",
+      "name": "Real Sociedad",
+      "strength": 65,
+      "source": "https://www.laliga.com/en-US/laliga-easports/clubs",
+      "synced_at": "2026-11-15",
+      "players": []
+    },
+    {
+      "id": "verified:ESP_1:17",
+      "league_id": "ESP_1",
+      "name": "Sevilla FC",
+      "strength": 73,
+      "source": "https://www.laliga.com/en-US/laliga-easports/clubs",
+      "synced_at": "2026-11-15",
+      "players": []
+    },
+    {
+      "id": "verified:ESP_1:18",
+      "league_id": "ESP_1",
+      "name": "Valencia CF",
+      "strength": 79,
+      "source": "https://www.laliga.com/en-US/laliga-easports/clubs",
+      "synced_at": "2026-11-15",
+      "players": []
+    },
+    {
+      "id": "verified:ESP_1:19",
+      "league_id": "ESP_1",
+      "name": "Villarreal CF",
+      "strength": 79,
+      "source": "https://www.laliga.com/en-US/laliga-easports/clubs",
+      "synced_at": "2026-11-15",
+      "players": []
+    },
+    {
+      "id": "verified:GER_1:00",
+      "league_id": "GER_1",
+      "name": "FC Bayern München",
+      "strength": 77,
+      "source": "https://www.bundesliga.com/en/bundesliga/clubs",
+      "synced_at": "2026-11-15",
+      "players": [
+        {
+          "id": "verified:GER_1:00:ATT:00",
+          "name": "Serge Gnabry",
+          "position": "ATT",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.bundesliga.com/en/bundesliga/clubs/fc-bayern-muenchen"
+        },
+        {
+          "id": "verified:GER_1:00:ATT:01",
+          "name": "Harry Kane",
+          "position": "ATT",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.bundesliga.com/en/bundesliga/clubs/fc-bayern-muenchen"
+        },
+        {
+          "id": "verified:GER_1:00:ATT:02",
+          "name": "Luis Díaz",
+          "position": "ATT",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.bundesliga.com/en/bundesliga/clubs/fc-bayern-muenchen"
+        },
+        {
+          "id": "verified:GER_1:00:ATT:03",
+          "name": "Michael Olise",
+          "position": "ATT",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.bundesliga.com/en/bundesliga/clubs/fc-bayern-muenchen"
+        },
+        {
+          "id": "verified:GER_1:00:ATT:04",
+          "name": "Bastian Assomo",
+          "position": "ATT",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.bundesliga.com/en/bundesliga/clubs/fc-bayern-muenchen"
+        },
+        {
+          "id": "verified:GER_1:00:ATT:05",
+          "name": "Noah Codjo-Evora",
+          "position": "ATT",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.bundesliga.com/en/bundesliga/clubs/fc-bayern-muenchen"
+        },
+        {
+          "id": "verified:GER_1:00:ATT:06",
+          "name": "Tim Binder",
+          "position": "ATT",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.bundesliga.com/en/bundesliga/clubs/fc-bayern-muenchen"
+        },
+        {
+          "id": "verified:GER_1:00:DEF:00",
+          "name": "Dayot Upamecano",
+          "position": "DEF",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.bundesliga.com/en/bundesliga/clubs/fc-bayern-muenchen"
+        },
+        {
+          "id": "verified:GER_1:00:DEF:01",
+          "name": "Kim Min-jae",
+          "position": "DEF",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.bundesliga.com/en/bundesliga/clubs/fc-bayern-muenchen"
+        },
+        {
+          "id": "verified:GER_1:00:DEF:02",
+          "name": "Jonathan Tah",
+          "position": "DEF",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.bundesliga.com/en/bundesliga/clubs/fc-bayern-muenchen"
+        },
+        {
+          "id": "verified:GER_1:00:DEF:03",
+          "name": "Nathaniel Brown",
+          "position": "DEF",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.bundesliga.com/en/bundesliga/clubs/fc-bayern-muenchen"
+        },
+        {
+          "id": "verified:GER_1:00:DEF:04",
+          "name": "Alphonso Davies",
+          "position": "DEF",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.bundesliga.com/en/bundesliga/clubs/fc-bayern-muenchen"
+        },
+        {
+          "id": "verified:GER_1:00:DEF:05",
+          "name": "Hiroki Ito",
+          "position": "DEF",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.bundesliga.com/en/bundesliga/clubs/fc-bayern-muenchen"
+        },
+        {
+          "id": "verified:GER_1:00:DEF:06",
+          "name": "Sacha Boey",
+          "position": "DEF",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.bundesliga.com/en/bundesliga/clubs/fc-bayern-muenchen"
+        },
+        {
+          "id": "verified:GER_1:00:DEF:07",
+          "name": "Cassiano Kiala",
+          "position": "DEF",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.bundesliga.com/en/bundesliga/clubs/fc-bayern-muenchen"
+        },
+        {
+          "id": "verified:GER_1:00:DEF:08",
+          "name": "Josip Stanišić",
+          "position": "DEF",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.bundesliga.com/en/bundesliga/clubs/fc-bayern-muenchen"
+        },
+        {
+          "id": "verified:GER_1:00:GK:00",
+          "name": "Manuel Neuer",
+          "position": "GK",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.bundesliga.com/en/bundesliga/clubs/fc-bayern-muenchen"
+        },
+        {
+          "id": "verified:GER_1:00:GK:01",
+          "name": "Sven Ulreich",
+          "position": "GK",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.bundesliga.com/en/bundesliga/clubs/fc-bayern-muenchen"
+        },
+        {
+          "id": "verified:GER_1:00:GK:02",
+          "name": "Jannis Bärtl",
+          "position": "GK",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.bundesliga.com/en/bundesliga/clubs/fc-bayern-muenchen"
+        },
+        {
+          "id": "verified:GER_1:00:GK:03",
+          "name": "David Podar-Stiube",
+          "position": "GK",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.bundesliga.com/en/bundesliga/clubs/fc-bayern-muenchen"
+        },
+        {
+          "id": "verified:GER_1:00:GK:04",
+          "name": "Jonas Urbig",
+          "position": "GK",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.bundesliga.com/en/bundesliga/clubs/fc-bayern-muenchen"
+        },
+        {
+          "id": "verified:GER_1:00:MID:00",
+          "name": "Joshua Kimmich",
+          "position": "MID",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.bundesliga.com/en/bundesliga/clubs/fc-bayern-muenchen"
+        },
+        {
+          "id": "verified:GER_1:00:MID:01",
+          "name": "Tom Bischof",
+          "position": "MID",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.bundesliga.com/en/bundesliga/clubs/fc-bayern-muenchen"
+        },
+        {
+          "id": "verified:GER_1:00:MID:02",
+          "name": "Jamal Musiala",
+          "position": "MID",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.bundesliga.com/en/bundesliga/clubs/fc-bayern-muenchen"
+        },
+        {
+          "id": "verified:GER_1:00:MID:03",
+          "name": "Konrad Laimer",
+          "position": "MID",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.bundesliga.com/en/bundesliga/clubs/fc-bayern-muenchen"
+        },
+        {
+          "id": "verified:GER_1:00:MID:04",
+          "name": "Ismael Saibari",
+          "position": "MID",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.bundesliga.com/en/bundesliga/clubs/fc-bayern-muenchen"
+        },
+        {
+          "id": "verified:GER_1:00:MID:05",
+          "name": "Erblin Osmani",
+          "position": "MID",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.bundesliga.com/en/bundesliga/clubs/fc-bayern-muenchen"
+        },
+        {
+          "id": "verified:GER_1:00:MID:06",
+          "name": "Bara Sapoko Ndiaye",
+          "position": "MID",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.bundesliga.com/en/bundesliga/clubs/fc-bayern-muenchen"
+        },
+        {
+          "id": "verified:GER_1:00:MID:07",
+          "name": "Lennart Karl",
+          "position": "MID",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.bundesliga.com/en/bundesliga/clubs/fc-bayern-muenchen"
+        },
+        {
+          "id": "verified:GER_1:00:MID:08",
+          "name": "Aleksandar Pavlović",
+          "position": "MID",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.bundesliga.com/en/bundesliga/clubs/fc-bayern-muenchen"
+        },
+        {
+          "id": "verified:GER_1:00:MID:09",
+          "name": "David Santos Daiber",
+          "position": "MID",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.bundesliga.com/en/bundesliga/clubs/fc-bayern-muenchen"
+        },
+        {
+          "id": "verified:GER_1:00:MID:10",
+          "name": "Maycon Cardozo",
+          "position": "MID",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.bundesliga.com/en/bundesliga/clubs/fc-bayern-muenchen"
+        }
+      ]
+    },
+    {
+      "id": "verified:GER_1:01",
+      "league_id": "GER_1",
+      "name": "Borussia Dortmund",
+      "strength": 72,
+      "source": "https://www.bundesliga.com/en/bundesliga/clubs",
+      "synced_at": "2026-11-15",
+      "players": [
+        {
+          "id": "verified:GER_1:01:ATT:00",
+          "name": "Serhou Guirassy",
+          "position": "ATT",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.bundesliga.com/en/bundesliga/clubs/borussia-dortmund"
+        },
+        {
+          "id": "verified:GER_1:01:ATT:01",
+          "name": "Maximilian Beier",
+          "position": "ATT",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.bundesliga.com/en/bundesliga/clubs/borussia-dortmund"
+        },
+        {
+          "id": "verified:GER_1:01:ATT:02",
+          "name": "Fábio Silva",
+          "position": "ATT",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.bundesliga.com/en/bundesliga/clubs/borussia-dortmund"
+        },
+        {
+          "id": "verified:GER_1:01:ATT:03",
+          "name": "Samuele Inácio",
+          "position": "ATT",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.bundesliga.com/en/bundesliga/clubs/borussia-dortmund"
+        },
+        {
+          "id": "verified:GER_1:01:ATT:04",
+          "name": "Mathis Albert",
+          "position": "ATT",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.bundesliga.com/en/bundesliga/clubs/borussia-dortmund"
+        },
+        {
+          "id": "verified:GER_1:01:DEF:00",
+          "name": "Waldemar Anton",
+          "position": "DEF",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.bundesliga.com/en/bundesliga/clubs/borussia-dortmund"
+        },
+        {
+          "id": "verified:GER_1:01:DEF:01",
+          "name": "Nico Schlotterbeck",
+          "position": "DEF",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.bundesliga.com/en/bundesliga/clubs/borussia-dortmund"
+        },
+        {
+          "id": "verified:GER_1:01:DEF:02",
+          "name": "Ramy Bensebaini",
+          "position": "DEF",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.bundesliga.com/en/bundesliga/clubs/borussia-dortmund"
+        },
+        {
+          "id": "verified:GER_1:01:DEF:03",
+          "name": "Joane Gadou",
+          "position": "DEF",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.bundesliga.com/en/bundesliga/clubs/borussia-dortmund"
+        },
+        {
+          "id": "verified:GER_1:01:DEF:04",
+          "name": "Daniel Svensson",
+          "position": "DEF",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.bundesliga.com/en/bundesliga/clubs/borussia-dortmund"
+        },
+        {
+          "id": "verified:GER_1:01:DEF:05",
+          "name": "Julian Ryerson",
+          "position": "DEF",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.bundesliga.com/en/bundesliga/clubs/borussia-dortmund"
+        },
+        {
+          "id": "verified:GER_1:01:DEF:06",
+          "name": "Kauã Prates",
+          "position": "DEF",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.bundesliga.com/en/bundesliga/clubs/borussia-dortmund"
+        },
+        {
+          "id": "verified:GER_1:01:DEF:07",
+          "name": "Filippo Mane",
+          "position": "DEF",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.bundesliga.com/en/bundesliga/clubs/borussia-dortmund"
+        },
+        {
+          "id": "verified:GER_1:01:DEF:08",
+          "name": "Luca Reggiani",
+          "position": "DEF",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.bundesliga.com/en/bundesliga/clubs/borussia-dortmund"
+        },
+        {
+          "id": "verified:GER_1:01:GK:00",
+          "name": "Gregor Kobel",
+          "position": "GK",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.bundesliga.com/en/bundesliga/clubs/borussia-dortmund"
+        },
+        {
+          "id": "verified:GER_1:01:GK:01",
+          "name": "Patrick Drewes",
+          "position": "GK",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.bundesliga.com/en/bundesliga/clubs/borussia-dortmund"
+        },
+        {
+          "id": "verified:GER_1:01:GK:02",
+          "name": "Silas Ostrzinski",
+          "position": "GK",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.bundesliga.com/en/bundesliga/clubs/borussia-dortmund"
+        },
+        {
+          "id": "verified:GER_1:01:GK:03",
+          "name": "Alexander Meyer",
+          "position": "GK",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.bundesliga.com/en/bundesliga/clubs/borussia-dortmund"
+        },
+        {
+          "id": "verified:GER_1:01:MID:00",
+          "name": "Jobe Bellingham",
+          "position": "MID",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.bundesliga.com/en/bundesliga/clubs/borussia-dortmund"
+        },
+        {
+          "id": "verified:GER_1:01:MID:01",
+          "name": "Felix Nmecha",
+          "position": "MID",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.bundesliga.com/en/bundesliga/clubs/borussia-dortmund"
+        },
+        {
+          "id": "verified:GER_1:01:MID:02",
+          "name": "Carney Chukwuemeka",
+          "position": "MID",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.bundesliga.com/en/bundesliga/clubs/borussia-dortmund"
+        },
+        {
+          "id": "verified:GER_1:01:MID:03",
+          "name": "Ethan Nwaneri",
+          "position": "MID",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.bundesliga.com/en/bundesliga/clubs/borussia-dortmund"
+        },
+        {
+          "id": "verified:GER_1:01:MID:04",
+          "name": "Konstantinos Karetsas",
+          "position": "MID",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.bundesliga.com/en/bundesliga/clubs/borussia-dortmund"
+        },
+        {
+          "id": "verified:GER_1:01:MID:05",
+          "name": "Marcel Sabitzer",
+          "position": "MID",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.bundesliga.com/en/bundesliga/clubs/borussia-dortmund"
+        },
+        {
+          "id": "verified:GER_1:01:MID:06",
+          "name": "Emre Can",
+          "position": "MID",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.bundesliga.com/en/bundesliga/clubs/borussia-dortmund"
+        },
+        {
+          "id": "verified:GER_1:01:MID:07",
+          "name": "Joey Veerman",
+          "position": "MID",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.bundesliga.com/en/bundesliga/clubs/borussia-dortmund"
+        },
+        {
+          "id": "verified:GER_1:01:MID:08",
+          "name": "Justin Lerma",
+          "position": "MID",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.bundesliga.com/en/bundesliga/clubs/borussia-dortmund"
+        },
+        {
+          "id": "verified:GER_1:01:MID:09",
+          "name": "Enzo dos Santos",
+          "position": "MID",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.bundesliga.com/en/bundesliga/clubs/borussia-dortmund"
+        },
+        {
+          "id": "verified:GER_1:01:MID:10",
+          "name": "Giannis Konstantelias",
+          "position": "MID",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.bundesliga.com/en/bundesliga/clubs/borussia-dortmund"
+        },
+        {
+          "id": "verified:GER_1:01:MID:11",
+          "name": "Mussa Kaba",
+          "position": "MID",
+          "age": null,
+          "nationality": null,
+          "source": "https://www.bundesliga.com/en/bundesliga/clubs/borussia-dortmund"
+        }
+      ]
+    },
+    {
+      "id": "verified:GER_1:02",
+      "league_id": "GER_1",
+      "name": "RB Leipzig",
+      "strength": 71,
+      "source": "https://www.bundesliga.com/en/bundesliga/clubs",
+      "synced_at": "2026-11-15",
+      "players": []
+    },
+    {
+      "id": "verified:GER_1:03",
+      "league_id": "GER_1",
+      "name": "VfB Stuttgart",
+      "strength": 80,
+      "source": "https://www.bundesliga.com/en/bundesliga/clubs",
+      "synced_at": "2026-11-15",
+      "players": []
+    },
+    {
+      "id": "verified:GER_1:04",
+      "league_id": "GER_1",
+      "name": "TSG Hoffenheim",
+      "strength": 77,
+      "source": "https://www.bundesliga.com/en/bundesliga/clubs",
+      "synced_at": "2026-11-15",
+      "players": []
+    },
+    {
+      "id": "verified:GER_1:05",
+      "league_id": "GER_1",
+      "name": "Bayer 04 Leverkusen",
+      "strength": 69,
+      "source": "https://www.bundesliga.com/en/bundesliga/clubs",
+      "synced_at": "2026-11-15",
+      "players": []
+    },
+    {
+      "id": "verified:GER_1:06",
+      "league_id": "GER_1",
+      "name": "SC Freiburg",
+      "strength": 76,
+      "source": "https://www.bundesliga.com/en/bundesliga/clubs",
+      "synced_at": "2026-11-15",
+      "players": []
+    },
+    {
+      "id": "verified:GER_1:07",
+      "league_id": "GER_1",
+      "name": "Eintracht Frankfurt",
+      "strength": 71,
+      "source": "https://www.bundesliga.com/en/bundesliga/clubs",
+      "synced_at": "2026-11-15",
+      "players": []
+    },
+    {
+      "id": "verified:GER_1:08",
+      "league_id": "GER_1",
+      "name": "FC Augsburg",
+      "strength": 66,
+      "source": "https://www.bundesliga.com/en/bundesliga/clubs",
+      "synced_at": "2026-11-15",
+      "players": []
+    },
+    {
+      "id": "verified:GER_1:09",
+      "league_id": "GER_1",
+      "name": "1. FSV Mainz 05",
+      "strength": 76,
+      "source": "https://www.bundesliga.com/en/bundesliga/clubs",
+      "synced_at": "2026-11-15",
+      "players": []
+    },
+    {
+      "id": "verified:GER_1:10",
+      "league_id": "GER_1",
+      "name": "1. FC Union Berlin",
+      "strength": 69,
+      "source": "https://www.bundesliga.com/en/bundesliga/clubs",
+      "synced_at": "2026-11-15",
+      "players": []
+    },
+    {
+      "id": "verified:GER_1:11",
+      "league_id": "GER_1",
+      "name": "Borussia Mönchengladbach",
+      "strength": 64,
+      "source": "https://www.bundesliga.com/en/bundesliga/clubs",
+      "synced_at": "2026-11-15",
+      "players": []
+    },
+    {
+      "id": "verified:GER_1:12",
+      "league_id": "GER_1",
+      "name": "Hamburger SV",
+      "strength": 67,
+      "source": "https://www.bundesliga.com/en/bundesliga/clubs",
+      "synced_at": "2026-11-15",
+      "players": []
+    },
+    {
+      "id": "verified:GER_1:13",
+      "league_id": "GER_1",
+      "name": "1. FC Köln",
+      "strength": 64,
+      "source": "https://www.bundesliga.com/en/bundesliga/clubs",
+      "synced_at": "2026-11-15",
+      "players": []
+    },
+    {
+      "id": "verified:GER_1:14",
+      "league_id": "GER_1",
+      "name": "SV Werder Bremen",
+      "strength": 68,
+      "source": "https://www.bundesliga.com/en/bundesliga/clubs",
+      "synced_at": "2026-11-15",
+      "players": []
+    },
+    {
+      "id": "verified:GER_1:15",
+      "league_id": "GER_1",
+      "name": "FC Schalke 04",
+      "strength": 67,
+      "source": "https://www.bundesliga.com/en/bundesliga/clubs",
+      "synced_at": "2026-11-15",
+      "players": []
+    },
+    {
+      "id": "verified:GER_1:16",
+      "league_id": "GER_1",
+      "name": "SV Elversberg",
+      "strength": 78,
+      "source": "https://www.bundesliga.com/en/bundesliga/clubs",
+      "synced_at": "2026-11-15",
+      "players": []
+    },
+    {
+      "id": "verified:GER_1:17",
+      "league_id": "GER_1",
+      "name": "SC Paderborn 07",
+      "strength": 80,
+      "source": "https://www.bundesliga.com/en/bundesliga/clubs",
+      "synced_at": "2026-11-15",
+      "players": []
+    },
+    {
+      "id": "verified:ITA_1:00",
+      "league_id": "ITA_1",
+      "name": "Atalanta",
+      "strength": 70,
+      "source": "https://www.legaseriea.it/serie-a",
+      "synced_at": "2026-11-15",
+      "players": []
+    },
+    {
+      "id": "verified:ITA_1:01",
+      "league_id": "ITA_1",
+      "name": "Bologna",
+      "strength": 73,
+      "source": "https://www.legaseriea.it/serie-a",
+      "synced_at": "2026-11-15",
+      "players": []
+    },
+    {
+      "id": "verified:ITA_1:02",
+      "league_id": "ITA_1",
+      "name": "Cagliari",
+      "strength": 69,
+      "source": "https://www.legaseriea.it/serie-a",
+      "synced_at": "2026-11-15",
+      "players": []
+    },
+    {
+      "id": "verified:ITA_1:03",
+      "league_id": "ITA_1",
+      "name": "Como",
+      "strength": 78,
+      "source": "https://www.legaseriea.it/serie-a",
+      "synced_at": "2026-11-15",
+      "players": []
+    },
+    {
+      "id": "verified:ITA_1:04",
+      "league_id": "ITA_1",
+      "name": "Fiorentina",
+      "strength": 78,
+      "source": "https://www.legaseriea.it/serie-a",
+      "synced_at": "2026-11-15",
+      "players": []
+    },
+    {
+      "id": "verified:ITA_1:05",
+      "league_id": "ITA_1",
+      "name": "Frosinone",
+      "strength": 69,
+      "source": "https://www.legaseriea.it/serie-a",
+      "synced_at": "2026-11-15",
+      "players": []
+    },
+    {
+      "id": "verified:ITA_1:06",
+      "league_id": "ITA_1",
+      "name": "Genoa",
+      "strength": 77,
+      "source": "https://www.legaseriea.it/serie-a",
+      "synced_at": "2026-11-15",
+      "players": []
+    },
+    {
+      "id": "verified:ITA_1:07",
+      "league_id": "ITA_1",
+      "name": "Inter",
+      "strength": 74,
+      "source": "https://www.legaseriea.it/serie-a",
+      "synced_at": "2026-11-15",
+      "players": []
+    },
+    {
+      "id": "verified:ITA_1:08",
+      "league_id": "ITA_1",
+      "name": "Juventus",
+      "strength": 80,
+      "source": "https://www.legaseriea.it/serie-a",
+      "synced_at": "2026-11-15",
+      "players": []
+    },
+    {
+      "id": "verified:ITA_1:09",
+      "league_id": "ITA_1",
+      "name": "Lazio",
+      "strength": 72,
+      "source": "https://www.legaseriea.it/serie-a",
+      "synced_at": "2026-11-15",
+      "players": []
+    },
+    {
+      "id": "verified:ITA_1:10",
+      "league_id": "ITA_1",
+      "name": "Lecce",
+      "strength": 78,
+      "source": "https://www.legaseriea.it/serie-a",
+      "synced_at": "2026-11-15",
+      "players": []
+    },
+    {
+      "id": "verified:ITA_1:11",
+      "league_id": "ITA_1",
+      "name": "Milan",
+      "strength": 76,
+      "source": "https://www.legaseriea.it/serie-a",
+      "synced_at": "2026-11-15",
+      "players": []
+    },
+    {
+      "id": "verified:ITA_1:12",
+      "league_id": "ITA_1",
+      "name": "Monza",
+      "strength": 70,
+      "source": "https://www.legaseriea.it/serie-a",
+      "synced_at": "2026-11-15",
+      "players": []
+    },
+    {
+      "id": "verified:ITA_1:13",
+      "league_id": "ITA_1",
+      "name": "Napoli",
+      "strength": 71,
+      "source": "https://www.legaseriea.it/serie-a",
+      "synced_at": "2026-11-15",
+      "players": []
+    },
+    {
+      "id": "verified:ITA_1:14",
+      "league_id": "ITA_1",
+      "name": "Parma",
+      "strength": 66,
+      "source": "https://www.legaseriea.it/serie-a",
+      "synced_at": "2026-11-15",
+      "players": []
+    },
+    {
+      "id": "verified:ITA_1:15",
+      "league_id": "ITA_1",
+      "name": "Roma",
+      "strength": 68,
+      "source": "https://www.legaseriea.it/serie-a",
+      "synced_at": "2026-11-15",
+      "players": []
+    },
+    {
+      "id": "verified:ITA_1:16",
+      "league_id": "ITA_1",
+      "name": "Sassuolo",
+      "strength": 73,
+      "source": "https://www.legaseriea.it/serie-a",
+      "synced_at": "2026-11-15",
+      "players": []
+    },
+    {
+      "id": "verified:ITA_1:17",
+      "league_id": "ITA_1",
+      "name": "Torino",
+      "strength": 64,
+      "source": "https://www.legaseriea.it/serie-a",
+      "synced_at": "2026-11-15",
+      "players": []
+    },
+    {
+      "id": "verified:ITA_1:18",
+      "league_id": "ITA_1",
+      "name": "Udinese",
+      "strength": 75,
+      "source": "https://www.legaseriea.it/serie-a",
+      "synced_at": "2026-11-15",
+      "players": []
+    },
+    {
+      "id": "verified:ITA_1:19",
+      "league_id": "ITA_1",
+      "name": "Venezia",
+      "strength": 68,
+      "source": "https://www.legaseriea.it/serie-a",
+      "synced_at": "2026-11-15",
+      "players": []
+    }
+  ]
+}

@@ -1,0 +1,973 @@
+{
+  "clubs_with_new_players": 46,
+  "new_player_records": 97,
+  "skipped_known_or_disputed": [
+    [
+      "ENG_1",
+      "AFC Bournemouth",
+      "Justin Kluivert",
+      "already at club"
+    ],
+    [
+      "ENG_1",
+      "AFC Bournemouth",
+      "Ryan Christie",
+      "already at club"
+    ],
+    [
+      "ENG_1",
+      "AFC Bournemouth",
+      "Ben Gannon-Doak",
+      "already at club"
+    ],
+    [
+      "ENG_1",
+      "AFC Bournemouth",
+      "Tyler Adams",
+      "already at club"
+    ],
+    [
+      "ENG_1",
+      "Brighton & Hove Albion",
+      "Maxim De Cuyper",
+      "already at club"
+    ],
+    [
+      "ENG_1",
+      "Brighton & Hove Albion",
+      "Pascal Gross",
+      "already at club"
+    ],
+    [
+      "ENG_1",
+      "Brighton & Hove Albion",
+      "Bart Verbruggen",
+      "already at club"
+    ],
+    [
+      "ENG_1",
+      "Brighton & Hove Albion",
+      "Jan Paul Van Hecke",
+      "already at club"
+    ],
+    [
+      "ENG_1",
+      "Brighton & Hove Albion",
+      "Mats Wieffer",
+      "already at club"
+    ],
+    [
+      "ENG_1",
+      "Brighton & Hove Albion",
+      "Diego Gomez",
+      "already at club"
+    ],
+    [
+      "ENG_1",
+      "Brighton & Hove Albion",
+      "Yasin Ayari",
+      "already at club"
+    ],
+    [
+      "ENG_1",
+      "Everton",
+      "Jordan Pickford",
+      "already at club"
+    ],
+    [
+      "ENG_1",
+      "Fulham",
+      "Timothy Castagne",
+      "already at club"
+    ],
+    [
+      "ENG_1",
+      "Fulham",
+      "Raul Jimenez",
+      "already at club"
+    ],
+    [
+      "ENG_1",
+      "Fulham",
+      "Issa Diop",
+      "already at club"
+    ],
+    [
+      "ENG_1",
+      "Fulham",
+      "Sander Berge",
+      "already at club"
+    ],
+    [
+      "ENG_1",
+      "Fulham",
+      "Oscar Bobb",
+      "already at club"
+    ],
+    [
+      "ENG_1",
+      "Fulham",
+      "Antonee Robinson",
+      "already at club"
+    ],
+    [
+      "ENG_1",
+      "Newcastle United",
+      "Bruno Guimaraes",
+      "already at club"
+    ],
+    [
+      "ENG_1",
+      "Newcastle United",
+      "Yoane Wissa",
+      "already at club"
+    ],
+    [
+      "ENG_1",
+      "Newcastle United",
+      "Tino Livramento",
+      "already at club"
+    ],
+    [
+      "ENG_1",
+      "Newcastle United",
+      "Dan Burn",
+      "already at club"
+    ],
+    [
+      "ENG_1",
+      "Newcastle United",
+      "Anthony Gordon",
+      "listed in another club in older snapshot"
+    ],
+    [
+      "ENG_1",
+      "Newcastle United",
+      "Nick Woltemade",
+      "already at club"
+    ],
+    [
+      "ENG_1",
+      "Newcastle United",
+      "Malick Thiaw",
+      "already at club"
+    ],
+    [
+      "ENG_1",
+      "Newcastle United",
+      "Anthony Elanga",
+      "already at club"
+    ],
+    [
+      "ENG_1",
+      "Nottingham Forest",
+      "Ibrahim Sangare",
+      "already at club"
+    ],
+    [
+      "ENG_1",
+      "Nottingham Forest",
+      "Elliot Anderson",
+      "already at club"
+    ],
+    [
+      "ENG_1",
+      "Nottingham Forest",
+      "Chris Wood",
+      "already at club"
+    ],
+    [
+      "ENG_1",
+      "Nottingham Forest",
+      "Angus Gunn",
+      "already at club"
+    ],
+    [
+      "ENG_1",
+      "Nottingham Forest",
+      "Dan Ndoye",
+      "already at club"
+    ],
+    [
+      "ENG_1",
+      "Sunderland",
+      "Noah Sadiki",
+      "already at club"
+    ],
+    [
+      "ENG_1",
+      "Sunderland",
+      "Nilson Angulo",
+      "already at club"
+    ],
+    [
+      "ENG_1",
+      "Sunderland",
+      "Wilson Isidor",
+      "already at club"
+    ],
+    [
+      "ENG_1",
+      "Sunderland",
+      "Chemsdine Talbi",
+      "already at club"
+    ],
+    [
+      "ENG_1",
+      "Sunderland",
+      "Robin Roefs",
+      "already at club"
+    ],
+    [
+      "ENG_1",
+      "Sunderland",
+      "Brian Brobbey",
+      "already at club"
+    ],
+    [
+      "ENG_1",
+      "Sunderland",
+      "Omar Alderete",
+      "already at club"
+    ],
+    [
+      "ENG_1",
+      "Sunderland",
+      "Habib Diarra",
+      "already at club"
+    ],
+    [
+      "ENG_1",
+      "Sunderland",
+      "Granit Xhaka",
+      "already at club"
+    ],
+    [
+      "ENG_1",
+      "Leeds United",
+      "Ao Tanaka",
+      "already at club"
+    ],
+    [
+      "ENG_1",
+      "Leeds United",
+      "Noah Okafor",
+      "already at club"
+    ],
+    [
+      "ENG_1",
+      "Leeds United",
+      "Brenden Aaronson",
+      "already at club"
+    ],
+    [
+      "ESP_1",
+      "Real Betis",
+      "Giovani Lo Celso",
+      "already at club"
+    ],
+    [
+      "ESP_1",
+      "Real Betis",
+      "Cucho Hernandez",
+      "already at club"
+    ],
+    [
+      "ESP_1",
+      "Real Betis",
+      "Cedric Bakambu",
+      "already at club"
+    ],
+    [
+      "ESP_1",
+      "Real Betis",
+      "Alvaro Fidalgo",
+      "already at club"
+    ],
+    [
+      "ESP_1",
+      "Real Betis",
+      "Sofyan Amrabat",
+      "already at club"
+    ],
+    [
+      "ESP_1",
+      "Real Betis",
+      "Abde Ezzalzouli",
+      "already at club"
+    ],
+    [
+      "ESP_1",
+      "Real Betis",
+      "Ricardo Rodriguez",
+      "already at club"
+    ],
+    [
+      "ESP_1",
+      "Real Sociedad",
+      "Duje Caleta-Car",
+      "already at club"
+    ],
+    [
+      "ESP_1",
+      "Real Sociedad",
+      "Luka Sucic",
+      "already at club"
+    ],
+    [
+      "ESP_1",
+      "Real Sociedad",
+      "Takefusa Kubo",
+      "already at club"
+    ],
+    [
+      "ESP_1",
+      "Real Sociedad",
+      "Goncalo Guedes",
+      "already at club"
+    ],
+    [
+      "ESP_1",
+      "Real Sociedad",
+      "Mikel Oyarzabal",
+      "already at club"
+    ],
+    [
+      "ESP_1",
+      "Atlético de Madrid",
+      "Juan Musso",
+      "already at club"
+    ],
+    [
+      "ESP_1",
+      "Atlético de Madrid",
+      "Julian Alvarez",
+      "already at club"
+    ],
+    [
+      "ESP_1",
+      "Atlético de Madrid",
+      "Nico Gonzalez",
+      "already at club"
+    ],
+    [
+      "ESP_1",
+      "Atlético de Madrid",
+      "Thiago Almada",
+      "already at club"
+    ],
+    [
+      "ESP_1",
+      "Atlético de Madrid",
+      "Giuliano Simeone",
+      "already at club"
+    ],
+    [
+      "ESP_1",
+      "Atlético de Madrid",
+      "Nahuel Molina",
+      "already at club"
+    ],
+    [
+      "ESP_1",
+      "Atlético de Madrid",
+      "Obed Vargas",
+      "already at club"
+    ],
+    [
+      "ESP_1",
+      "Atlético de Madrid",
+      "Marc Pubill",
+      "already at club"
+    ],
+    [
+      "ESP_1",
+      "Atlético de Madrid",
+      "Marcos Llorente",
+      "already at club"
+    ],
+    [
+      "ESP_1",
+      "Atlético de Madrid",
+      "Alex Baena",
+      "already at club"
+    ],
+    [
+      "ESP_1",
+      "Atlético de Madrid",
+      "Jose Maria Gimenez",
+      "already at club"
+    ],
+    [
+      "ESP_1",
+      "Villarreal CF",
+      "Logan Costa",
+      "already at club"
+    ],
+    [
+      "ESP_1",
+      "Villarreal CF",
+      "Tani Oluwaseyi",
+      "already at club"
+    ],
+    [
+      "ESP_1",
+      "Villarreal CF",
+      "Tajon Buchanan",
+      "already at club"
+    ],
+    [
+      "ESP_1",
+      "Villarreal CF",
+      "Nicolas Pepe",
+      "already at club"
+    ],
+    [
+      "ESP_1",
+      "Villarreal CF",
+      "Thomas Partey",
+      "already at club"
+    ],
+    [
+      "ESP_1",
+      "Villarreal CF",
+      "Renato Veiga",
+      "already at club"
+    ],
+    [
+      "ESP_1",
+      "Villarreal CF",
+      "Pape Gueye",
+      "already at club"
+    ],
+    [
+      "ESP_1",
+      "Villarreal CF",
+      "Alex Freeman",
+      "already at club"
+    ],
+    [
+      "GER_1",
+      "Borussia Mönchengladbach",
+      "Haris Tabakovic",
+      "already at club"
+    ],
+    [
+      "GER_1",
+      "Borussia Mönchengladbach",
+      "Jens Castrop",
+      "already at club"
+    ],
+    [
+      "GER_1",
+      "Borussia Mönchengladbach",
+      "Nico Elvedi",
+      "already at club"
+    ],
+    [
+      "GER_1",
+      "Borussia Mönchengladbach",
+      "Giovanni Reyna",
+      "already at club"
+    ],
+    [
+      "GER_1",
+      "Borussia Mönchengladbach",
+      "Joe Scally",
+      "already at club"
+    ],
+    [
+      "GER_1",
+      "RB Leipzig",
+      "Xaver Schlager",
+      "already at club"
+    ],
+    [
+      "GER_1",
+      "RB Leipzig",
+      "Nicolas Seiwald",
+      "already at club"
+    ],
+    [
+      "GER_1",
+      "RB Leipzig",
+      "Yan Diomande",
+      "listed in another club in older snapshot"
+    ],
+    [
+      "GER_1",
+      "RB Leipzig",
+      "David Raum",
+      "already at club"
+    ],
+    [
+      "GER_1",
+      "RB Leipzig",
+      "Assan Ouedraogo",
+      "already at club"
+    ],
+    [
+      "GER_1",
+      "RB Leipzig",
+      "Antonio Nusa",
+      "already at club"
+    ],
+    [
+      "GER_1",
+      "1. FSV Mainz 05",
+      "Stefan Posch",
+      "already at club"
+    ],
+    [
+      "GER_1",
+      "1. FSV Mainz 05",
+      "Nadiem Amiri",
+      "already at club"
+    ],
+    [
+      "GER_1",
+      "1. FSV Mainz 05",
+      "Kaishu Sano",
+      "already at club"
+    ],
+    [
+      "GER_1",
+      "1. FSV Mainz 05",
+      "Jaesung Lee",
+      "already at club"
+    ],
+    [
+      "GER_1",
+      "1. FSV Mainz 05",
+      "Silvan Widmer",
+      "already at club"
+    ],
+    [
+      "GER_1",
+      "Eintracht Frankfurt",
+      "Fares Chaibi",
+      "already at club"
+    ],
+    [
+      "GER_1",
+      "Eintracht Frankfurt",
+      "Arthur Theate",
+      "already at club"
+    ],
+    [
+      "GER_1",
+      "Eintracht Frankfurt",
+      "Nathaniel Brown",
+      "listed in another club in older snapshot"
+    ],
+    [
+      "GER_1",
+      "Eintracht Frankfurt",
+      "Ritsu Doan",
+      "already at club"
+    ],
+    [
+      "GER_1",
+      "Eintracht Frankfurt",
+      "Aurele Amenda",
+      "already at club"
+    ],
+    [
+      "GER_1",
+      "Eintracht Frankfurt",
+      "Ellyes Skhiri",
+      "already at club"
+    ],
+    [
+      "GER_1",
+      "Eintracht Frankfurt",
+      "Can Uzun",
+      "already at club"
+    ],
+    [
+      "ITA_1",
+      "Parma",
+      "Zion Suzuki",
+      "listed in another club in older snapshot"
+    ],
+    [
+      "ITA_1",
+      "Inter",
+      "Lautaro Martinez",
+      "already at club"
+    ],
+    [
+      "ITA_1",
+      "Inter",
+      "Ange-Yoan Bonny",
+      "already at club"
+    ],
+    [
+      "ITA_1",
+      "Inter",
+      "Petar Sucic",
+      "already at club"
+    ],
+    [
+      "ITA_1",
+      "Inter",
+      "Marcus Thuram",
+      "already at club"
+    ],
+    [
+      "ITA_1",
+      "Inter",
+      "Denzel Dumfries",
+      "listed in another club in older snapshot"
+    ],
+    [
+      "ITA_1",
+      "Inter",
+      "Manuel Akanji",
+      "already at club"
+    ],
+    [
+      "ITA_1",
+      "Inter",
+      "Hakan Calhanoglu",
+      "already at club"
+    ],
+    [
+      "ITA_1",
+      "Atalanta",
+      "Charles De Ketelaere",
+      "already at club"
+    ],
+    [
+      "ITA_1",
+      "Atalanta",
+      "Sead Kolasinac",
+      "already at club"
+    ],
+    [
+      "ITA_1",
+      "Atalanta",
+      "Odilon Kossounou",
+      "already at club"
+    ],
+    [
+      "ITA_1",
+      "Atalanta",
+      "Mario Pasalic",
+      "already at club"
+    ],
+    [
+      "ITA_1",
+      "Atalanta",
+      "Kamaldeen Sulemana",
+      "already at club"
+    ],
+    [
+      "ITA_1",
+      "Atalanta",
+      "Marten De Roon",
+      "already at club"
+    ],
+    [
+      "ITA_1",
+      "Atalanta",
+      "Isak Hien",
+      "already at club"
+    ],
+    [
+      "ITA_1",
+      "Roma",
+      "Evan Ndicka",
+      "already at club"
+    ],
+    [
+      "ITA_1",
+      "Roma",
+      "Manu Kone",
+      "already at club"
+    ],
+    [
+      "ITA_1",
+      "Roma",
+      "Neil El Aynaoui",
+      "already at club"
+    ],
+    [
+      "ITA_1",
+      "Roma",
+      "Donyell Malen",
+      "already at club"
+    ],
+    [
+      "ITA_1",
+      "Roma",
+      "Zeki Celik",
+      "already at club"
+    ],
+    [
+      "ITA_1",
+      "Juventus",
+      "Bremer",
+      "already at club"
+    ],
+    [
+      "ITA_1",
+      "Juventus",
+      "Jonathan David",
+      "already at club"
+    ],
+    [
+      "ITA_1",
+      "Juventus",
+      "Teun Koopmeiners",
+      "already at club"
+    ],
+    [
+      "ITA_1",
+      "Juventus",
+      "Francisco Conceicao",
+      "already at club"
+    ],
+    [
+      "ITA_1",
+      "Juventus",
+      "Weston McKennie",
+      "already at club"
+    ],
+    [
+      "ITA_1",
+      "Milan",
+      "Koni De Winter",
+      "already at club"
+    ],
+    [
+      "ITA_1",
+      "Milan",
+      "Alexis Saelemaekers",
+      "already at club"
+    ],
+    [
+      "ITA_1",
+      "Milan",
+      "Luka Modric",
+      "already at club"
+    ],
+    [
+      "ITA_1",
+      "Milan",
+      "Pervis Estupinan",
+      "already at club"
+    ],
+    [
+      "ITA_1",
+      "Milan",
+      "Adrien Rabiot",
+      "already at club"
+    ],
+    [
+      "ITA_1",
+      "Milan",
+      "Mike Maignan",
+      "already at club"
+    ],
+    [
+      "ITA_1",
+      "Milan",
+      "Santiago Gimenez",
+      "already at club"
+    ],
+    [
+      "ITA_1",
+      "Milan",
+      "Rafael Leao",
+      "already at club"
+    ],
+    [
+      "ITA_1",
+      "Milan",
+      "Ardon Jashari",
+      "already at club"
+    ],
+    [
+      "ITA_1",
+      "Milan",
+      "Christian Pulisic",
+      "already at club"
+    ],
+    [
+      "FRA_1",
+      "Olympique Lyonnais",
+      "Endrick",
+      "listed in another club in older snapshot"
+    ],
+    [
+      "FRA_1",
+      "Paris Saint-Germain FC",
+      "Marquinhos",
+      "already at club"
+    ],
+    [
+      "FRA_1",
+      "Paris Saint-Germain FC",
+      "Willian Pacho",
+      "already at club"
+    ],
+    [
+      "FRA_1",
+      "Paris Saint-Germain FC",
+      "Ousmane Dembele",
+      "already at club"
+    ],
+    [
+      "FRA_1",
+      "Paris Saint-Germain FC",
+      "Bradley Barcola",
+      "already at club"
+    ],
+    [
+      "FRA_1",
+      "Paris Saint-Germain FC",
+      "Warren Zaire-Emery",
+      "already at club"
+    ],
+    [
+      "FRA_1",
+      "Paris Saint-Germain FC",
+      "Desire Doue",
+      "already at club"
+    ],
+    [
+      "FRA_1",
+      "Paris Saint-Germain FC",
+      "Lucas Hernandez",
+      "already at club"
+    ],
+    [
+      "FRA_1",
+      "Paris Saint-Germain FC",
+      "Kangin Lee",
+      "already at club"
+    ],
+    [
+      "FRA_1",
+      "Paris Saint-Germain FC",
+      "Achraf Hakimi",
+      "already at club"
+    ],
+    [
+      "FRA_1",
+      "Paris Saint-Germain FC",
+      "Goncalo Ramos",
+      "already at club"
+    ],
+    [
+      "FRA_1",
+      "Paris Saint-Germain FC",
+      "Joao Neves",
+      "already at club"
+    ],
+    [
+      "FRA_1",
+      "Paris Saint-Germain FC",
+      "Vitinha",
+      "already at club"
+    ],
+    [
+      "FRA_1",
+      "Paris Saint-Germain FC",
+      "Nuno Mendes",
+      "already at club"
+    ],
+    [
+      "FRA_1",
+      "Paris Saint-Germain FC",
+      "Ibrahim Mbaye",
+      "listed in another club in older snapshot"
+    ],
+    [
+      "FRA_1",
+      "Paris Saint-Germain FC",
+      "Fabian Ruiz",
+      "already at club"
+    ],
+    [
+      "FRA_1",
+      "AS Monaco FC",
+      "Simon Adingra",
+      "already at club"
+    ],
+    [
+      "FRA_1",
+      "AS Monaco FC",
+      "Maghnes Akliouche",
+      "already at club"
+    ],
+    [
+      "FRA_1",
+      "AS Monaco FC",
+      "Lamine Camara",
+      "already at club"
+    ],
+    [
+      "FRA_1",
+      "AS Monaco FC",
+      "Krepin Diatta",
+      "already at club"
+    ],
+    [
+      "FRA_1",
+      "AS Monaco FC",
+      "Denis Zakaria",
+      "already at club"
+    ],
+    [
+      "FRA_1",
+      "AS Monaco FC",
+      "Folarin Balogun",
+      "already at club"
+    ],
+    [
+      "FRA_1",
+      "RC Strasbourg Alsace",
+      "Valentin Barco",
+      "already at club"
+    ],
+    [
+      "FRA_1",
+      "RC Strasbourg Alsace",
+      "Mike Penders",
+      "already at club"
+    ],
+    [
+      "FRA_1",
+      "RC Strasbourg Alsace",
+      "Diego Moreira",
+      "already at club"
+    ],
+    [
+      "FRA_1",
+      "RC Strasbourg Alsace",
+      "Guela Doue",
+      "already at club"
+    ],
+    [
+      "FRA_1",
+      "RC Strasbourg Alsace",
+      "Samir El Mourabet",
+      "already at club"
+    ],
+    [
+      "FRA_1",
+      "RC Strasbourg Alsace",
+      "Gessime Yassine",
+      "already at club"
+    ],
+    [
+      "FRA_1",
+      "RC Strasbourg Alsace",
+      "Julio Enciso",
+      "listed in another club in older snapshot"
+    ]
+  ],
+  "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+}

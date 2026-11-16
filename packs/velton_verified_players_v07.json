@@ -1,0 +1,957 @@
+{
+  "format": "velton-offline-1",
+  "version": "v0.7-curated-wc2026",
+  "basis": "2026 national team tournament list (2026-09-10); partial club coverage",
+  "clubs": [
+    {
+      "id": "official:ENG_1:03",
+      "league_id": "ENG_1",
+      "name": "Brentford",
+      "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)",
+      "players": [
+        {
+          "id": "v07:6e54234c2f84447a4a24",
+          "name": "Igor Thiago",
+          "position": "FW",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        },
+        {
+          "id": "v07:4b3134fd9a893ede5c70",
+          "name": "Jordan Henderson",
+          "position": "MF",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        },
+        {
+          "id": "v07:6ff3c02628df9d27c155",
+          "name": "Kristoffer Ajer",
+          "position": "DF",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        },
+        {
+          "id": "v07:3a2a6bb6c407279cffe6",
+          "name": "Aaron Hickey",
+          "position": "DF",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        }
+      ]
+    },
+    {
+      "id": "official:ENG_1:04",
+      "league_id": "ENG_1",
+      "name": "Brighton & Hove Albion",
+      "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)",
+      "players": [
+        {
+          "id": "v07:dead82c66970fe5a5067",
+          "name": "Ferdi Kadioglu",
+          "position": "DF",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        }
+      ]
+    },
+    {
+      "id": "official:ENG_1:08",
+      "league_id": "ENG_1",
+      "name": "Everton",
+      "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)",
+      "players": [
+        {
+          "id": "v07:c836baf5faf3cb679b84",
+          "name": "Nathan Patterson",
+          "position": "DF",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        },
+        {
+          "id": "v07:97f383f925a4160b586f",
+          "name": "Idrissa Gana Gueye",
+          "position": "MF",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        },
+        {
+          "id": "v07:0a0b9afe201d038b186c",
+          "name": "Iliman Ndiaye",
+          "position": "FW",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        }
+      ]
+    },
+    {
+      "id": "official:ENG_1:18",
+      "league_id": "ENG_1",
+      "name": "Sunderland",
+      "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)",
+      "players": [
+        {
+          "id": "v07:e980e50187c48920bba3",
+          "name": "Lutsharel Geertruida",
+          "position": "DF",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        }
+      ]
+    },
+    {
+      "id": "official:ENG_1:12",
+      "league_id": "ENG_1",
+      "name": "Leeds United",
+      "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)",
+      "players": [
+        {
+          "id": "v07:6d98ec56ebd33ab4fce8",
+          "name": "Gabriel Gudmundsson",
+          "position": "DF",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        }
+      ]
+    },
+    {
+      "id": "verified:ESP_1:00",
+      "league_id": "ESP_1",
+      "name": "Athletic Club",
+      "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)",
+      "players": [
+        {
+          "id": "v07:940b8a427026b422721d",
+          "name": "Inaki Williams",
+          "position": "FW",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        },
+        {
+          "id": "v07:5e648ef6ae76bcec8ce3",
+          "name": "Aymeric Laporte",
+          "position": "DF",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        },
+        {
+          "id": "v07:b436f27fb130bc6d3a98",
+          "name": "Nico Williams",
+          "position": "FW",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        },
+        {
+          "id": "v07:b1383c34a6c29379e725",
+          "name": "Unai Simon",
+          "position": "GK",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        }
+      ]
+    },
+    {
+      "id": "verified:ESP_1:02",
+      "league_id": "ESP_1",
+      "name": "CA Osasuna",
+      "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)",
+      "players": [
+        {
+          "id": "v07:49d254bd182ebc922268",
+          "name": "Ante Budimir",
+          "position": "FW",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        },
+        {
+          "id": "v07:400e13ee44e3c618bb06",
+          "name": "Victor Munoz",
+          "position": "FW",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        }
+      ]
+    },
+    {
+      "id": "verified:ESP_1:03",
+      "league_id": "ESP_1",
+      "name": "Celta",
+      "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)",
+      "players": [
+        {
+          "id": "v07:f2311d02b2e3c5c88609",
+          "name": "Borja Iglesias",
+          "position": "FW",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        },
+        {
+          "id": "v07:9a53fb8ad3f94ee3fc06",
+          "name": "Carl Starfelt",
+          "position": "DF",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        }
+      ]
+    },
+    {
+      "id": "verified:ESP_1:05",
+      "league_id": "ESP_1",
+      "name": "Elche CF",
+      "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)",
+      "players": [
+        {
+          "id": "v07:f74b217749a3c0ea4129",
+          "name": "David Affengruber",
+          "position": "DF",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        }
+      ]
+    },
+    {
+      "id": "verified:ESP_1:08",
+      "league_id": "ESP_1",
+      "name": "Levante UD",
+      "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)",
+      "players": [
+        {
+          "id": "v07:73255b579d0a57ecd0d1",
+          "name": "Mathew Ryan",
+          "position": "GK",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        }
+      ]
+    },
+    {
+      "id": "verified:ESP_1:13",
+      "league_id": "ESP_1",
+      "name": "RCD Espanyol",
+      "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)",
+      "players": [
+        {
+          "id": "v07:69005598329f61ab3563",
+          "name": "Charles Pickel",
+          "position": "MF",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        }
+      ]
+    },
+    {
+      "id": "verified:ESP_1:11",
+      "league_id": "ESP_1",
+      "name": "Rayo Vallecano",
+      "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)",
+      "players": [
+        {
+          "id": "v07:07582df6c97da5083c48",
+          "name": "Abdul Mumin",
+          "position": "DF",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        },
+        {
+          "id": "v07:c95c79cb47ae2cac1330",
+          "name": "Pathe Ciss",
+          "position": "MF",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        }
+      ]
+    },
+    {
+      "id": "verified:ESP_1:17",
+      "league_id": "ESP_1",
+      "name": "Sevilla FC",
+      "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)",
+      "players": [
+        {
+          "id": "v07:2bc95ec21c6d3bd6e680",
+          "name": "Orjan Nyland",
+          "position": "GK",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        },
+        {
+          "id": "v07:b5c1aba5cb7867f80589",
+          "name": "Djibril Sow",
+          "position": "MF",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        },
+        {
+          "id": "v07:3bbad2a8162121a52386",
+          "name": "Ruben Vargas",
+          "position": "FW",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        }
+      ]
+    },
+    {
+      "id": "verified:ESP_1:18",
+      "league_id": "ESP_1",
+      "name": "Valencia CF",
+      "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)",
+      "players": [
+        {
+          "id": "v07:7ac0b0ae99b153f6c6d4",
+          "name": "Eray Comert",
+          "position": "DF",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        }
+      ]
+    },
+    {
+      "id": "verified:ESP_1:01",
+      "league_id": "ESP_1",
+      "name": "Atlético de Madrid",
+      "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)",
+      "players": [
+        {
+          "id": "v07:12925b31dc272a6bfd94",
+          "name": "Alexander Sorloth",
+          "position": "FW",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        }
+      ]
+    },
+    {
+      "id": "verified:GER_1:08",
+      "league_id": "GER_1",
+      "name": "FC Augsburg",
+      "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)",
+      "players": [
+        {
+          "id": "v07:13665878cd7c6f22a034",
+          "name": "Michael Gregoritsch",
+          "position": "FW",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        },
+        {
+          "id": "v07:990275fe8e9ba87ee459",
+          "name": "Kristijan Jakic",
+          "position": "DF",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        },
+        {
+          "id": "v07:5e6be17a8c3f12c22ddd",
+          "name": "Fabian Rieder",
+          "position": "MF",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        },
+        {
+          "id": "v07:df5f5c86379f3b66445b",
+          "name": "Ismael Gharbi",
+          "position": "MF",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        }
+      ]
+    },
+    {
+      "id": "verified:GER_1:06",
+      "league_id": "GER_1",
+      "name": "SC Freiburg",
+      "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)",
+      "players": [
+        {
+          "id": "v07:52d2b95c6c5ae1d86ca1",
+          "name": "Philipp Lienhart",
+          "position": "DF",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        },
+        {
+          "id": "v07:daeee193da2a81b900dc",
+          "name": "Igor Matanovic",
+          "position": "FW",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        },
+        {
+          "id": "v07:a7c9128c03420f081c53",
+          "name": "Yuito Suzuki",
+          "position": "MF",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        },
+        {
+          "id": "v07:a37536fcc1cab40ef635",
+          "name": "Johan Manzambi",
+          "position": "MF",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        }
+      ]
+    },
+    {
+      "id": "verified:GER_1:14",
+      "league_id": "GER_1",
+      "name": "SV Werder Bremen",
+      "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)",
+      "players": [
+        {
+          "id": "v07:e34b8f5f164be1f0b28d",
+          "name": "Romano Schmid",
+          "position": "MF",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        },
+        {
+          "id": "v07:e2802d06c2e976af41a7",
+          "name": "Marco Friedl",
+          "position": "DF",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        },
+        {
+          "id": "v07:1adf15a28c9b401a410d",
+          "name": "Yukinari Sugawara",
+          "position": "DF",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        }
+      ]
+    },
+    {
+      "id": "verified:GER_1:10",
+      "league_id": "GER_1",
+      "name": "1. FC Union Berlin",
+      "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)",
+      "players": [
+        {
+          "id": "v07:2adf226cb7a9c8adf674",
+          "name": "Rani Khedira",
+          "position": "MF",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        }
+      ]
+    },
+    {
+      "id": "verified:GER_1:12",
+      "league_id": "GER_1",
+      "name": "Hamburger SV",
+      "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)",
+      "players": [
+        {
+          "id": "v07:00356142f6ae61758e79",
+          "name": "Luka Vuskovic",
+          "position": "DF",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        },
+        {
+          "id": "v07:571869503f819e6958cd",
+          "name": "Sander Tangvik",
+          "position": "GK",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        },
+        {
+          "id": "v07:fba08ec47d5233463d40",
+          "name": "Miro Muheim",
+          "position": "DF",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        }
+      ]
+    },
+    {
+      "id": "verified:GER_1:15",
+      "league_id": "GER_1",
+      "name": "FC Schalke 04",
+      "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)",
+      "players": [
+        {
+          "id": "v07:48e6b299789f04cc80e3",
+          "name": "Edin Dzeko",
+          "position": "FW",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        },
+        {
+          "id": "v07:9af7a39297a83d010db6",
+          "name": "Nikola Katic",
+          "position": "DF",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        }
+      ]
+    },
+    {
+      "id": "verified:GER_1:02",
+      "league_id": "GER_1",
+      "name": "RB Leipzig",
+      "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)",
+      "players": [
+        {
+          "id": "v07:aa9b67dfa6065ecb87e2",
+          "name": "Christoph Baumgartner",
+          "position": "MF",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        }
+      ]
+    },
+    {
+      "id": "verified:GER_1:09",
+      "league_id": "GER_1",
+      "name": "1. FSV Mainz 05",
+      "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)",
+      "players": [
+        {
+          "id": "v07:80849e144d9ca2b4b6ac",
+          "name": "Phillip Mwene",
+          "position": "DF",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        }
+      ]
+    },
+    {
+      "id": "verified:GER_1:07",
+      "league_id": "GER_1",
+      "name": "Eintracht Frankfurt",
+      "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)",
+      "players": [
+        {
+          "id": "v07:20a13dd76aafbadae6a8",
+          "name": "Ayoube Amaimouni",
+          "position": "FW",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        }
+      ]
+    },
+    {
+      "id": "verified:ITA_1:13",
+      "league_id": "ITA_1",
+      "name": "Napoli",
+      "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)",
+      "players": [
+        {
+          "id": "v07:7ae36101310c6ffbad01",
+          "name": "Kevin De Bruyne",
+          "position": "MF",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        },
+        {
+          "id": "v07:1ee613c388270b211089",
+          "name": "Romelu Lukaku",
+          "position": "FW",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        },
+        {
+          "id": "v07:f79c675a11422077c19f",
+          "name": "Scott McTominay",
+          "position": "MF",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        },
+        {
+          "id": "v07:e7fec2c97475501da179",
+          "name": "Mathias Olivera",
+          "position": "DF",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        }
+      ]
+    },
+    {
+      "id": "verified:ITA_1:14",
+      "league_id": "ITA_1",
+      "name": "Parma",
+      "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)",
+      "players": [
+        {
+          "id": "v07:e9ddf28733eeb0fd543d",
+          "name": "Alessandro Circati",
+          "position": "DF",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        }
+      ]
+    },
+    {
+      "id": "verified:ITA_1:16",
+      "league_id": "ITA_1",
+      "name": "Sassuolo",
+      "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)",
+      "players": [
+        {
+          "id": "v07:283e0fe44316540a7597",
+          "name": "Cristian Volpato",
+          "position": "FW",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        },
+        {
+          "id": "v07:a6ce162a3945a6a9be9c",
+          "name": "Tarik Muharemovic",
+          "position": "DF",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        },
+        {
+          "id": "v07:64dc717f25af86af61ba",
+          "name": "Ismael Kone",
+          "position": "MF",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        },
+        {
+          "id": "v07:0f04169412a325c70399",
+          "name": "Kristian Thorstvedt",
+          "position": "MF",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        }
+      ]
+    },
+    {
+      "id": "verified:ITA_1:03",
+      "league_id": "ITA_1",
+      "name": "Como",
+      "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)",
+      "players": [
+        {
+          "id": "v07:78a0e8f1d30e599623fd",
+          "name": "Nico Paz",
+          "position": "FW",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        },
+        {
+          "id": "v07:65f1fa95530bec73626c",
+          "name": "Martin Baturina",
+          "position": "MF",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        },
+        {
+          "id": "v07:3a3494bb9bc1bd17c42f",
+          "name": "Assane Diao",
+          "position": "FW",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        }
+      ]
+    },
+    {
+      "id": "verified:ITA_1:17",
+      "league_id": "ITA_1",
+      "name": "Torino",
+      "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)",
+      "players": [
+        {
+          "id": "v07:ca0619e5f85776fceeb3",
+          "name": "Nikola Vlasic",
+          "position": "MF",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        },
+        {
+          "id": "v07:d6f79743f5a06b8bd73f",
+          "name": "Marcus Holmgren Pedersen",
+          "position": "DF",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        },
+        {
+          "id": "v07:75dd1501edb032e0d366",
+          "name": "Che Adams",
+          "position": "FW",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        }
+      ]
+    },
+    {
+      "id": "verified:ITA_1:04",
+      "league_id": "ITA_1",
+      "name": "Fiorentina",
+      "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)",
+      "players": [
+        {
+          "id": "v07:9488234d9401642c3d59",
+          "name": "Marin Pongracic",
+          "position": "DF",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        }
+      ]
+    },
+    {
+      "id": "verified:ITA_1:02",
+      "league_id": "ITA_1",
+      "name": "Cagliari",
+      "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)",
+      "players": [
+        {
+          "id": "v07:c75a4c52566bea24abe2",
+          "name": "Yerry Mina",
+          "position": "DF",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        }
+      ]
+    },
+    {
+      "id": "verified:ITA_1:06",
+      "league_id": "ITA_1",
+      "name": "Genoa",
+      "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)",
+      "players": [
+        {
+          "id": "v07:87cd232c0ea37cb5ac20",
+          "name": "Johan Vasquez",
+          "position": "DF",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        },
+        {
+          "id": "v07:84cd0e61044c45814014",
+          "name": "Leo Ostigard",
+          "position": "DF",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        }
+      ]
+    },
+    {
+      "id": "verified:ITA_1:18",
+      "league_id": "ITA_1",
+      "name": "Udinese",
+      "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)",
+      "players": [
+        {
+          "id": "v07:de9a4fecb9134c58174c",
+          "name": "Jesper Karlstrom",
+          "position": "MF",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        }
+      ]
+    },
+    {
+      "id": "verified:ITA_1:05",
+      "league_id": "ITA_1",
+      "name": "Frosinone",
+      "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)",
+      "players": [
+        {
+          "id": "v07:3d6dc3ab1dbc56176846",
+          "name": "Fares Ghedjemis",
+          "position": "FW",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        }
+      ]
+    },
+    {
+      "id": "verified:ITA_1:00",
+      "league_id": "ITA_1",
+      "name": "Atalanta",
+      "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)",
+      "players": [
+        {
+          "id": "v07:6f55a9d572264a75365e",
+          "name": "Ederson Silva",
+          "position": "MF",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        }
+      ]
+    },
+    {
+      "id": "verified:ITA_1:08",
+      "league_id": "ITA_1",
+      "name": "Juventus",
+      "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)",
+      "players": [
+        {
+          "id": "v07:5f6b080910d84f5a87d6",
+          "name": "Kenan Yildiz",
+          "position": "FW",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        }
+      ]
+    },
+    {
+      "id": "openfootball:f31e7fdf78271147",
+      "league_id": "FRA_1",
+      "name": "Olympique Lyonnais",
+      "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)",
+      "players": [
+        {
+          "id": "v07:df0b88e4b77b10d2191b",
+          "name": "Nicolas Tagliafico",
+          "position": "DF",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        },
+        {
+          "id": "v07:ff8e1d2505e211053247",
+          "name": "Pavel Sulc",
+          "position": "FW",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        },
+        {
+          "id": "v07:e40548b0bc83400aae26",
+          "name": "Ernest Nuamah",
+          "position": "FW",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        },
+        {
+          "id": "v07:fa210fb6c041f80d7274",
+          "name": "Moussa Niakhate",
+          "position": "DF",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        }
+      ]
+    },
+    {
+      "id": "openfootball:c3ff0877662635bb",
+      "league_id": "FRA_1",
+      "name": "Paris FC",
+      "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)",
+      "players": [
+        {
+          "id": "v07:91147da4935f0ac3cf80",
+          "name": "Samir Chergui",
+          "position": "DF",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        }
+      ]
+    },
+    {
+      "id": "openfootball:90f7bbf1bdd8870d",
+      "league_id": "FRA_1",
+      "name": "Racing Club de Lens",
+      "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)",
+      "players": [
+        {
+          "id": "v07:9ad531c63aba4671da8a",
+          "name": "Nidal Celik",
+          "position": "DF",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        },
+        {
+          "id": "v07:aa95cfca0ec07d492432",
+          "name": "Arthur Masuaku",
+          "position": "DF",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        },
+        {
+          "id": "v07:526afd46b1a5d38460a2",
+          "name": "Robin Risser",
+          "position": "GK",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        },
+        {
+          "id": "v07:1c6c3525efc6b2b85f79",
+          "name": "Saud Abdulhamid",
+          "position": "DF",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        }
+      ]
+    },
+    {
+      "id": "openfootball:9e6340687eb1c446",
+      "league_id": "FRA_1",
+      "name": "Stade Rennais FC 1901",
+      "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)",
+      "players": [
+        {
+          "id": "v07:7f354bc443375e559cd9",
+          "name": "Brice Samba",
+          "position": "GK",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        },
+        {
+          "id": "v07:cf9f53fd3d0e319f488b",
+          "name": "Alidu Seidu",
+          "position": "DF",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        },
+        {
+          "id": "v07:130251dfba17dc504107",
+          "name": "Mousa Altamari",
+          "position": "FW",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        },
+        {
+          "id": "v07:ca8d5aab3168885886fb",
+          "name": "Breel Embolo",
+          "position": "FW",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        }
+      ]
+    },
+    {
+      "id": "openfootball:56a0270d0c9292c8",
+      "league_id": "FRA_1",
+      "name": "AJ Auxerre",
+      "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)",
+      "players": [
+        {
+          "id": "v07:26b4fb44d9717aefe429",
+          "name": "Gideon Mensah",
+          "position": "DF",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        },
+        {
+          "id": "v07:29e6557ab2f6ad7e6707",
+          "name": "Elisha Owusu",
+          "position": "MF",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        },
+        {
+          "id": "v07:3ad3d72dda93fefbc031",
+          "name": "Marvin Senaya",
+          "position": "DF",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        },
+        {
+          "id": "v07:de44bc30b3af607bbca0",
+          "name": "Josue Casimir",
+          "position": "FW",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        }
+      ]
+    },
+    {
+      "id": "openfootball:43e2a9f058ac3505",
+      "league_id": "FRA_1",
+      "name": "FC Lorient",
+      "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)",
+      "players": [
+        {
+          "id": "v07:9080b302148cb184a920",
+          "name": "Bamba Dieng",
+          "position": "FW",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        },
+        {
+          "id": "v07:d510b343dd74abbd368c",
+          "name": "Yvon Mvogo",
+          "position": "GK",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        },
+        {
+          "id": "v07:ffd084454ad5c049ea9d",
+          "name": "Montassar Talbi",
+          "position": "DF",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        }
+      ]
+    },
+    {
+      "id": "openfootball:13fa9efa73ef2d1a",
+      "league_id": "FRA_1",
+      "name": "Le Havre AC",
+      "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)",
+      "players": [
+        {
+          "id": "v07:672c960ca5fc368e6dea",
+          "name": "Lionel Mpasi",
+          "position": "GK",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        },
+        {
+          "id": "v07:d6f6d5cf498a4833a7e0",
+          "name": "Ayumu Seko",
+          "position": "DF",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        },
+        {
+          "id": "v07:ef35342ab32bf4d27cb9",
+          "name": "Mory Diaw",
+          "position": "GK",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        }
+      ]
+    },
+    {
+      "id": "openfootball:40a6115c2520e0f9",
+      "league_id": "FRA_1",
+      "name": "Angers SCO",
+      "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)",
+      "players": [
+        {
+          "id": "v07:5eee9af1d93d14f4b5bc",
+          "name": "Carlens Arcus",
+          "position": "DF",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        }
+      ]
+    },
+    {
+      "id": "openfootball:b71919eb69c7a8a3",
+      "league_id": "FRA_1",
+      "name": "Toulouse FC",
+      "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)",
+      "players": [
+        {
+          "id": "v07:0928f415a7b02c33ee05",
+          "name": "Mark McKenzie",
+          "position": "DF",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        }
+      ]
+    },
+    {
+      "id": "openfootball:f45eba7a4440a458",
+      "league_id": "FRA_1",
+      "name": "Paris Saint-Germain FC",
+      "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)",
+      "players": [
+        {
+          "id": "v07:4049e7f7f6ec3e5e67fc",
+          "name": "Khalil Ayari",
+          "position": "MF",
+          "source": "https://github.com/matyuschenko/fifa-wc2026-players/blob/main/data/players.tsv (CC BY 4.0; team affiliations as reported 2026-09-10; not full squads)"
+        }
+      ]
+    }
+  ]
+}

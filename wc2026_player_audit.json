@@ -1,0 +1,570 @@
+{
+  "new_players": 366,
+  "existing_or_mismatched_names_skipped": [
+    {
+      "name": "Jérémy Doku",
+      "existing_club": "Manchester City",
+      "proposed_club": "Manchester City"
+    },
+    {
+      "name": "Josko Gvardiol",
+      "existing_club": "Manchester City",
+      "proposed_club": "Manchester City"
+    },
+    {
+      "name": "James Trafford",
+      "existing_club": "Leeds United",
+      "proposed_club": "Manchester City"
+    },
+    {
+      "name": "Rayan Cherki",
+      "existing_club": "Manchester City",
+      "proposed_club": "Manchester City"
+    },
+    {
+      "name": "Antoine Semenyo",
+      "existing_club": "Manchester City",
+      "proposed_club": "Manchester City"
+    },
+    {
+      "name": "Erling Haaland",
+      "existing_club": "Manchester City",
+      "proposed_club": "Manchester City"
+    },
+    {
+      "name": "Rúben Dias",
+      "existing_club": "Manchester City",
+      "proposed_club": "Manchester City"
+    },
+    {
+      "name": "Konrad Laimer",
+      "existing_club": "FC Bayern München",
+      "proposed_club": "FC Bayern München"
+    },
+    {
+      "name": "Alphonso Davies",
+      "existing_club": "FC Bayern München",
+      "proposed_club": "FC Bayern München"
+    },
+    {
+      "name": "Luis Díaz",
+      "existing_club": "FC Bayern München",
+      "proposed_club": "FC Bayern München"
+    },
+    {
+      "name": "Josip Stanisic",
+      "existing_club": "FC Bayern München",
+      "proposed_club": "FC Bayern München"
+    },
+    {
+      "name": "Harry Kane",
+      "existing_club": "FC Bayern München",
+      "proposed_club": "FC Bayern München"
+    },
+    {
+      "name": "Dayot Upamecano",
+      "existing_club": "FC Bayern München",
+      "proposed_club": "FC Bayern München"
+    },
+    {
+      "name": "Michael Olise",
+      "existing_club": "FC Bayern München",
+      "proposed_club": "FC Bayern München"
+    },
+    {
+      "name": "Manuel Neuer",
+      "existing_club": "FC Bayern München",
+      "proposed_club": "FC Bayern München"
+    },
+    {
+      "name": "Jonathan Tah",
+      "existing_club": "FC Bayern München",
+      "proposed_club": "FC Bayern München"
+    },
+    {
+      "name": "Jamal Musiala",
+      "existing_club": "FC Bayern München",
+      "proposed_club": "FC Bayern München"
+    },
+    {
+      "name": "Aleksandar Pavlovic",
+      "existing_club": "FC Bayern München",
+      "proposed_club": "FC Bayern München"
+    },
+    {
+      "name": "Joshua Kimmich",
+      "existing_club": "FC Bayern München",
+      "proposed_club": "FC Bayern München"
+    },
+    {
+      "name": "Leon Goretzka",
+      "existing_club": "Aston Villa",
+      "proposed_club": "FC Bayern München"
+    },
+    {
+      "name": "Hiroki Ito",
+      "existing_club": "FC Bayern München",
+      "proposed_club": "FC Bayern München"
+    },
+    {
+      "name": "Bara Sapoko Ndiaye",
+      "existing_club": "FC Bayern München",
+      "proposed_club": "FC Bayern München"
+    },
+    {
+      "name": "Declan Rice",
+      "existing_club": "Arsenal",
+      "proposed_club": "Arsenal"
+    },
+    {
+      "name": "Eberechi Eze",
+      "existing_club": "Arsenal",
+      "proposed_club": "Arsenal"
+    },
+    {
+      "name": "Bukayo Saka",
+      "existing_club": "Arsenal",
+      "proposed_club": "Arsenal"
+    },
+    {
+      "name": "Noni Madueke",
+      "existing_club": "Arsenal",
+      "proposed_club": "Arsenal"
+    },
+    {
+      "name": "William Saliba",
+      "existing_club": "Arsenal",
+      "proposed_club": "Arsenal"
+    },
+    {
+      "name": "Kai Havertz",
+      "existing_club": "Arsenal",
+      "proposed_club": "Arsenal"
+    },
+    {
+      "name": "David Raya",
+      "existing_club": "Arsenal",
+      "proposed_club": "Arsenal"
+    },
+    {
+      "name": "Martín Zubimendi",
+      "existing_club": "Arsenal",
+      "proposed_club": "Arsenal"
+    },
+    {
+      "name": "Ibrahim Mbaye",
+      "existing_club": "Aston Villa",
+      "proposed_club": "Paris Saint-Germain FC"
+    },
+    {
+      "name": "Raphinha",
+      "existing_club": "FC Barcelona",
+      "proposed_club": "FC Barcelona"
+    },
+    {
+      "name": "Marcus Rashford",
+      "existing_club": "Manchester United",
+      "proposed_club": "FC Barcelona"
+    },
+    {
+      "name": "Jules Koundé",
+      "existing_club": "FC Barcelona",
+      "proposed_club": "FC Barcelona"
+    },
+    {
+      "name": "Frenkie de Jong",
+      "existing_club": "FC Barcelona",
+      "proposed_club": "FC Barcelona"
+    },
+    {
+      "name": "João Cancelo",
+      "existing_club": "FC Barcelona",
+      "proposed_club": "FC Barcelona"
+    },
+    {
+      "name": "Joan García",
+      "existing_club": "FC Barcelona",
+      "proposed_club": "FC Barcelona"
+    },
+    {
+      "name": "Pau Cubarsí",
+      "existing_club": "FC Barcelona",
+      "proposed_club": "FC Barcelona"
+    },
+    {
+      "name": "Eric García",
+      "existing_club": "FC Barcelona",
+      "proposed_club": "FC Barcelona"
+    },
+    {
+      "name": "Pedri",
+      "existing_club": "FC Barcelona",
+      "proposed_club": "FC Barcelona"
+    },
+    {
+      "name": "Dani Olmo",
+      "existing_club": "FC Barcelona",
+      "proposed_club": "FC Barcelona"
+    },
+    {
+      "name": "Gavi",
+      "existing_club": "FC Barcelona",
+      "proposed_club": "FC Barcelona"
+    },
+    {
+      "name": "Lamine Yamal",
+      "existing_club": "FC Barcelona",
+      "proposed_club": "FC Barcelona"
+    },
+    {
+      "name": "Jefferson Lerma",
+      "existing_club": "Crystal Palace",
+      "proposed_club": "Crystal Palace"
+    },
+    {
+      "name": "Dean Henderson",
+      "existing_club": "Crystal Palace",
+      "proposed_club": "Crystal Palace"
+    },
+    {
+      "name": "Jean-Philippe Mateta",
+      "existing_club": "Crystal Palace",
+      "proposed_club": "Crystal Palace"
+    },
+    {
+      "name": "Ismaïla Sarr",
+      "existing_club": "Crystal Palace",
+      "proposed_club": "Crystal Palace"
+    },
+    {
+      "name": "Yéremy Pino",
+      "existing_club": "Crystal Palace",
+      "proposed_club": "Crystal Palace"
+    },
+    {
+      "name": "Chris Richards",
+      "existing_club": "Crystal Palace",
+      "proposed_club": "Crystal Palace"
+    },
+    {
+      "name": "Ramy Bensebaini",
+      "existing_club": "Borussia Dortmund",
+      "proposed_club": "Borussia Dortmund"
+    },
+    {
+      "name": "Carney Chukwuemeka",
+      "existing_club": "Borussia Dortmund",
+      "proposed_club": "Borussia Dortmund"
+    },
+    {
+      "name": "Marcel Sabitzer",
+      "existing_club": "Borussia Dortmund",
+      "proposed_club": "Borussia Dortmund"
+    },
+    {
+      "name": "Nico Schlotterbeck",
+      "existing_club": "Borussia Dortmund",
+      "proposed_club": "Borussia Dortmund"
+    },
+    {
+      "name": "Waldemar Anton",
+      "existing_club": "Borussia Dortmund",
+      "proposed_club": "Borussia Dortmund"
+    },
+    {
+      "name": "Felix Nmecha",
+      "existing_club": "Borussia Dortmund",
+      "proposed_club": "Borussia Dortmund"
+    },
+    {
+      "name": "Maximilian Beier",
+      "existing_club": "Borussia Dortmund",
+      "proposed_club": "Borussia Dortmund"
+    },
+    {
+      "name": "Julian Ryerson",
+      "existing_club": "Borussia Dortmund",
+      "proposed_club": "Borussia Dortmund"
+    },
+    {
+      "name": "Daniel Svensson",
+      "existing_club": "Borussia Dortmund",
+      "proposed_club": "Borussia Dortmund"
+    },
+    {
+      "name": "Gregor Kobel",
+      "existing_club": "Borussia Dortmund",
+      "proposed_club": "Borussia Dortmund"
+    },
+    {
+      "name": "Senne Lammens",
+      "existing_club": "Manchester United",
+      "proposed_club": "Manchester United"
+    },
+    {
+      "name": "Matheus Cunha",
+      "existing_club": "Manchester United",
+      "proposed_club": "Manchester United"
+    },
+    {
+      "name": "Kobbie Mainoo",
+      "existing_club": "Manchester United",
+      "proposed_club": "Manchester United"
+    },
+    {
+      "name": "Amad Diallo",
+      "existing_club": "Manchester United",
+      "proposed_club": "Manchester United"
+    },
+    {
+      "name": "Diogo Dalot",
+      "existing_club": "Manchester United",
+      "proposed_club": "Manchester United"
+    },
+    {
+      "name": "Bruno Fernandes",
+      "existing_club": "Manchester United",
+      "proposed_club": "Manchester United"
+    },
+    {
+      "name": "Alexis Mac Allister",
+      "existing_club": "Liverpool",
+      "proposed_club": "Liverpool"
+    },
+    {
+      "name": "Ibrahima Konaté",
+      "existing_club": "Real Madrid",
+      "proposed_club": "Liverpool"
+    },
+    {
+      "name": "Florian Wirtz",
+      "existing_club": "Liverpool",
+      "proposed_club": "Liverpool"
+    },
+    {
+      "name": "Virgil van Dijk",
+      "existing_club": "Liverpool",
+      "proposed_club": "Liverpool"
+    },
+    {
+      "name": "Ryan Gravenberch",
+      "existing_club": "Liverpool",
+      "proposed_club": "Liverpool"
+    },
+    {
+      "name": "Cody Gakpo",
+      "existing_club": "Liverpool",
+      "proposed_club": "Liverpool"
+    },
+    {
+      "name": "Alexander Isak",
+      "existing_club": "Liverpool",
+      "proposed_club": "Liverpool"
+    },
+    {
+      "name": "Thibaut Courtois",
+      "existing_club": "Real Madrid",
+      "proposed_club": "Real Madrid"
+    },
+    {
+      "name": "Vinicius Junior",
+      "existing_club": "Real Madrid",
+      "proposed_club": "Real Madrid"
+    },
+    {
+      "name": "Jude Bellingham",
+      "existing_club": "Real Madrid",
+      "proposed_club": "Real Madrid"
+    },
+    {
+      "name": "Aurélien Tchouaméni",
+      "existing_club": "Real Madrid",
+      "proposed_club": "Real Madrid"
+    },
+    {
+      "name": "Kylian Mbappé",
+      "existing_club": "Real Madrid",
+      "proposed_club": "Real Madrid"
+    },
+    {
+      "name": "Antonio Rüdiger",
+      "existing_club": "Real Madrid",
+      "proposed_club": "Real Madrid"
+    },
+    {
+      "name": "Brahim Díaz",
+      "existing_club": "Real Madrid",
+      "proposed_club": "Real Madrid"
+    },
+    {
+      "name": "Arda Güler",
+      "existing_club": "Real Madrid",
+      "proposed_club": "Real Madrid"
+    },
+    {
+      "name": "Federico Valverde",
+      "existing_club": "Real Madrid",
+      "proposed_club": "Real Madrid"
+    },
+    {
+      "name": "Ismael Saibari",
+      "existing_club": "FC Bayern München",
+      "proposed_club": "PSV"
+    },
+    {
+      "name": "Emiliano Martínez",
+      "existing_club": "Chelsea",
+      "proposed_club": "Aston Villa"
+    },
+    {
+      "name": "John McGinn",
+      "existing_club": "Aston Villa",
+      "proposed_club": "Aston Villa"
+    },
+    {
+      "name": "Wilson Isidor",
+      "existing_club": "Sunderland",
+      "proposed_club": "Sunderland"
+    },
+    {
+      "name": "Chemsdine Talbi",
+      "existing_club": "Sunderland",
+      "proposed_club": "Sunderland"
+    },
+    {
+      "name": "Robin Roefs",
+      "existing_club": "Sunderland",
+      "proposed_club": "Sunderland"
+    },
+    {
+      "name": "Brian Brobbey",
+      "existing_club": "Sunderland",
+      "proposed_club": "Sunderland"
+    },
+    {
+      "name": "Habib Diarra",
+      "existing_club": "Sunderland",
+      "proposed_club": "Sunderland"
+    },
+    {
+      "name": "Granit Xhaka",
+      "existing_club": "Sunderland",
+      "proposed_club": "Sunderland"
+    },
+    {
+      "name": "Nathaniel Brown",
+      "existing_club": "FC Bayern München",
+      "proposed_club": "Eintracht Frankfurt"
+    },
+    {
+      "name": "Pedro Porro",
+      "existing_club": "Tottenham Hotspur",
+      "proposed_club": "Tottenham Hotspur"
+    },
+    {
+      "name": "Lucas Bergvall",
+      "existing_club": "Tottenham Hotspur",
+      "proposed_club": "Tottenham Hotspur"
+    },
+    {
+      "name": "Enzo Fernández",
+      "existing_club": "Manchester City",
+      "proposed_club": "Chelsea"
+    },
+    {
+      "name": "Moisés Caicedo",
+      "existing_club": "Chelsea",
+      "proposed_club": "Chelsea"
+    },
+    {
+      "name": "Reece James",
+      "existing_club": "Chelsea",
+      "proposed_club": "Chelsea"
+    },
+    {
+      "name": "Malo Gusto",
+      "existing_club": "Chelsea",
+      "proposed_club": "Chelsea"
+    },
+    {
+      "name": "Pedro Neto",
+      "existing_club": "Chelsea",
+      "proposed_club": "Chelsea"
+    },
+    {
+      "name": "Marc Cucurella",
+      "existing_club": "Real Madrid",
+      "proposed_club": "Chelsea"
+    },
+    {
+      "name": "Yoane Wissa",
+      "existing_club": "Newcastle United",
+      "proposed_club": "Newcastle United"
+    },
+    {
+      "name": "Tino Livramento",
+      "existing_club": "Newcastle United",
+      "proposed_club": "Newcastle United"
+    },
+    {
+      "name": "Dan Burn",
+      "existing_club": "Newcastle United",
+      "proposed_club": "Newcastle United"
+    },
+    {
+      "name": "Anthony Gordon",
+      "existing_club": "FC Barcelona",
+      "proposed_club": "Newcastle United"
+    },
+    {
+      "name": "Anthony Elanga",
+      "existing_club": "Newcastle United",
+      "proposed_club": "Newcastle United"
+    },
+    {
+      "name": "Daizen Maeda",
+      "existing_club": "Ipswich Town",
+      "proposed_club": "Celtic FC"
+    },
+    {
+      "name": "Julio Enciso",
+      "existing_club": "Ipswich Town",
+      "proposed_club": "RC Strasbourg Alsace"
+    },
+    {
+      "name": "Denzel Dumfries",
+      "existing_club": "Real Madrid",
+      "proposed_club": "Inter"
+    },
+    {
+      "name": "Yan Diomande",
+      "existing_club": "Real Madrid",
+      "proposed_club": "RB Leipzig"
+    },
+    {
+      "name": "Sander Berge",
+      "existing_club": "Fulham",
+      "proposed_club": "Fulham"
+    },
+    {
+      "name": "Oscar Bobb",
+      "existing_club": "Fulham",
+      "proposed_club": "Fulham"
+    },
+    {
+      "name": "Antonee Robinson",
+      "existing_club": "Fulham",
+      "proposed_club": "Fulham"
+    },
+    {
+      "name": "Ibrahim Sangaré",
+      "existing_club": "Nottingham Forest",
+      "proposed_club": "Nottingham Forest"
+    },
+    {
+      "name": "Chris Wood",
+      "existing_club": "Nottingham Forest",
+      "proposed_club": "Nottingham Forest"
+    }
+  ]
+}

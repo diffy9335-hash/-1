@@ -1,0 +1,71 @@
+{
+  "build_date": "2026-11-15",
+  "totals": {
+    "clubs": 1453,
+    "players": 761,
+    "with_players": 96,
+    "countries": 35,
+    "leagues_with_clubs": 80,
+    "complete_leagues": 59,
+    "partial_leagues": 21,
+    "big_five_players": 636,
+    "big_five_clubs_with_players": 81
+  },
+  "big_five": [
+    {
+      "id": "ENG_1",
+      "country": "Англия",
+      "name": "Premier League",
+      "intended_clubs": 20,
+      "clubs": 20,
+      "players": 263,
+      "clubs_with_players": 20,
+      "new_source_players": 10,
+      "status": "complete"
+    },
+    {
+      "id": "ESP_1",
+      "country": "Испания",
+      "name": "La Liga",
+      "intended_clubs": 20,
+      "clubs": 20,
+      "players": 106,
+      "clubs_with_players": 15,
+      "new_source_players": 18,
+      "status": "complete"
+    },
+    {
+      "id": "FRA_1",
+      "country": "Франция",
+      "name": "Ligue 1",
+      "intended_clubs": 18,
+      "clubs": 18,
+      "players": 75,
+      "clubs_with_players": 15,
+      "new_source_players": 26,
+      "status": "complete"
+    },
+    {
+      "id": "GER_1",
+      "country": "Германия",
+      "name": "Bundesliga",
+      "intended_clubs": 18,
+      "clubs": 18,
+      "players": 129,
+      "clubs_with_players": 15,
+      "new_source_players": 20,
+      "status": "complete"
+    },
+    {
+      "id": "ITA_1",
+      "country": "Италия",
+      "name": "Serie A",
+      "intended_clubs": 20,
+      "clubs": 20,
+      "players": 63,
+      "clubs_with_players": 16,
+      "new_source_players": 23,
+      "status": "complete"
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "added": 525,
+  "league_details": {
+    "USA_2": {
+      "source": "https://www.uslchampionship.com/about",
+      "season": "2026",
+      "source_listed": 25,
+      "added": 25
+    },
+    "GER_3": {
+      "source": "https://github.com/openfootball/deutschland/blob/master/2025-26/3-liga3.txt",
+      "season": "2025/26",
+      "source_listed": 20,
+      "added": 20
+    },
+    "SCO_2": {
+      "source": "https://en.wikipedia.org/wiki/2025%E2%80%9326_Scottish_Championship",
+      "season": "2025/26",
+      "source_listed": 10,
+      "added": 10
+    },
+    "SCO_3": {
+      "source": "https://clublogin.spfl.co.uk/league/league-one/archive/393",
+      "season": "2025/26",
+      "source_listed": 10,
+      "added": 10
+    },
+    "JPN_2": {
+      "source": "https://www.jleague.jp/en/j2/standings/2025/",
+      "season": "2025",
+      "source_listed": 20,
+      "added": 20
+    },
+    "FRA_3": {
+      "source": "https://www.fff.fr/article/15064-championnats-2025-2026-les-groupes.html",
+      "season": "2025/26",
+      "source_listed": 18,
+      "added": 18
+    },
+    "BEL_2": {
+      "source": "https://www.transfermarkt.com/1b-pro-league/teilnehmer/pokalwettbewerb/BE2",
+      "season": "2025/26 subset 15 of 17",
+      "source_listed": 15,
+      "added": 15
+    },
+    "ESP_3": {
+      "source": "https://rfef.es/es/noticias/aprobados-los-grupos-de-primera-federacion-para-la-temporada-202526",
+      "season": "2025/26",
+      "source_listed": 40,
+      "added": 40
+    },
+    "ARG_2": {
+      "source": "https://www.ambito.com/deportes/se-sorteo-la-primera-nacional-2026-asi-quedaron-conformadas-las-dos-zonas-los-36-equipos-n6227323",
+      "season": "2026",
+      "source_listed": 36,
+      "added": 34
+    },
+    "TUR_2": {
+      "source": "https://www.tff.org/Default.aspx?hafta=36&pageID=1772",
+      "season": "2025/26",
+      "source_listed": 20,
+      "added": 20
+    },
+    "CHN_2": {
+      "source": "https://www.rsssf.org/tablesc/china2025.html",
+      "season": "2025",
+      "source_listed": 16,
+      "added": 16
+    },
+    "CRO_2": {
+      "source": "https://www.transfermarkt.nl/2-hnl/startseite/wettbewerb/KR2",
+      "season": "2025/26",
+      "source_listed": 12,
+      "added": 12
+    },
+    "SRB_2": {
+      "source": "https://en.wikipedia.org/wiki/2025%E2%80%9326_Serbian_First_League",
+      "season": "2025/26",
+      "source_listed": 16,
+      "added": 16
+    },
+    "NED_3": {
+      "source": "https://www.transfermarkt.com/tweede-divisie/startseite/wettbewerb/NTD/saison_id/2025",
+      "season": "2025/26",
+      "source_listed": 18,
+      "added": 18
+    },
+    "EGY_2": {
+      "source": "https://rsssf.org/tablese/egy2026.html",
+      "season": "2025/26",
+      "source_listed": 18,
+      "added": 18
+    },
+    "KSA_2": {
+      "source": "https://www.rsssf.org/tabless/sau2026.html",
+      "season": "2025/26",
+      "source_listed": 18,
+      "added": 15
+    },
+    "MAR_2": {
+      "source": "https://lnfp.ma/",
+      "season": "2026/27",
+      "source_listed": 16,
+      "added": 13
+    },
+    "UKR_2": {
+      "source": "https://www.rsssf.org/tableso/oekr2026.html",
+      "season": "2025/26",
+      "source_listed": 16,
+      "added": 12
+    },
+    "ITA_3": {
+      "source": "https://www.lega-pro.com/com/2526-42L.pdf",
+      "season": "2025/26",
+      "source_listed": 60,
+      "added": 60
+    },
+    "BEL_3": {
+      "source": "https://www.national-football-teams.com/app.php/leagues/20/2025/Belgium.html",
+      "season": "2025/26",
+      "source_listed": 28,
+      "added": 28
+    },
+    "COL_2": {
+      "source": "https://footballsoccerapi.com/our-football-api-data/colombia/primera-b/2025",
+      "season": "2025",
+      "source_listed": 16,
+      "added": 16
+    },
+    "RUS_3": {
+      "source": "https://www.rsssf.org/tablesr/rus2026.html",
+      "season": "2024/25",
+      "source_listed": 20,
+      "added": 14
+    },
+    "TUR_3": {
+      "source": "https://www.mus.gen.tr/spor/tff-2-ligde-gruplar-belli-oldu/",
+      "season": "2025/26 subset 36/37",
+      "source_listed": 36,
+      "added": 36
+    },
+    "GRE_2": {
+      "source": "https://www.rsssf.org/tablesg/grk2026.html",
+      "season": "2025/26",
+      "source_listed": 20,
+      "added": 20
+    },
+    "POR_3": {
+      "source": "https://www.transfermarkt.pt/liga-3/startseite/wettbewerb/PT3A/saison_id/2025",
+      "season": "2025/26",
+      "source_listed": 20,
+      "added": 19
+    }
+  },
+  "not_imported_duplicate_with_existing_country": {
+    "ARG_2": [
+      "Godoy Cruz",
+      "San Martín de San Juan"
+    ],
+    "KSA_2": [
+      "Al-Raed",
+      "Al-Orobah",
+      "Al-Wehda"
+    ],
+    "MAR_2": [
+      "Jeunesse Sportive de Soualem",
+      "Olympique Club de Safi",
+      "Sporting Club Chabab Mohammédia"
+    ],
+    "UKR_2": [
+      "Chornomorets Odesa",
+      "Livyi Bereh Kyiv",
+      "Inhulets Petrove",
+      "Vorskla Poltava"
+    ],
+    "RUS_3": [
+      "Leningradets",
+      "FC Chelyabinsk",
+      "Veles Moscow",
+      "Spartak Kostroma",
+      "Tekstilshchik Ivanovo",
+      "Volga Ulyanovsk"
+    ],
+    "POR_3": [
+      "CD Mafra"
+    ]
+  }
+}

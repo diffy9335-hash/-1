@@ -1,0 +1,393 @@
+{
+  "caveat": "Historical seasons can lack 2026/27 promoted/relegated clubs; do not treat as current squads.",
+  "sources": {
+    "FRA_1": {
+      "source": "https://github.com/openfootball/football.json/blob/master/2026-27/fr.1.json",
+      "season": "2026-27",
+      "listed": 18,
+      "added": 18,
+      "excluded_older_or_duplicate": []
+    },
+    "NED_1": {
+      "source": "https://github.com/openfootball/football.json/blob/master/2026-27/nl.1.json",
+      "season": "2026-27",
+      "listed": 18,
+      "added": 18,
+      "excluded_older_or_duplicate": []
+    },
+    "POR_1": {
+      "source": "https://github.com/openfootball/football.json/blob/master/2026-27/pt.1.json",
+      "season": "2026-27",
+      "listed": 18,
+      "added": 18,
+      "excluded_older_or_duplicate": []
+    },
+    "BRA_1": {
+      "source": "https://github.com/openfootball/football.json/blob/master/2026/br.1.json",
+      "season": "2026",
+      "listed": 20,
+      "added": 20,
+      "excluded_older_or_duplicate": []
+    },
+    "ENG_3": {
+      "source": "https://github.com/openfootball/football.json/blob/master/2025-26/en.3.json",
+      "season": "2025-26",
+      "listed": 24,
+      "added": 21,
+      "excluded_older_or_duplicate": [
+        "Bolton Wanderers",
+        "Cardiff City",
+        "Lincoln City"
+      ]
+    },
+    "ESP_2": {
+      "source": "https://github.com/openfootball/football.json/blob/master/2025-26/es.2.json",
+      "season": "2025-26",
+      "listed": 22,
+      "added": 20,
+      "excluded_older_or_duplicate": [
+        "Deportivo La Coruña",
+        "Málaga CF"
+      ]
+    },
+    "GER_2": {
+      "source": "https://github.com/openfootball/football.json/blob/master/2025-26/de.2.json",
+      "season": "2025-26",
+      "listed": 18,
+      "added": 15,
+      "excluded_older_or_duplicate": [
+        "FC Schalke 04",
+        "SC Paderborn 07",
+        "SV 07 Elversberg"
+      ]
+    },
+    "ITA_2": {
+      "source": "https://github.com/openfootball/football.json/blob/master/2025-26/it.2.json",
+      "season": "2025-26",
+      "listed": 20,
+      "added": 19,
+      "excluded_older_or_duplicate": [
+        "Frosinone Calcio"
+      ]
+    },
+    "FRA_2": {
+      "source": "https://github.com/openfootball/football.json/blob/master/2025-26/fr.2.json",
+      "season": "2025-26",
+      "listed": 18,
+      "added": 16,
+      "excluded_older_or_duplicate": [
+        "ESTAC Troyes",
+        "Le Mans FC"
+      ]
+    },
+    "AUT_1": {
+      "source": "https://github.com/openfootball/football.json/blob/master/2025-26/at.1.json",
+      "season": "2025-26",
+      "listed": 12,
+      "added": 12,
+      "excluded_older_or_duplicate": []
+    },
+    "AUT_2": {
+      "source": "https://github.com/openfootball/football.json/blob/master/2025-26/at.2.json",
+      "season": "2025-26",
+      "listed": 16,
+      "added": 16,
+      "excluded_older_or_duplicate": []
+    },
+    "BEL_1": {
+      "source": "https://github.com/openfootball/football.json/blob/master/2025-26/be.1.json",
+      "season": "2025-26",
+      "listed": 16,
+      "added": 16,
+      "excluded_older_or_duplicate": []
+    },
+    "GRE_1": {
+      "source": "https://github.com/openfootball/football.json/blob/master/2025-26/gr.1.json",
+      "season": "2025-26",
+      "listed": 14,
+      "added": 14,
+      "excluded_older_or_duplicate": []
+    },
+    "SCO_1": {
+      "source": "https://github.com/openfootball/football.json/blob/master/2025-26/sco.1.json",
+      "season": "2025-26",
+      "listed": 12,
+      "added": 12,
+      "excluded_older_or_duplicate": []
+    },
+    "TUR_1": {
+      "source": "https://github.com/openfootball/football.json/blob/master/2025-26/tr.1.json",
+      "season": "2025-26",
+      "listed": 18,
+      "added": 18,
+      "excluded_older_or_duplicate": []
+    },
+    "ARG_1": {
+      "source": "https://github.com/openfootball/football.json/blob/master/2025/ar.1.json",
+      "season": "2025",
+      "listed": 30,
+      "added": 30,
+      "excluded_older_or_duplicate": []
+    },
+    "BRA_2": {
+      "source": "https://github.com/openfootball/football.json/blob/master/2025/br.2.json",
+      "season": "2025",
+      "listed": 20,
+      "added": 16,
+      "excluded_older_or_duplicate": [
+        "Athletico Paranaense",
+        "Chapecoense",
+        "Coritiba PR",
+        "Remo PA"
+      ]
+    },
+    "CHN_1": {
+      "source": "https://github.com/openfootball/football.json/blob/master/2025/cn.1.json",
+      "season": "2025",
+      "listed": 16,
+      "added": 16,
+      "excluded_older_or_duplicate": []
+    },
+    "COL_1": {
+      "source": "https://github.com/openfootball/football.json/blob/master/2025/co.1.json",
+      "season": "2025",
+      "listed": 20,
+      "added": 20,
+      "excluded_older_or_duplicate": []
+    },
+    "JPN_1": {
+      "source": "https://github.com/openfootball/football.json/blob/master/2025/jp.1.json",
+      "season": "2025",
+      "listed": 20,
+      "added": 20,
+      "excluded_older_or_duplicate": []
+    },
+    "USA_1": {
+      "source": "https://github.com/openfootball/football.json/blob/master/2025/mls.json",
+      "season": "2025",
+      "listed": 30,
+      "added": 30,
+      "excluded_older_or_duplicate": []
+    },
+    "EGY_1": {
+      "source": "https://github.com/openfootball/football.json/blob/master/2024-25/eg.1.json",
+      "season": "2024-25",
+      "listed": 18,
+      "added": 18,
+      "excluded_older_or_duplicate": []
+    },
+    "MAR_1": {
+      "source": "https://github.com/openfootball/football.json/blob/master/2024-25/ma.1.json",
+      "season": "2024-25",
+      "listed": 16,
+      "added": 16,
+      "excluded_older_or_duplicate": []
+    },
+    "MEX_1": {
+      "source": "https://github.com/openfootball/football.json/blob/master/2024-25/mx.1.json",
+      "season": "2024-25",
+      "listed": 18,
+      "added": 18,
+      "excluded_older_or_duplicate": []
+    },
+    "CZE_1": {
+      "source": "https://github.com/openfootball/europe/blob/master/czech-republic/2026-27_cz1.txt",
+      "season": "2026-27",
+      "listed": 16,
+      "added": 16,
+      "excluded_older_or_duplicate": []
+    },
+    "CZE_2": {
+      "source": "https://github.com/openfootball/europe/blob/master/czech-republic/2024-25_cz2.txt",
+      "season": "2024-25",
+      "listed": 16,
+      "added": 15,
+      "excluded_older_or_duplicate": [
+        "Zbrojovka Brno"
+      ]
+    },
+    "DEN_1": {
+      "source": "https://github.com/openfootball/europe/blob/master/denmark/2024-25_dk1.txt",
+      "season": "2024-25",
+      "listed": 12,
+      "added": 12,
+      "excluded_older_or_duplicate": []
+    },
+    "DEN_2": {
+      "source": "https://github.com/openfootball/europe/blob/master/denmark/2024-25_dk2.txt",
+      "season": "2024-25",
+      "listed": 12,
+      "added": 12,
+      "excluded_older_or_duplicate": []
+    },
+    "NOR_1": {
+      "source": "https://github.com/openfootball/europe/blob/master/norway/2025_no1.txt",
+      "season": "2025",
+      "listed": 16,
+      "added": 16,
+      "excluded_older_or_duplicate": []
+    },
+    "NOR_2": {
+      "source": "https://github.com/openfootball/europe/blob/master/norway/2025_no2.txt",
+      "season": "2025",
+      "listed": 16,
+      "added": 16,
+      "excluded_older_or_duplicate": []
+    },
+    "POL_1": {
+      "source": "https://github.com/openfootball/europe/blob/master/poland/2024-25_pl1.txt",
+      "season": "2024-25",
+      "listed": 18,
+      "added": 18,
+      "excluded_older_or_duplicate": []
+    },
+    "POL_2": {
+      "source": "https://github.com/openfootball/europe/blob/master/poland/2024-25_pl2.txt",
+      "season": "2024-25",
+      "listed": 18,
+      "added": 18,
+      "excluded_older_or_duplicate": []
+    },
+    "SWE_1": {
+      "source": "https://github.com/openfootball/europe/blob/master/sweden/2025_se1.txt",
+      "season": "2025",
+      "listed": 16,
+      "added": 16,
+      "excluded_older_or_duplicate": []
+    },
+    "SWE_2": {
+      "source": "https://github.com/openfootball/europe/blob/master/sweden/2025_se2.txt",
+      "season": "2025",
+      "listed": 16,
+      "added": 16,
+      "excluded_older_or_duplicate": []
+    },
+    "SUI_1": {
+      "source": "https://github.com/openfootball/europe/blob/master/switzerland/2026-27_ch1.txt",
+      "season": "2026-27",
+      "listed": 12,
+      "added": 12,
+      "excluded_older_or_duplicate": []
+    },
+    "SUI_2": {
+      "source": "https://github.com/openfootball/europe/blob/master/switzerland/2024-25_ch2.txt",
+      "season": "2024-25",
+      "listed": 10,
+      "added": 8,
+      "excluded_older_or_duplicate": [
+        "FC Thun Berner Oberland",
+        "FC Vaduz"
+      ]
+    },
+    "CRO_1": {
+      "source": "https://github.com/openfootball/europe/blob/master/croatia/2024-25_hr1.txt",
+      "season": "2024-25",
+      "listed": 10,
+      "added": 10,
+      "excluded_older_or_duplicate": []
+    },
+    "SRB_1": {
+      "source": "https://www.globalscorex.com/football/league/serbian-superliga",
+      "season": "2026-27",
+      "listed": 14,
+      "added": 14,
+      "excluded_older_or_duplicate": []
+    },
+    "UKR_1": {
+      "source": "https://github.com/openfootball/europe/blob/master/ukraine/2024-25_ua1.txt",
+      "season": "2024-25",
+      "listed": 16,
+      "added": 16,
+      "excluded_older_or_duplicate": []
+    },
+    "RUS_1": {
+      "source": "https://github.com/openfootball/europe/blob/master/russia/2024-25_ru1.txt",
+      "season": "2024-25",
+      "listed": 16,
+      "added": 16,
+      "excluded_older_or_duplicate": []
+    },
+    "NED_2": {
+      "source": "https://github.com/openfootball/europe/blob/master/netherlands/2024-25_nl2.txt",
+      "season": "2024-25",
+      "listed": 20,
+      "added": 17,
+      "excluded_older_or_duplicate": [
+        "ADO Den Haag",
+        "SBV Excelsior",
+        "Telstar"
+      ]
+    },
+    "POR_2": {
+      "source": "https://github.com/openfootball/europe/blob/master/portugal/2024-25_pt2.txt",
+      "season": "2024-25",
+      "listed": 18,
+      "added": 15,
+      "excluded_older_or_duplicate": [
+        "Académico de Viseu",
+        "CS Marítimo",
+        "FC Alverca"
+      ]
+    },
+    "KSA_1": {
+      "source": "https://github.com/openfootball/world/blob/master/middle-east/saudi-arabia/2024-25_sa1.txt",
+      "season": "2024-25",
+      "listed": 18,
+      "added": 18,
+      "excluded_older_or_duplicate": []
+    },
+    "URU_1": {
+      "source": "https://www.montevideo.com.uy/Deportes/Se-sorteo-la-Copa-AUF-Uruguay-2026-mira-como-quedaron-conformados-los-seis-grupos-uc971527",
+      "season": "2026",
+      "listed": 16,
+      "added": 16,
+      "excluded_older_or_duplicate": []
+    },
+    "CHI_1": {
+      "source": "https://www.emol.com/especiales/2026/deportes/liga-de-primera/equipos.asp",
+      "season": "2026",
+      "listed": 16,
+      "added": 16,
+      "excluded_older_or_duplicate": []
+    },
+    "KOR_1": {
+      "source": "https://en.wikipedia.org/wiki/2026_K_League_1",
+      "season": "2026",
+      "listed": 12,
+      "added": 12,
+      "excluded_older_or_duplicate": []
+    },
+    "URU_2": {
+      "source": "https://auf.org.uy/se-sorteo-el-fixture-de-la-segunda-division-profesional-2026/",
+      "season": "2026",
+      "listed": 14,
+      "added": 14,
+      "excluded_older_or_duplicate": []
+    },
+    "KOR_2": {
+      "source": "https://en.wikipedia.org/wiki/2026_K_League_2",
+      "season": "2026",
+      "listed": 17,
+      "added": 17,
+      "excluded_older_or_duplicate": []
+    },
+    "CHI_2": {
+      "source": "https://chile.as.com/futbol/tabla-de-posiciones-de-la-primera-b-tras-nuevo-fallo-de-san-marcos-y-programacion-de-la-fecha-30-f202611-n/",
+      "season": "2026",
+      "listed": 16,
+      "added": 16,
+      "excluded_older_or_duplicate": []
+    },
+    "RUS_2": {
+      "source": "https://sportalic.com/tables/russia/first-league",
+      "season": "2026-27",
+      "listed": 18,
+      "added": 17,
+      "excluded_older_or_duplicate": [
+        "Nizhny Novgorod"
+      ]
+    }
+  },
+  "new_clubs": 826,
+  "league_source_count": 50
+}

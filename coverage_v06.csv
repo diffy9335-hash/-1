@@ -1,0 +1,81 @@
+﻿id,country,name,tier,intended_clubs,imported,rostered_clubs,named_players,status,source_season
+ARG_1,Аргентина,Primera División,1,30,30,0,0,complete,2025
+ARG_2,Аргентина,Primera Nacional (2 зоны),2,36,34,0,0,partial,2026
+AUT_1,Австрия,Austrian Bundesliga,1,12,12,0,0,complete,2025-26
+AUT_2,Австрия,2. Liga,2,16,16,0,0,complete,2025-26
+BEL_1,Бельгия,Jupiler Pro League,1,18,16,1,5,partial,2025-26
+BEL_2,Бельгия,Challenger Pro League,2,15,15,0,0,complete,2025/26 subset 15 of 17
+BEL_3,Бельгия,Nationale 1 (VV + ACFF),3,29,28,0,0,partial,2025/26
+BRA_1,Бразилия,Brasileirão Série A,1,20,20,1,9,complete,2026
+BRA_2,Бразилия,Brasileirão Série B,2,20,16,0,0,partial,2025
+CHI_1,Чили,Primera División,1,16,16,0,0,complete,2026
+CHI_2,Чили,Primera B,2,16,16,0,0,complete,2026
+CHN_1,Китай,Chinese Super League,1,16,16,0,0,complete,2025
+CHN_2,Китай,China League One,2,16,16,0,0,complete,2025
+COL_1,Колумбия,Categoría Primera A,1,20,20,0,0,complete,2025
+COL_2,Колумбия,Categoría Primera B,2,16,16,0,0,complete,2025
+CRO_1,Хорватия,HNL,1,10,10,0,0,complete,2024-25
+CRO_2,Хорватия,Prva NL,2,12,12,0,0,complete,2025/26
+CZE_1,Чехия,Czech First League,1,16,16,1,10,complete,2026-27
+CZE_2,Чехия,Czech National Football League,2,16,15,0,0,partial,2024-25
+DEN_1,Дания,Danish Superliga,1,12,12,0,0,complete,2024-25
+DEN_2,Дания,Danish 1st Division,2,12,12,0,0,complete,2024-25
+EGY_1,Египет,Egyptian Premier League,1,20,18,2,14,partial,2024-25
+EGY_2,Египет,Egyptian Second Division A,2,20,18,0,0,partial,2025/26
+ENG_1,Англия,Premier League,1,20,20,19,253,complete,2026/27
+ENG_2,Англия,EFL Championship,2,24,24,0,0,complete,2026/27
+ENG_3,Англия,EFL League One,3,24,21,0,0,partial,2025-26
+ESP_1,Испания,La Liga,1,20,20,6,88,complete,2026/27
+ESP_2,Испания,La Liga 2,2,22,20,0,0,partial,2025-26
+ESP_3,Испания,Primera Federación (2 группы),3,40,40,0,0,complete,2025/26
+FRA_1,Франция,Ligue 1,1,18,18,6,49,complete,2026-27
+FRA_2,Франция,Ligue 2,2,18,16,0,0,partial,2025-26
+FRA_3,Франция,Championnat National,3,18,18,0,0,complete,2025/26
+GER_1,Германия,Bundesliga,1,18,18,9,109,complete,2026/27
+GER_2,Германия,2. Bundesliga,2,18,15,0,0,partial,2025-26
+GER_3,Германия,3. Liga,3,20,20,0,0,complete,2025/26
+GRE_1,Греция,Super League Greece,1,14,14,0,0,complete,2025-26
+GRE_2,Греция,Super League 2,2,20,20,0,0,complete,2025/26
+ITA_1,Италия,Serie A,1,20,20,6,40,complete,2026/27
+ITA_2,Италия,Serie B,2,20,19,0,0,partial,2025-26
+ITA_3,Италия,Serie C (3 группы),3,60,60,0,0,complete,2025/26
+JPN_1,Япония,J1 League,1,20,20,0,0,complete,2025
+JPN_2,Япония,J2 League,2,20,20,0,0,complete,2025
+KOR_1,Южная Корея,K League 1,1,12,12,0,0,complete,2026
+KOR_2,Южная Корея,K League 2,2,17,17,0,0,complete,2026
+KSA_1,Саудовская Аравия,Saudi Pro League,1,18,18,3,30,complete,2024-25
+KSA_2,Саудовская Аравия,Saudi First Division League,2,18,15,0,0,partial,2025/26
+MAR_1,Марокко,Botola Pro,1,16,16,0,0,complete,2024-25
+MAR_2,Марокко,Botola 2,2,16,13,0,0,partial,2026/27
+MEX_1,Мексика,Liga MX,1,18,18,0,0,complete,2024-25
+NED_1,Нидерланды,Eredivisie,1,18,18,1,9,complete,2026-27
+NED_2,Нидерланды,Eerste Divisie,2,20,17,0,0,partial,2024-25
+NED_3,Нидерланды,Tweede Divisie,3,18,18,0,0,complete,2025/26
+NOR_1,Норвегия,Eliteserien,1,16,16,0,0,complete,2025
+NOR_2,Норвегия,OBOS-ligaen,2,16,16,0,0,complete,2025
+POL_1,Польша,Ekstraklasa,1,18,18,0,0,complete,2024-25
+POL_2,Польша,I liga,2,18,18,0,0,complete,2024-25
+POR_1,Португалия,Primeira Liga,1,18,18,2,15,complete,2026-27
+POR_2,Португалия,Liga Portugal 2,2,18,15,0,0,partial,2024-25
+POR_3,Португалия,Liga 3 (2 группы),3,20,19,0,0,partial,2025/26
+RUS_1,Россия,Российская Премьер-Лига,1,16,16,0,0,complete,2024-25
+RUS_2,Россия,Первая лига,2,18,17,0,0,partial,2026-27
+RUS_3,Россия,Вторая лига А (2 группы),3,20,14,0,0,partial,2024/25
+SCO_1,Шотландия,Scottish Premiership,1,12,12,2,12,complete,2025-26
+SCO_2,Шотландия,Scottish Championship,2,10,10,0,0,complete,2025/26
+SCO_3,Шотландия,Scottish League One,3,10,10,0,0,complete,2025/26
+SRB_1,Сербия,Serbian SuperLiga,1,14,14,0,0,complete,2026-27
+SRB_2,Сербия,Serbian First League,2,16,16,0,0,complete,2025/26
+SUI_1,Швейцария,Swiss Super League,1,12,12,0,0,complete,2026-27
+SUI_2,Швейцария,Challenge League,2,10,8,0,0,partial,2024-25
+SWE_1,Швеция,Allsvenskan,1,16,16,0,0,complete,2025
+SWE_2,Швеция,Superettan,2,16,16,0,0,complete,2025
+TUR_1,Турция,Süper Lig,1,18,18,2,21,complete,2025-26
+TUR_2,Турция,TFF 1. Lig,2,20,20,0,0,complete,2025/26
+TUR_3,Турция,TFF 2. Lig (2 группы),3,36,36,0,0,complete,2025/26 subset 36/37
+UKR_1,Украина,Украинская Премьер-лига,1,16,16,0,0,complete,2024-25
+UKR_2,Украина,Первая лига Украины,2,16,12,0,0,partial,2025/26
+URU_1,Уругвай,Primera División,1,16,16,0,0,complete,2026
+URU_2,Уругвай,Segunda División Profesional,2,14,14,0,0,complete,2026
+USA_1,США,Major League Soccer (MLS),1,30,30,0,0,complete,2025
+USA_2,США,USL Championship,2,25,25,0,0,complete,2026
